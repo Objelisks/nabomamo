@@ -149,7 +149,7 @@ canvas.pngStream().pipe(fs.createWriteStream('./out.png'));
 client.post('media/upload', {media: canvas.toBuffer()}, (error, media, res) => {
     if(!error) {
         let status = {
-            status: 'hello from pokemon',
+            status: '',
             media_ids: media.media_id_string
         };
 
