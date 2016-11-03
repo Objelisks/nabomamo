@@ -1,0 +1,17 @@
+{
+  "name": "2_pkmn_bonsai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "canvas": "^1.6.2",
+    "noisejs": "^2.1.0",
+    "twitter": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
