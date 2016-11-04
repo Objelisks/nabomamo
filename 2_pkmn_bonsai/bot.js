@@ -39,7 +39,7 @@ let no = 9;
 // 0, 38, 76, 114, 152, 190, 228, 266, 304, 342, 380
 //                    0    1    2    3    4    5    6    7    8    9   10   11   12   13   14   15
 let cliffTiles =    [no,  no,  no, 152,  no, 115,  76, 114,  no, 154, 115, 153,  78, 116,  77, 115,
-                     77,  77,  77, 192,  no, 116,  76, 190, 114, 154, 115, 153,  78, 116,  77, 115];
+                     77,  77,  77, 192, 192, 116,  76, 190, 114, 190, 115, 153,  78, 116,  77, 115];
 let cliffTilesAlt = [no, 154, 152, 153,  76, 115, 114, 190,  78, 116, 115, 192,  77, 115, 115, 115];
 let cliffTilesAlt2 =[115, 153, 114, 190,  77,  no,  no,  no, 116, 192,  no,  no,  no,  no,  no,  no];
 let ledgeTiles = [];
@@ -145,7 +145,7 @@ grid.forEach(tile => {
 });
 
 canvas.pngStream().pipe(fs.createWriteStream('./out.png'));
-
+return;
 client.post('media/upload', {media: canvas.toBuffer()}, (error, media, res) => {
     if(!error) {
         let status = {
