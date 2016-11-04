@@ -144,8 +144,8 @@ grid.forEach(tile => {
     ctx.drawImage(tiles, src.x, src.y, tileWidth, tileHeight, tile.x*tileWidth, tile.y*tileHeight, tileWidth, tileHeight);
 });
 
-canvas.pngStream().pipe(fs.createWriteStream('./out.png'));
-return;
+//canvas.pngStream().pipe(fs.createWriteStream('./out.png'));
+
 client.post('media/upload', {media: canvas.toBuffer()}, (error, media, res) => {
     if(!error) {
         let status = {
