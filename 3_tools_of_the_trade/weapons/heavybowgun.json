@@ -1,0 +1,482 @@
+[
+    {
+        "id": 426,
+        "name": "Petrified Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/petrified-cannon",
+        "image": "hbg73"
+    },
+    {
+        "id": 440,
+        "name": "Arbalest",
+        "url": "http://mhgen.kiranico.com/heavybowgun/arbalest",
+        "image": "hbg104"
+    },
+    {
+        "id": 456,
+        "name": "Bone Shooter",
+        "url": "http://mhgen.kiranico.com/heavybowgun/bone-shooter",
+        "image": "hbg1"
+    },
+    {
+        "id": 448,
+        "name": "Injector Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/injector-cannon",
+        "image": "hbg113"
+    },
+    {
+        "id": 438,
+        "name": "Sand Diver",
+        "url": "http://mhgen.kiranico.com/heavybowgun/sand-diver",
+        "image": "hbg115"
+    },
+    {
+        "id": 434,
+        "name": "Anteka Burst",
+        "url": "http://mhgen.kiranico.com/heavybowgun/anteka-burst",
+        "image": "hbg94"
+    },
+    {
+        "id": 462,
+        "name": "Marino Burst",
+        "url": "http://mhgen.kiranico.com/heavybowgun/marino-burst",
+        "image": "hbg93"
+    },
+    {
+        "id": 487,
+        "name": "Yukumo Bowgun",
+        "url": "http://mhgen.kiranico.com/heavybowgun/yukumo-bowgun",
+        "image": "hbg109"
+    },
+    {
+        "id": 450,
+        "name": "Meteor Bazooka",
+        "url": "http://mhgen.kiranico.com/heavybowgun/meteor-bazooka",
+        "image": "hbg105"
+    },
+    {
+        "id": 442,
+        "name": "Yian Kut-Ku Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/yian-kut-ku-cannon",
+        "image": "hbg116"
+    },
+    {
+        "id": 432,
+        "name": "Spheniscine Slayer",
+        "url": "http://mhgen.kiranico.com/heavybowgun/spheniscine-slayer",
+        "image": "hbg118"
+    },
+    {
+        "id": 445,
+        "name": "Tankmage",
+        "url": "http://mhgen.kiranico.com/heavybowgun/tankmage",
+        "image": "hbg117"
+    },
+    {
+        "id": 430,
+        "name": "Crab Buster",
+        "url": "http://mhgen.kiranico.com/heavybowgun/crab-buster",
+        "image": "hbg59"
+    },
+    {
+        "id": 436,
+        "name": "Carom Shot",
+        "url": "http://mhgen.kiranico.com/heavybowgun/carom-shot",
+        "image": "hbg95"
+    },
+    {
+        "id": 444,
+        "name": "Binary Blaster",
+        "url": "http://mhgen.kiranico.com/heavybowgun/binary-blaster",
+        "image": "hbg75"
+    },
+    {
+        "id": 459,
+        "name": "Type 46 Gunflage",
+        "url": "http://mhgen.kiranico.com/heavybowgun/type-46-gunflage",
+        "image": "hbg119"
+    },
+    {
+        "id": 446,
+        "name": "Icethrower",
+        "url": "http://mhgen.kiranico.com/heavybowgun/icethrower",
+        "image": "hbg123"
+    },
+    {
+        "id": 453,
+        "name": "Bite Blaster",
+        "url": "http://mhgen.kiranico.com/heavybowgun/bite-blaster",
+        "image": "hbg23"
+    },
+    {
+        "id": 433,
+        "name": "Hidden Gambit",
+        "url": "http://mhgen.kiranico.com/heavybowgun/hidden-gambit",
+        "image": "hbg121"
+    },
+    {
+        "id": 484,
+        "name": "Moofire Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/moofire-cannon",
+        "image": "hbg100"
+    },
+    {
+        "id": 493,
+        "name": "Lunastra's Zeal",
+        "url": "http://mhgen.kiranico.com/heavybowgun/lunastras-zeal",
+        "image": "hbg102"
+    },
+    {
+        "id": 492,
+        "name": "Felyne Bowgun",
+        "url": "http://mhgen.kiranico.com/heavybowgun/felyne-bowgun",
+        "image": "hbg101"
+    },
+    {
+        "id": 428,
+        "name": "Obsidian Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/obsidian-cannon",
+        "image": "hbg74"
+    },
+    {
+        "id": 443,
+        "name": "Raven Heirloom",
+        "url": "http://mhgen.kiranico.com/heavybowgun/raven-heirloom",
+        "image": "hbg124"
+    },
+    {
+        "id": 460,
+        "name": "Lagia Blitz",
+        "url": "http://mhgen.kiranico.com/heavybowgun/lagia-blitz",
+        "image": "hbg125"
+    },
+    {
+        "id": 461,
+        "name": "Usurper's Tremor",
+        "url": "http://mhgen.kiranico.com/heavybowgun/usurpers-tremor",
+        "image": "hbg126"
+    },
+    {
+        "id": 469,
+        "name": "Cirrus Blaster",
+        "url": "http://mhgen.kiranico.com/heavybowgun/cirrus-blaster",
+        "image": "hbg81"
+    },
+    {
+        "id": 467,
+        "name": "Wyvern Blaster",
+        "url": "http://mhgen.kiranico.com/heavybowgun/wyvern-blaster",
+        "image": "hbg79"
+    },
+    {
+        "id": 468,
+        "name": "Giant's Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/giants-cannon",
+        "image": "hbg80"
+    },
+    {
+        "id": 470,
+        "name": "Burning Igna",
+        "url": "http://mhgen.kiranico.com/heavybowgun/burning-igna",
+        "image": "hbg76"
+    },
+    {
+        "id": 454,
+        "name": "Sayyad Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/sayyad-cannon",
+        "image": "hbg39"
+    },
+    {
+        "id": 441,
+        "name": "Tigrex Howl",
+        "url": "http://mhgen.kiranico.com/heavybowgun/tigrex-howl",
+        "image": "hbg15"
+    },
+    {
+        "id": 457,
+        "name": "Dios Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/dios-cannon",
+        "image": "hbg55"
+    },
+    {
+        "id": 471,
+        "name": "Tödlicher Abzug",
+        "url": "http://mhgen.kiranico.com/heavybowgun/todlicher-abzug",
+        "image": "hbg37"
+    },
+    {
+        "id": 473,
+        "name": "Daora's Delphinidae",
+        "url": "http://mhgen.kiranico.com/heavybowgun/daoras-delphinidae",
+        "image": "hbg13"
+    },
+    {
+        "id": 476,
+        "name": "Skeletal Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/skeletal-cannon",
+        "image": "hbg77"
+    },
+    {
+        "id": 491,
+        "name": "Aquamatic \"Needler\"",
+        "url": "http://mhgen.kiranico.com/heavybowgun/aquamatic-needler",
+        "image": "hbg106"
+    },
+    {
+        "id": 488,
+        "name": "Yukumo Puregun",
+        "url": "http://mhgen.kiranico.com/heavybowgun/yukumo-puregun",
+        "image": "hbg109"
+    },
+    {
+        "id": 486,
+        "name": "Black Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/black-cannon",
+        "image": "hbg129"
+    },
+    {
+        "id": 435,
+        "name": "Rapidcaster",
+        "url": "http://mhgen.kiranico.com/heavybowgun/rapidcaster",
+        "image": "hbg112"
+    },
+    {
+        "id": 449,
+        "name": "Flechette Gun",
+        "url": "http://mhgen.kiranico.com/heavybowgun/flechette-gun",
+        "image": "hbg114"
+    },
+    {
+        "id": 452,
+        "name": "Striker's Bowgun",
+        "url": "http://mhgen.kiranico.com/heavybowgun/strikers-bowgun",
+        "image": "hbg99"
+    },
+    {
+        "id": 463,
+        "name": "Arzuros Gun",
+        "url": "http://mhgen.kiranico.com/heavybowgun/arzuros-gun",
+        "image": "hbg20"
+    },
+    {
+        "id": 464,
+        "name": "Straw Drumcannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/straw-drumcannon",
+        "image": "hbg21"
+    },
+    {
+        "id": 490,
+        "name": "Carrozza Bazooka",
+        "url": "http://mhgen.kiranico.com/heavybowgun/carrozza-bazooka",
+        "image": "hbg111"
+    },
+    {
+        "id": 431,
+        "name": "Piercing Crab",
+        "url": "http://mhgen.kiranico.com/heavybowgun/piercing-crab",
+        "image": "hbg122"
+    },
+    {
+        "id": 439,
+        "name": "Pressurized Plaser",
+        "url": "http://mhgen.kiranico.com/heavybowgun/pressurized-plaser",
+        "image": "hbg10"
+    },
+    {
+        "id": 451,
+        "name": "Meteor Buster",
+        "url": "http://mhgen.kiranico.com/heavybowgun/meteor-buster",
+        "image": "hbg107"
+    },
+    {
+        "id": 429,
+        "name": "Griffin's Charge",
+        "url": "http://mhgen.kiranico.com/heavybowgun/griffins-charge",
+        "image": "hbg98"
+    },
+    {
+        "id": 427,
+        "name": "Queen's Longfire",
+        "url": "http://mhgen.kiranico.com/heavybowgun/queens-longfire",
+        "image": "hbg8"
+    },
+    {
+        "id": 437,
+        "name": "Agnaboom",
+        "url": "http://mhgen.kiranico.com/heavybowgun/agnaboom",
+        "image": "hbg4"
+    },
+    {
+        "id": 447,
+        "name": "Quickcaster",
+        "url": "http://mhgen.kiranico.com/heavybowgun/quickcaster",
+        "image": "hbg127"
+    },
+    {
+        "id": 466,
+        "name": "Shooting Star",
+        "url": "http://mhgen.kiranico.com/heavybowgun/shooting-star",
+        "image": "hbg108"
+    },
+    {
+        "id": 489,
+        "name": "Ladybug Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/ladybug-cannon",
+        "image": "hbg110"
+    },
+    {
+        "id": 455,
+        "name": "Seditious Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/seditious-cannon",
+        "image": "hbg41"
+    },
+    {
+        "id": 465,
+        "name": "Monteverde",
+        "url": "http://mhgen.kiranico.com/heavybowgun/monteverde",
+        "image": "hbg96"
+    },
+    {
+        "id": 458,
+        "name": "Demolition Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/demolition-cannon",
+        "image": "hbg56"
+    },
+    {
+        "id": 472,
+        "name": "Le Désastre",
+        "url": "http://mhgen.kiranico.com/heavybowgun/le-desastre",
+        "image": "hbg42"
+    },
+    {
+        "id": 478,
+        "name": "Gluttonous Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/gluttonous-cannon",
+        "image": "hbg97"
+    },
+    {
+        "id": 485,
+        "name": "Hero Blaster",
+        "url": "http://mhgen.kiranico.com/heavybowgun/hero-blaster",
+        "image": "hbg130"
+    },
+    {
+        "id": 474,
+        "name": "Kamaeleon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/kamaeleon",
+        "image": "hbg38"
+    },
+    {
+        "id": 475,
+        "name": "Teostra's Artillery",
+        "url": "http://mhgen.kiranico.com/heavybowgun/teostras-artillery",
+        "image": "hbg12"
+    },
+    {
+        "id": 479,
+        "name": "Endless Famine",
+        "url": "http://mhgen.kiranico.com/heavybowgun/endless-famine",
+        "image": "hbg103"
+    },
+    {
+        "id": 480,
+        "name": "Akantor Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/akantor-cannon",
+        "image": "hbg17"
+    },
+    {
+        "id": 481,
+        "name": "Ukanlos Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/ukanlos-cannon",
+        "image": "hbg58"
+    },
+    {
+        "id": 483,
+        "name": "Ill Omen",
+        "url": "http://mhgen.kiranico.com/heavybowgun/ill-omen",
+        "image": "hbg128"
+    },
+    {
+        "id": 477,
+        "name": "Cosmic Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/cosmic-cannon",
+        "image": "hbg78"
+    },
+    {
+        "id": 482,
+        "name": "Chaos Wing",
+        "url": "http://mhgen.kiranico.com/heavybowgun/chaos-wing",
+        "image": "hbg5"
+    },
+    {
+        "id": 494,
+        "name": "Crimson Bowgun",
+        "url": "http://mhgen.kiranico.com/heavybowgun/crimson-bowgun",
+        "image": "hbg82"
+    },
+    {
+        "id": 495,
+        "name": "Eeostopen Burst",
+        "url": "http://mhgen.kiranico.com/heavybowgun/eeostopen-burst",
+        "image": "hbg83"
+    },
+    {
+        "id": 496,
+        "name": "Stonefist Buster",
+        "url": "http://mhgen.kiranico.com/heavybowgun/stonefist-buster",
+        "image": "hbg85"
+    },
+    {
+        "id": 497,
+        "name": "Dreadqueen Shot",
+        "url": "http://mhgen.kiranico.com/heavybowgun/dreadqueen-shot",
+        "image": "hbg86"
+    },
+    {
+        "id": 498,
+        "name": "Demonic Cannon",
+        "url": "http://mhgen.kiranico.com/heavybowgun/demonic-cannon",
+        "image": "hbg84"
+    },
+    {
+        "id": 499,
+        "name": "Silverwind Sniper",
+        "url": "http://mhgen.kiranico.com/heavybowgun/silverwind-sniper",
+        "image": "hbg89"
+    },
+    {
+        "id": 500,
+        "name": "Grobo Shot",
+        "url": "http://mhgen.kiranico.com/heavybowgun/grobo-shot",
+        "image": "hbg92"
+    },
+    {
+        "id": 501,
+        "name": "Cahoe Shot",
+        "url": "http://mhgen.kiranico.com/heavybowgun/cahoe-shot",
+        "image": "hbg87"
+    },
+    {
+        "id": 502,
+        "name": "Lord's Shot",
+        "url": "http://mhgen.kiranico.com/heavybowgun/lords-shot",
+        "image": "hbg90"
+    },
+    {
+        "id": 503,
+        "name": "Rudra's Howl",
+        "url": "http://mhgen.kiranico.com/heavybowgun/rudras-howl",
+        "image": "hbg88"
+    },
+    {
+        "id": 504,
+        "name": "Ashen Blaster",
+        "url": "http://mhgen.kiranico.com/heavybowgun/ashen-blaster",
+        "image": "hbg91"
+    },
+    {
+        "id": 505,
+        "name": "Pirate Cannon J",
+        "url": "http://mhgen.kiranico.com/heavybowgun/pirate-cannon-j",
+        "image": "hbg131"
+    }
+]

@@ -1,0 +1,1014 @@
+[
+    {
+        "id": 786,
+        "name": "Petrified Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/petrified-gunlance",
+        "image": "gun115"
+    },
+    {
+        "id": 798,
+        "name": "Iron Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/iron-gunlance",
+        "image": "gun6"
+    },
+    {
+        "id": 815,
+        "name": "Bone Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/bone-gunlance",
+        "image": "gun38"
+    },
+    {
+        "id": 829,
+        "name": "Fiore Nulo",
+        "url": "http://mhgen.kiranico.com/gunlance/fiore-nulo",
+        "image": "gun135"
+    },
+    {
+        "id": 812,
+        "name": "Rogue Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/rogue-gunlance",
+        "image": "gun117"
+    },
+    {
+        "id": 814,
+        "name": "Genenam Lance",
+        "url": "http://mhgen.kiranico.com/gunlance/genenam-lance",
+        "image": "gun138",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 3908,
+                "element_id": 7,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 852,
+        "name": "Yukumo Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/yukumo-gunlance",
+        "image": "gun145"
+    },
+    {
+        "id": 803,
+        "name": "Striker's Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/strikers-gunlance",
+        "image": "gun33"
+    },
+    {
+        "id": 822,
+        "name": "Golem Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/golem-gunlance",
+        "image": "gun139"
+    },
+    {
+        "id": 830,
+        "name": "Fiore Nulo (G)",
+        "url": "http://mhgen.kiranico.com/gunlance/fiore-nulo-g",
+        "image": "gun135",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 3984,
+                "element_id": 7,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 831,
+        "name": "Fiore Nulo (R)",
+        "url": "http://mhgen.kiranico.com/gunlance/fiore-nulo-r",
+        "image": "gun135",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 3989,
+                "element_id": 1,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 791,
+        "name": "Lagomberator",
+        "url": "http://mhgen.kiranico.com/gunlance/lagomberator",
+        "image": "gun10",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 3805,
+                "element_id": 5,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 788,
+        "name": "Hard Hitter",
+        "url": "http://mhgen.kiranico.com/gunlance/hard-hitter",
+        "image": "gun15",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 3789,
+                "element_id": 6,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 795,
+        "name": "Red Devil Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/red-devil-gunlance",
+        "image": "gun25"
+    },
+    {
+        "id": 827,
+        "name": "Scissor Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/scissor-gunlance",
+        "image": "gun99"
+    },
+    {
+        "id": 789,
+        "name": "Shattershot",
+        "url": "http://mhgen.kiranico.com/gunlance/shattershot",
+        "image": "gun148",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 3795,
+                "element_id": 7,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 790,
+        "name": "Full Voltage",
+        "url": "http://mhgen.kiranico.com/gunlance/full-voltage",
+        "image": "gun13",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 3800,
+                "element_id": 3,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 811,
+        "name": "Type 62 Stormlance",
+        "url": "http://mhgen.kiranico.com/gunlance/type-62-stormlance",
+        "image": "gun146",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3891,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 825,
+        "name": "Hellsting",
+        "url": "http://mhgen.kiranico.com/gunlance/hellsting",
+        "image": "gun149",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 3960,
+                "element_id": 5,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 828,
+        "name": "Hidden Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/hidden-gunlance",
+        "image": "gun147"
+    },
+    {
+        "id": 859,
+        "name": "Bamboo Birdsbane",
+        "url": "http://mhgen.kiranico.com/gunlance/bamboo-birdsbane",
+        "image": "gun114"
+    },
+    {
+        "id": 854,
+        "name": "Baa Baa Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/baa-baa-gunlance",
+        "image": "gun140",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 4087,
+                "element_id": 8,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 857,
+        "name": "Kamak Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/kamak-gunlance",
+        "image": "gun155",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4099,
+                "element_id": 5,
+                "value": 35
+            }
+        }
+    },
+    {
+        "id": 861,
+        "name": "Teostra Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/teostra-gunlance",
+        "image": "gun142"
+    },
+    {
+        "id": 787,
+        "name": "Obsidian Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/obsidian-gunlance",
+        "image": "gun116"
+    },
+    {
+        "id": 810,
+        "name": "Ancient Gyrelance",
+        "url": "http://mhgen.kiranico.com/gunlance/ancient-gyrelance",
+        "image": "gun37"
+    },
+    {
+        "id": 824,
+        "name": "Spine Blaster",
+        "url": "http://mhgen.kiranico.com/gunlance/spine-blaster",
+        "image": "gun136",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 3955,
+                "element_id": 1,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 819,
+        "name": "Princess Panoply",
+        "url": "http://mhgen.kiranico.com/gunlance/princess-panoply",
+        "image": "gun2",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 3933,
+                "element_id": 6,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 805,
+        "name": "Red Rook",
+        "url": "http://mhgen.kiranico.com/gunlance/red-rook",
+        "image": "gun35",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 3865,
+                "element_id": 1,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 807,
+        "name": "Lagia Burst",
+        "url": "http://mhgen.kiranico.com/gunlance/lagia-burst",
+        "image": "gun101",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 3873,
+                "element_id": 3,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 821,
+        "name": "Usurper's Roar",
+        "url": "http://mhgen.kiranico.com/gunlance/usurpers-roar",
+        "image": "gun3",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 3941,
+                "element_id": 3,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 836,
+        "name": "Ukiyo no Yamiwo",
+        "url": "http://mhgen.kiranico.com/gunlance/ukiyo-no-yamiwo",
+        "image": "gun123",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4013,
+                "element_id": 2,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 834,
+        "name": "Verdant Rook",
+        "url": "http://mhgen.kiranico.com/gunlance/verdant-rook",
+        "image": "gun121",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4001,
+                "element_id": 3,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 835,
+        "name": "Giant's Artillery",
+        "url": "http://mhgen.kiranico.com/gunlance/giants-artillery",
+        "image": "gun122",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4007,
+                "element_id": 5,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 837,
+        "name": "Burning Kabeira",
+        "url": "http://mhgen.kiranico.com/gunlance/burning-kabeira",
+        "image": "gun118",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4019,
+                "element_id": 1,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 838,
+        "name": "Tyrannenarm",
+        "url": "http://mhgen.kiranico.com/gunlance/tyrannenarm",
+        "image": "gun23",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4025,
+                "element_id": 4,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 801,
+        "name": "Jaya Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/jaya-gunlance",
+        "image": "gun81"
+    },
+    {
+        "id": 818,
+        "name": "Tiger Blast",
+        "url": "http://mhgen.kiranico.com/gunlance/tiger-blast",
+        "image": "gun1"
+    },
+    {
+        "id": 823,
+        "name": "Thunder Yell",
+        "url": "http://mhgen.kiranico.com/gunlance/thunder-yell",
+        "image": "gun137",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 3950,
+                "element_id": 3,
+                "value": 45
+            }
+        }
+    },
+    {
+        "id": 808,
+        "name": "Dios Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/dios-gunlance",
+        "image": "gun21",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 3878,
+                "element_id": 9,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 839,
+        "name": "L'Onde",
+        "url": "http://mhgen.kiranico.com/gunlance/londe",
+        "image": "gun44",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4030,
+                "element_id": 4,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 840,
+        "name": "Venomous Cologne",
+        "url": "http://mhgen.kiranico.com/gunlance/venomous-cologne",
+        "image": "gun98",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 4035,
+                "element_id": 6,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 843,
+        "name": "Chasm Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/chasm-gunlance",
+        "image": "gun119",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4045,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 860,
+        "name": "Cornpopper",
+        "url": "http://mhgen.kiranico.com/gunlance/cornpopper",
+        "image": "gun96"
+    },
+    {
+        "id": 855,
+        "name": "Wycademy Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/wycademy-gunlance",
+        "image": "gun141",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 4092,
+                "element_id": 9,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 853,
+        "name": "Yukumo Puregunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/yukumo-puregunlance",
+        "image": "gun145"
+    },
+    {
+        "id": 851,
+        "name": "Black Smoke Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/black-smoke-gunlance",
+        "image": "gun12",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4073,
+                "element_id": 4,
+                "value": 29
+            }
+        }
+    },
+    {
+        "id": 804,
+        "name": "General's Arbalance",
+        "url": "http://mhgen.kiranico.com/gunlance/generals-arbalance",
+        "image": "gun24"
+    },
+    {
+        "id": 813,
+        "name": "Arya Gadda",
+        "url": "http://mhgen.kiranico.com/gunlance/arya-gadda",
+        "image": "gun143",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3904,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 832,
+        "name": "Monsieur Gore",
+        "url": "http://mhgen.kiranico.com/gunlance/monsieur-gore",
+        "image": "gun80",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3994,
+                "element_id": 2,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 799,
+        "name": "Seadiver",
+        "url": "http://mhgen.kiranico.com/gunlance/seadiver",
+        "image": "gun28",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3840,
+                "element_id": 2,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 848,
+        "name": "Worn Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/worn-gunlance",
+        "image": "gun39"
+    },
+    {
+        "id": 792,
+        "name": "Lagomberastrophe",
+        "url": "http://mhgen.kiranico.com/gunlance/lagomberastrophe",
+        "image": "gun45",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 3811,
+                "element_id": 5,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 796,
+        "name": "Blue Devil Uberlance",
+        "url": "http://mhgen.kiranico.com/gunlance/blue-devil-uberlance",
+        "image": "gun46"
+    },
+    {
+        "id": 800,
+        "name": "Deepbuster",
+        "url": "http://mhgen.kiranico.com/gunlance/deepbuster",
+        "image": "gun43",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 3844,
+                "element_id": 5,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 793,
+        "name": "Marine Fisher",
+        "url": "http://mhgen.kiranico.com/gunlance/marine-fisher",
+        "image": "gun16",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3814,
+                "element_id": 2,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 826,
+        "name": "Gerd Sting",
+        "url": "http://mhgen.kiranico.com/gunlance/gerd-sting",
+        "image": "gun144",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 3965,
+                "element_id": 5,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 794,
+        "name": "Volcano Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/volcano-gunlance",
+        "image": "gun150",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 3817,
+                "element_id": 1,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 858,
+        "name": "Felyoshka",
+        "url": "http://mhgen.kiranico.com/gunlance/felyoshka",
+        "image": "gun41",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 4103,
+                "element_id": 7,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 833,
+        "name": "Madame Butcher",
+        "url": "http://mhgen.kiranico.com/gunlance/madame-butcher",
+        "image": "gun84",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3998,
+                "element_id": 2,
+                "value": 23
+            }
+        }
+    },
+    {
+        "id": 797,
+        "name": "Flamethrower",
+        "url": "http://mhgen.kiranico.com/gunlance/flamethrower",
+        "image": "gun151",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 3829,
+                "element_id": 1,
+                "value": 34
+            }
+        }
+    },
+    {
+        "id": 802,
+        "name": "Seditious Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/seditious-gunlance",
+        "image": "gun83"
+    },
+    {
+        "id": 809,
+        "name": "Demolition Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/demolition-gunlance",
+        "image": "gun31",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 3883,
+                "element_id": 9,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 816,
+        "name": "Demon Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/demon-gunlance",
+        "image": "gun4",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 3922,
+                "element_id": 3,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 841,
+        "name": "Ravenous Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/ravenous-gunlance",
+        "image": "gun18",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4039,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 856,
+        "name": "Hero Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/hero-gunlance",
+        "image": "gun154"
+    },
+    {
+        "id": 849,
+        "name": "Obelisk",
+        "url": "http://mhgen.kiranico.com/gunlance/obelisk",
+        "image": "gun40",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4067,
+                "element_id": 4,
+                "value": 50
+            }
+        }
+    },
+    {
+        "id": 873,
+        "name": "Platinum Trophy",
+        "url": "http://mhgen.kiranico.com/gunlance/platinum-trophy",
+        "image": "gun78"
+    },
+    {
+        "id": 874,
+        "name": "Volt Works",
+        "url": "http://mhgen.kiranico.com/gunlance/volt-works",
+        "image": "gun79",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4231,
+                "element_id": 3,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 875,
+        "name": "Pirate Gunlance J",
+        "url": "http://mhgen.kiranico.com/gunlance/pirate-gunlance-j",
+        "image": "gun156"
+    },
+    {
+        "id": 850,
+        "name": "Icesteel Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/icesteel-gunlance",
+        "image": "gun30",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4070,
+                "element_id": 5,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 806,
+        "name": "Silver Rook",
+        "url": "http://mhgen.kiranico.com/gunlance/silver-rook",
+        "image": "gun36",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3870,
+                "element_id": 4,
+                "value": 35
+            }
+        }
+    },
+    {
+        "id": 820,
+        "name": "Queen's Panoply",
+        "url": "http://mhgen.kiranico.com/gunlance/queens-panoply",
+        "image": "gun14",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 3938,
+                "element_id": 6,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 817,
+        "name": "Demonlord Artillery",
+        "url": "http://mhgen.kiranico.com/gunlance/demonlord-artillery",
+        "image": "gun87",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 3926,
+                "element_id": 3,
+                "value": 26
+            }
+        }
+    },
+    {
+        "id": 842,
+        "name": "Consummate Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/consummate-gunlance",
+        "image": "gun48",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4042,
+                "element_id": 4,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 845,
+        "name": "Akantor Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/akantor-gunlance",
+        "image": "gun9"
+    },
+    {
+        "id": 846,
+        "name": "Ukanlos Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/ukanlos-gunlance",
+        "image": "gun97",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4056,
+                "element_id": 5,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 847,
+        "name": "Ominous Monsoon",
+        "url": "http://mhgen.kiranico.com/gunlance/ominous-monsoon",
+        "image": "gun153",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4059,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 844,
+        "name": "Astral Centaurus",
+        "url": "http://mhgen.kiranico.com/gunlance/astral-centaurus",
+        "image": "gun120",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4050,
+                "element_id": 4,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 862,
+        "name": "Blackhare Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/blackhare-gunlance",
+        "image": "gun124",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4118,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 863,
+        "name": "Pincher Cannon",
+        "url": "http://mhgen.kiranico.com/gunlance/pincher-cannon",
+        "image": "gun126",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4128,
+                "element_id": 2,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 864,
+        "name": "Royal Burst",
+        "url": "http://mhgen.kiranico.com/gunlance/royal-burst",
+        "image": "gun127",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 4138,
+                "element_id": 6,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 865,
+        "name": "Pierce Cannon",
+        "url": "http://mhgen.kiranico.com/gunlance/pierce-cannon",
+        "image": "gun125"
+    },
+    {
+        "id": 866,
+        "name": "Nightfall Burst",
+        "url": "http://mhgen.kiranico.com/gunlance/nightfall-burst",
+        "image": "gun131"
+    },
+    {
+        "id": 867,
+        "name": "Geode Burst",
+        "url": "http://mhgen.kiranico.com/gunlance/geode-burst",
+        "image": "gun134"
+    },
+    {
+        "id": 868,
+        "name": "Hardened Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/hardened-gunlance",
+        "image": "gun128",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 4178,
+                "element_id": 6,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 869,
+        "name": "Tomb Gunlance",
+        "url": "http://mhgen.kiranico.com/gunlance/tomb-gunlance",
+        "image": "gun129",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4188,
+                "element_id": 1,
+                "value": 19
+            }
+        }
+    },
+    {
+        "id": 870,
+        "name": "Raiden Cannon",
+        "url": "http://mhgen.kiranico.com/gunlance/raiden-cannon",
+        "image": "gun132",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4198,
+                "element_id": 3,
+                "value": 31
+            }
+        }
+    },
+    {
+        "id": 871,
+        "name": "Seize Burst",
+        "url": "http://mhgen.kiranico.com/gunlance/seize-burst",
+        "image": "gun130"
+    },
+    {
+        "id": 872,
+        "name": "Explosive Kabeira",
+        "url": "http://mhgen.kiranico.com/gunlance/explosive-kabeira",
+        "image": "gun133",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 4218,
+                "element_id": 9,
+                "value": 16
+            }
+        }
+    }
+]

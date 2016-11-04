@@ -1,0 +1,692 @@
+[
+    {
+        "id": 1218,
+        "name": "Petrified Strongarm",
+        "url": "http://mhgen.kiranico.com/chargeblade/petrified-strongarm",
+        "image": "gaxe64"
+    },
+    {
+        "id": 1225,
+        "name": "Elite Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/elite-blade",
+        "image": "gaxe1"
+    },
+    {
+        "id": 1237,
+        "name": "Bone Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/bone-blade",
+        "image": "gaxe82"
+    },
+    {
+        "id": 1234,
+        "name": "Rogue Axe",
+        "url": "http://mhgen.kiranico.com/chargeblade/rogue-axe",
+        "image": "gaxe66"
+    },
+    {
+        "id": 1236,
+        "name": "Snowy Veil",
+        "url": "http://mhgen.kiranico.com/chargeblade/snowy-veil",
+        "image": "gaxe74",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5991,
+                "element_id": 5,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 1245,
+        "name": "Desertfall",
+        "url": "http://mhgen.kiranico.com/chargeblade/desertfall",
+        "image": "gaxe75",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 6036,
+                "element_id": 7,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1228,
+        "name": "Blackguard",
+        "url": "http://mhgen.kiranico.com/chargeblade/blackguard",
+        "image": "gaxe8"
+    },
+    {
+        "id": 1224,
+        "name": "Poison Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/poison-blade",
+        "image": "gaxe76",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 5932,
+                "element_id": 6,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1235,
+        "name": "Horror Zofar",
+        "url": "http://mhgen.kiranico.com/chargeblade/horror-zofar",
+        "image": "gaxe67",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 5985,
+                "element_id": 8,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1223,
+        "name": "Type 31 Wyvernslayer",
+        "url": "http://mhgen.kiranico.com/chargeblade/type-31-wyvernslayer",
+        "image": "gaxe78",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5926,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1242,
+        "name": "Guardian Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/guardian-blade",
+        "image": "gaxe77"
+    },
+    {
+        "id": 1268,
+        "name": "Cuddly Cat",
+        "url": "http://mhgen.kiranico.com/chargeblade/cuddly-cat",
+        "image": "gaxe93",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 6138,
+                "element_id": 7,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 1264,
+        "name": "Pizzaxe",
+        "url": "http://mhgen.kiranico.com/chargeblade/pizzaxe",
+        "image": "gaxe96"
+    },
+    {
+        "id": 1269,
+        "name": "Chameleos C. Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/chameleos-c.blade",
+        "image": "gaxe86"
+    },
+    {
+        "id": 1219,
+        "name": "Obsidian Strongarm",
+        "url": "http://mhgen.kiranico.com/chargeblade/obsidian-strongarm",
+        "image": "gaxe65"
+    },
+    {
+        "id": 1238,
+        "name": "Poisonous Veil",
+        "url": "http://mhgen.kiranico.com/chargeblade/poisonous-veil",
+        "image": "gaxe83",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 6005,
+                "element_id": 6,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1232,
+        "name": "Dear Lutemis",
+        "url": "http://mhgen.kiranico.com/chargeblade/dear-lutemis",
+        "image": "gaxe2",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5970,
+                "element_id": 1,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 1239,
+        "name": "Axelion Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/axelion-blade",
+        "image": "gaxe10",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 6010,
+                "element_id": 1,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1241,
+        "name": "Lagia Storm",
+        "url": "http://mhgen.kiranico.com/chargeblade/lagia-storm",
+        "image": "gaxe79",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 6018,
+                "element_id": 3,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1250,
+        "name": "Mizuniya Drill",
+        "url": "http://mhgen.kiranico.com/chargeblade/mizuniya-drill",
+        "image": "gaxe73",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 6062,
+                "element_id": 2,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1248,
+        "name": "Axela Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/axela-blade",
+        "image": "gaxe71",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 6050,
+                "element_id": 3,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1249,
+        "name": "Giant's Edge",
+        "url": "http://mhgen.kiranico.com/chargeblade/giants-edge",
+        "image": "gaxe72",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 6056,
+                "element_id": 5,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1251,
+        "name": "Scorching Demander",
+        "url": "http://mhgen.kiranico.com/chargeblade/scorching-demander",
+        "image": "gaxe68",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 6068,
+                "element_id": 1,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1252,
+        "name": "Elendskraft",
+        "url": "http://mhgen.kiranico.com/chargeblade/elendskraft",
+        "image": "gaxe4",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 6074,
+                "element_id": 4,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1246,
+        "name": "Aslat Charger",
+        "url": "http://mhgen.kiranico.com/chargeblade/aslat-charger",
+        "image": "gaxe26"
+    },
+    {
+        "id": 1231,
+        "name": "Tigrex Divide",
+        "url": "http://mhgen.kiranico.com/chargeblade/tigrex-divide",
+        "image": "gaxe87"
+    },
+    {
+        "id": 1221,
+        "name": "Dios Strongarm",
+        "url": "http://mhgen.kiranico.com/chargeblade/dios-strongarm",
+        "image": "gaxe22",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5918,
+                "element_id": 9,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1253,
+        "name": "L'Oppresseur",
+        "url": "http://mhgen.kiranico.com/chargeblade/loppresseur",
+        "image": "gaxe5",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 6079,
+                "element_id": 4,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 1254,
+        "name": "Daora's Casca",
+        "url": "http://mhgen.kiranico.com/chargeblade/daoras-casca",
+        "image": "gaxe20",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 6084,
+                "element_id": 5,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 1256,
+        "name": "Wicked Edge",
+        "url": "http://mhgen.kiranico.com/chargeblade/wicked-edge",
+        "image": "gaxe69",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 6092,
+                "element_id": 4,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1266,
+        "name": "Vaik Veil",
+        "url": "http://mhgen.kiranico.com/chargeblade/vaik-veil",
+        "image": "gaxe94",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 6130,
+                "element_id": 2,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1267,
+        "name": "Mandible Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/mandible-blade",
+        "image": "gaxe95",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 6134,
+                "element_id": 4,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1263,
+        "name": "Black Strongarm",
+        "url": "http://mhgen.kiranico.com/chargeblade/black-strongarm",
+        "image": "gaxe13",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 6117,
+                "element_id": 4,
+                "value": 7
+            }
+        }
+    },
+    {
+        "id": 1229,
+        "name": "Sentinel Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/sentinel-blade",
+        "image": "gaxe9",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5959,
+                "element_id": 3,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 1243,
+        "name": "Schildsect",
+        "url": "http://mhgen.kiranico.com/chargeblade/schildsect",
+        "image": "gaxe24",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 6029,
+                "element_id": 2,
+                "value": 21
+            }
+        }
+    },
+    {
+        "id": 1226,
+        "name": "Guardsqual",
+        "url": "http://mhgen.kiranico.com/chargeblade/guardsqual",
+        "image": "gaxe12",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5946,
+                "element_id": 5,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 1260,
+        "name": "Worn C. Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/worn-c.blade",
+        "image": "gaxe84"
+    },
+    {
+        "id": 1230,
+        "name": "K. Captain's Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/k.captains-blade",
+        "image": "gaxe41",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5963,
+                "element_id": 3,
+                "value": 34
+            }
+        }
+    },
+    {
+        "id": 1227,
+        "name": "Serrated Glace",
+        "url": "http://mhgen.kiranico.com/chargeblade/serrated-glace",
+        "image": "gaxe31",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5950,
+                "element_id": 5,
+                "value": 34
+            }
+        }
+    },
+    {
+        "id": 1220,
+        "name": "Lava's Veil",
+        "url": "http://mhgen.kiranico.com/chargeblade/lavas-veil",
+        "image": "gaxe80",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5915,
+                "element_id": 1,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1244,
+        "name": "Dominisect",
+        "url": "http://mhgen.kiranico.com/chargeblade/dominisect",
+        "image": "gaxe29",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 6033,
+                "element_id": 2,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 1247,
+        "name": "Seditious Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/seditious-blade",
+        "image": "gaxe28"
+    },
+    {
+        "id": 1222,
+        "name": "Demolition Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/demolition-blade",
+        "image": "gaxe42",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5923,
+                "element_id": 9,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 1255,
+        "name": "Demonlord Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/demonlord-blade",
+        "image": "gaxe23",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 6088,
+                "element_id": 3,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1265,
+        "name": "Hero Strongarm",
+        "url": "http://mhgen.kiranico.com/chargeblade/hero-strongarm",
+        "image": "gaxe92"
+    },
+    {
+        "id": 1261,
+        "name": "Chrono Gear",
+        "url": "http://mhgen.kiranico.com/chargeblade/chrono-gear",
+        "image": "gaxe85",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 6111,
+                "element_id": 4,
+                "value": 36
+            }
+        }
+    },
+    {
+        "id": 1274,
+        "name": "Charge Fox",
+        "url": "http://mhgen.kiranico.com/chargeblade/charge-fox",
+        "image": "gaxe63",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 6186,
+                "element_id": 1,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1275,
+        "name": "Legendary Anchor J",
+        "url": "http://mhgen.kiranico.com/chargeblade/legendary-anchor-j",
+        "image": "gaxe16"
+    },
+    {
+        "id": 1276,
+        "name": "Starlight Axe",
+        "url": "http://mhgen.kiranico.com/chargeblade/starlight-axe",
+        "image": "gaxe15",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 6192,
+                "element_id": 5,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 1262,
+        "name": "Teostra's Striker",
+        "url": "http://mhgen.kiranico.com/chargeblade/teostras-striker",
+        "image": "gaxe17",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 6114,
+                "element_id": 9,
+                "value": 38
+            }
+        }
+    },
+    {
+        "id": 1240,
+        "name": "Hellsire Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/hellsire-blade",
+        "image": "gaxe11",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 6015,
+                "element_id": 1,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 1233,
+        "name": "Luna Eostre",
+        "url": "http://mhgen.kiranico.com/chargeblade/luna-eostre",
+        "image": "gaxe39",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5975,
+                "element_id": 1,
+                "value": 34
+            }
+        }
+    },
+    {
+        "id": 1258,
+        "name": "Akantor C. Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/akantor-c.blade",
+        "image": "gaxe19"
+    },
+    {
+        "id": 1259,
+        "name": "Altostratus Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/altostratus-blade",
+        "image": "gaxe81",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 6103,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1257,
+        "name": "Gant Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/gant-blade",
+        "image": "gaxe70",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 6097,
+                "element_id": 4,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 1270,
+        "name": "Dear Regina",
+        "url": "http://mhgen.kiranico.com/chargeblade/dear-regina",
+        "image": "gaxe89",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 6146,
+                "element_id": 6,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 1271,
+        "name": "Dreaded Blade",
+        "url": "http://mhgen.kiranico.com/chargeblade/dreaded-blade",
+        "image": "gaxe91",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 6156,
+                "element_id": 1,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1272,
+        "name": "Rudra Divide",
+        "url": "http://mhgen.kiranico.com/chargeblade/rudra-divide",
+        "image": "gaxe88"
+    },
+    {
+        "id": 1273,
+        "name": "Ashen Demander",
+        "url": "http://mhgen.kiranico.com/chargeblade/ashen-demander",
+        "image": "gaxe90",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 6176,
+                "element_id": 9,
+                "value": 14
+            }
+        }
+    }
+]

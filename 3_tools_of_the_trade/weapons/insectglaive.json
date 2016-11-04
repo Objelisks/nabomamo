@@ -1,0 +1,722 @@
+[
+    {
+        "id": 1155,
+        "name": "Petrified Rod",
+        "url": "http://mhgen.kiranico.com/insectglaive/petrified-rod",
+        "image": "rod71"
+    },
+    {
+        "id": 1164,
+        "name": "Iron Bayonet",
+        "url": "http://mhgen.kiranico.com/insectglaive/iron-bayonet",
+        "image": "rod97"
+    },
+    {
+        "id": 1172,
+        "name": "Bone Staff",
+        "url": "http://mhgen.kiranico.com/insectglaive/bone-staff",
+        "image": "rod1"
+    },
+    {
+        "id": 1184,
+        "name": "Hortadent",
+        "url": "http://mhgen.kiranico.com/insectglaive/hortadent",
+        "image": "rod102"
+    },
+    {
+        "id": 1166,
+        "name": "Azure Bayonet",
+        "url": "http://mhgen.kiranico.com/insectglaive/azure-bayonet",
+        "image": "rod80"
+    },
+    {
+        "id": 1181,
+        "name": "Wardance Cudgel",
+        "url": "http://mhgen.kiranico.com/insectglaive/wardance-cudgel",
+        "image": "rod81",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5726,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1159,
+        "name": "Fader Rod",
+        "url": "http://mhgen.kiranico.com/insectglaive/fader-rod",
+        "image": "rod73"
+    },
+    {
+        "id": 1169,
+        "name": "Sand Anchor",
+        "url": "http://mhgen.kiranico.com/insectglaive/sand-anchor",
+        "image": "rod91",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5675,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1165,
+        "name": "Arcane Strike",
+        "url": "http://mhgen.kiranico.com/insectglaive/arcane-strike",
+        "image": "rod98",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5654,
+                "element_id": 3,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 1157,
+        "name": "Kut-Ku Pike",
+        "url": "http://mhgen.kiranico.com/insectglaive/kut-ku-pike",
+        "image": "rod84",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5610,
+                "element_id": 1,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1168,
+        "name": "Crimson Fury",
+        "url": "http://mhgen.kiranico.com/insectglaive/crimson-fury",
+        "image": "rod87",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 5669,
+                "element_id": 6,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 1183,
+        "name": "Shell Intoner",
+        "url": "http://mhgen.kiranico.com/insectglaive/shell-intoner",
+        "image": "rod22"
+    },
+    {
+        "id": 1158,
+        "name": "Royal Bloom",
+        "url": "http://mhgen.kiranico.com/insectglaive/royal-bloom",
+        "image": "rod83",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5616,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1163,
+        "name": "Bolt Chamber",
+        "url": "http://mhgen.kiranico.com/insectglaive/bolt-chamber",
+        "image": "rod85",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5640,
+                "element_id": 3,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1182,
+        "name": "Rage Cudgel",
+        "url": "http://mhgen.kiranico.com/insectglaive/rage-cudgel",
+        "image": "rod82",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5732,
+                "element_id": 5,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 1180,
+        "name": "Needle Ivy",
+        "url": "http://mhgen.kiranico.com/insectglaive/needle-ivy",
+        "image": "rod20",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 5721,
+                "element_id": 7,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 1162,
+        "name": "Hidden Scythe",
+        "url": "http://mhgen.kiranico.com/insectglaive/hidden-scythe",
+        "image": "rod92"
+    },
+    {
+        "id": 1206,
+        "name": "Acorn Rod",
+        "url": "http://mhgen.kiranico.com/insectglaive/acorn-rod",
+        "image": "rod99",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 5839,
+                "element_id": 7,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 1204,
+        "name": "Magia Pitareen",
+        "url": "http://mhgen.kiranico.com/insectglaive/magia-pitareen",
+        "image": "rod101",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5832,
+                "element_id": 9,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1156,
+        "name": "Obsidian Rod",
+        "url": "http://mhgen.kiranico.com/insectglaive/obsidian-rod",
+        "image": "rod72"
+    },
+    {
+        "id": 1175,
+        "name": "Sturdy Glaive",
+        "url": "http://mhgen.kiranico.com/insectglaive/sturdy-glaive",
+        "image": "rod8"
+    },
+    {
+        "id": 1189,
+        "name": "Fox Halberd",
+        "url": "http://mhgen.kiranico.com/insectglaive/fox-halberd",
+        "image": "rod79",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5767,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1187,
+        "name": "Astalos Cudgel",
+        "url": "http://mhgen.kiranico.com/insectglaive/astalos-cudgel",
+        "image": "rod77",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5755,
+                "element_id": 3,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1188,
+        "name": "Giant's Cudgel",
+        "url": "http://mhgen.kiranico.com/insectglaive/giants-cudgel",
+        "image": "rod78",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5761,
+                "element_id": 5,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1190,
+        "name": "Flaming Teuza",
+        "url": "http://mhgen.kiranico.com/insectglaive/flaming-teuza",
+        "image": "rod74",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5773,
+                "element_id": 1,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1191,
+        "name": "Leumundslist",
+        "url": "http://mhgen.kiranico.com/insectglaive/leumundslist",
+        "image": "rod3",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5779,
+                "element_id": 4,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1160,
+        "name": "Altair",
+        "url": "http://mhgen.kiranico.com/insectglaive/altair",
+        "image": "rod24"
+    },
+    {
+        "id": 1195,
+        "name": "Indigo Flash",
+        "url": "http://mhgen.kiranico.com/insectglaive/indigo-flash",
+        "image": "rod2",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5797,
+                "element_id": 3,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 1178,
+        "name": "Dios Rod",
+        "url": "http://mhgen.kiranico.com/insectglaive/dios-rod",
+        "image": "rod14",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5713,
+                "element_id": 9,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1192,
+        "name": "Le Traqueur",
+        "url": "http://mhgen.kiranico.com/insectglaive/le-traqueur",
+        "image": "rod11",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5784,
+                "element_id": 4,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 1193,
+        "name": "Daora's Entom",
+        "url": "http://mhgen.kiranico.com/insectglaive/daoras-entom",
+        "image": "rod18",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5789,
+                "element_id": 5,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 1194,
+        "name": "Caster's Rod",
+        "url": "http://mhgen.kiranico.com/insectglaive/casters-rod",
+        "image": "rod17",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 5793,
+                "element_id": 6,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 1198,
+        "name": "Skeletal Cudgel",
+        "url": "http://mhgen.kiranico.com/insectglaive/skeletal-cudgel",
+        "image": "rod75",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5809,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1203,
+        "name": "Push Broom",
+        "url": "http://mhgen.kiranico.com/insectglaive/push-broom",
+        "image": "rod100",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5828,
+                "element_id": 5,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 1207,
+        "name": "Deathport Staff",
+        "url": "http://mhgen.kiranico.com/insectglaive/deathport-staff",
+        "image": "rod90",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5843,
+                "element_id": 4,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 1202,
+        "name": "Black Rod",
+        "url": "http://mhgen.kiranico.com/insectglaive/black-rod",
+        "image": "rod12",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5823,
+                "element_id": 4,
+                "value": 29
+            }
+        }
+    },
+    {
+        "id": 1185,
+        "name": "Sect Happa",
+        "url": "http://mhgen.kiranico.com/insectglaive/sect-happa",
+        "image": "rod15",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5748,
+                "element_id": 2,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1174,
+        "name": "Mind Stick",
+        "url": "http://mhgen.kiranico.com/insectglaive/mind-stick",
+        "image": "rod37",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5698,
+                "element_id": 2,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 1171,
+        "name": "Névé Rod",
+        "url": "http://mhgen.kiranico.com/insectglaive/neve-rod",
+        "image": "rod21",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5683,
+                "element_id": 5,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1205,
+        "name": "Garia Club",
+        "url": "http://mhgen.kiranico.com/insectglaive/garia-club",
+        "image": "rod103",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5836,
+                "element_id": 1,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1173,
+        "name": "Sky-high Glaive",
+        "url": "http://mhgen.kiranico.com/insectglaive/sky-high-glaive",
+        "image": "rod46",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 5695,
+                "element_id": 7,
+                "value": 19
+            }
+        }
+    },
+    {
+        "id": 1177,
+        "name": "Deep Blue Glaive",
+        "url": "http://mhgen.kiranico.com/insectglaive/deep-blue-glaive",
+        "image": "rod47",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5710,
+                "element_id": 2,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1170,
+        "name": "Fin Harpoon",
+        "url": "http://mhgen.kiranico.com/insectglaive/fin-harpoon",
+        "image": "rod86",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 5680,
+                "element_id": 8,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1186,
+        "name": "Trim Happa",
+        "url": "http://mhgen.kiranico.com/insectglaive/trim-happa",
+        "image": "rod27",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5752,
+                "element_id": 2,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 1176,
+        "name": "Flaming Halberd",
+        "url": "http://mhgen.kiranico.com/insectglaive/flaming-halberd",
+        "image": "rod88",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5707,
+                "element_id": 1,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 1161,
+        "name": "Seditious Breaker",
+        "url": "http://mhgen.kiranico.com/insectglaive/seditious-breaker",
+        "image": "rod26"
+    },
+    {
+        "id": 1179,
+        "name": "Demolition Press",
+        "url": "http://mhgen.kiranico.com/insectglaive/demolition-press",
+        "image": "rod48",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5718,
+                "element_id": 9,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 1196,
+        "name": "Metal Mauler",
+        "url": "http://mhgen.kiranico.com/insectglaive/metal-mauler",
+        "image": "rod7",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5802,
+                "element_id": 3,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 1212,
+        "name": "Conviction Glaive J",
+        "url": "http://mhgen.kiranico.com/insectglaive/conviction-glaive-j",
+        "image": "rod70"
+    },
+    {
+        "id": 1213,
+        "name": "Aladdin's Wand",
+        "url": "http://mhgen.kiranico.com/insectglaive/aladdins-wand",
+        "image": "rod69",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5890,
+                "element_id": 3,
+                "value": 26
+            }
+        }
+    },
+    {
+        "id": 1214,
+        "name": "Spear of the Beast",
+        "url": "http://mhgen.kiranico.com/insectglaive/spear-of-the-beast",
+        "image": "rod104",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5893,
+                "element_id": 4,
+                "value": 36
+            }
+        }
+    },
+    {
+        "id": 1167,
+        "name": "Heaven's Rath Glaive",
+        "url": "http://mhgen.kiranico.com/insectglaive/heavens-rath-glaive",
+        "image": "rod4",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5666,
+                "element_id": 1,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 1197,
+        "name": "Demonlord Cudgel",
+        "url": "http://mhgen.kiranico.com/insectglaive/demonlord-cudgel",
+        "image": "rod31",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5806,
+                "element_id": 3,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 1200,
+        "name": "Ukanlos Staff",
+        "url": "http://mhgen.kiranico.com/insectglaive/ukanlos-staff",
+        "image": "rod16",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5817,
+                "element_id": 5,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 1199,
+        "name": "Polaris Zimbal",
+        "url": "http://mhgen.kiranico.com/insectglaive/polaris-zimbal",
+        "image": "rod76",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5814,
+                "element_id": 4,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 1201,
+        "name": "Alatreon Dragonspire",
+        "url": "http://mhgen.kiranico.com/insectglaive/alatreon-dragonspire",
+        "image": "rod89",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5820,
+                "element_id": 4,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 1208,
+        "name": "Stonefist Caster",
+        "url": "http://mhgen.kiranico.com/insectglaive/stonefist-caster",
+        "image": "rod94",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5847,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1209,
+        "name": "Nightfall Scythe",
+        "url": "http://mhgen.kiranico.com/insectglaive/nightfall-scythe",
+        "image": "rod93"
+    },
+    {
+        "id": 1210,
+        "name": "Grobo Blow",
+        "url": "http://mhgen.kiranico.com/insectglaive/grobo-blow",
+        "image": "rod96"
+    },
+    {
+        "id": 1211,
+        "name": "Ashen Teuza",
+        "url": "http://mhgen.kiranico.com/insectglaive/ashen-teuza",
+        "image": "rod95",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5877,
+                "element_id": 9,
+                "value": 21
+            }
+        }
+    }
+]

@@ -1,0 +1,1150 @@
+[
+    {
+        "id": 2,
+        "name": "Petrified Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/petrified-blade",
+        "image": "two130"
+    },
+    {
+        "id": 12,
+        "name": "Iron Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/iron-sword",
+        "image": "two3"
+    },
+    {
+        "id": 27,
+        "name": "Bone Cleaver",
+        "url": "http://mhgen.kiranico.com/greatsword/bone-cleaver",
+        "image": "two5"
+    },
+    {
+        "id": 46,
+        "name": "Red Stripe",
+        "url": "http://mhgen.kiranico.com/greatsword/red-stripe",
+        "image": "two169"
+    },
+    {
+        "id": 49,
+        "name": "Azure Serpentblade",
+        "url": "http://mhgen.kiranico.com/greatsword/azure-serpentblade",
+        "image": "two30"
+    },
+    {
+        "id": 53,
+        "name": "White Serpentblade",
+        "url": "http://mhgen.kiranico.com/greatsword/white-serpentblade",
+        "image": "two168",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 248,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 50,
+        "name": "Saffron Fangblade",
+        "url": "http://mhgen.kiranico.com/greatsword/saffron-fangblade",
+        "image": "two152",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 231,
+                "element_id": 7,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 51,
+        "name": "Fanged Serpentblade",
+        "url": "http://mhgen.kiranico.com/greatsword/fanged-serpentblade",
+        "image": "two47",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 237,
+                "element_id": 6,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 43,
+        "name": "Ludroth Bone Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/ludroth-bone-sword",
+        "image": "two9"
+    },
+    {
+        "id": 84,
+        "name": "Yukumo Edge",
+        "url": "http://mhgen.kiranico.com/greatsword/yukumo-edge",
+        "image": "two163"
+    },
+    {
+        "id": 76,
+        "name": "Rusted Great Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/rusted-great-sword",
+        "image": "two19"
+    },
+    {
+        "id": 21,
+        "name": "Buster Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/buster-sword",
+        "image": "two4"
+    },
+    {
+        "id": 32,
+        "name": "Jawblade",
+        "url": "http://mhgen.kiranico.com/greatsword/jawblade",
+        "image": "two1"
+    },
+    {
+        "id": 9,
+        "name": "Defender",
+        "url": "http://mhgen.kiranico.com/greatsword/defender",
+        "image": "two157"
+    },
+    {
+        "id": 11,
+        "name": "Barbaroi Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/barbaroi-blade",
+        "image": "two162",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 48,
+                "element_id": 1,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 86,
+        "name": "Larisaber",
+        "url": "http://mhgen.kiranico.com/greatsword/larisaber",
+        "image": "two178"
+    },
+    {
+        "id": 52,
+        "name": "Deadly Serpentblade",
+        "url": "http://mhgen.kiranico.com/greatsword/deadly-serpentblade",
+        "image": "two31",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 243,
+                "element_id": 6,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 54,
+        "name": "Chicken Decapitator",
+        "url": "http://mhgen.kiranico.com/greatsword/chicken-decapitator",
+        "image": "two43",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 254,
+                "element_id": 1,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 45,
+        "name": "Snowclad",
+        "url": "http://mhgen.kiranico.com/greatsword/snowclad",
+        "image": "two151",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 204,
+                "element_id": 5,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 25,
+        "name": "Santoku Reaver",
+        "url": "http://mhgen.kiranico.com/greatsword/santoku-reaver",
+        "image": "two55"
+    },
+    {
+        "id": 47,
+        "name": "Red Pincer",
+        "url": "http://mhgen.kiranico.com/greatsword/red-pincer",
+        "image": "two112"
+    },
+    {
+        "id": 44,
+        "name": "Cataclysm Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/cataclysm-sword",
+        "image": "two24",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 199,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 57,
+        "name": "Nocturnal Falx",
+        "url": "http://mhgen.kiranico.com/greatsword/nocturnal-falx",
+        "image": "two132",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 268,
+                "element_id": 8,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "Khezu Shock Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/khezu-shock-sword",
+        "image": "two44",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 33,
+                "element_id": 3,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "Type 41 Wyvernator",
+        "url": "http://mhgen.kiranico.com/greatsword/type-41-wyvernator",
+        "image": "two29",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 27,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 48,
+        "name": "Ceanataur Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/ceanataur-blade",
+        "image": "two170"
+    },
+    {
+        "id": 24,
+        "name": "Skraga",
+        "url": "http://mhgen.kiranico.com/greatsword/skraga",
+        "image": "two156",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 111,
+                "element_id": 7,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 20,
+        "name": "Hidden Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/hidden-blade",
+        "image": "two27"
+    },
+    {
+        "id": 82,
+        "name": "Vulcanis",
+        "url": "http://mhgen.kiranico.com/greatsword/vulcanis",
+        "image": "two17",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 371,
+                "element_id": 9,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 89,
+        "name": "Frozen Speartuna",
+        "url": "http://mhgen.kiranico.com/greatsword/frozen-speartuna",
+        "image": "two52",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 402,
+                "element_id": 5,
+                "value": 33
+            }
+        }
+    },
+    {
+        "id": 90,
+        "name": "Wyvern's Perch",
+        "url": "http://mhgen.kiranico.com/greatsword/wyverns-perch",
+        "image": "two165",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 407,
+                "element_id": 6,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 87,
+        "name": "Cheese Mixer",
+        "url": "http://mhgen.kiranico.com/greatsword/cheese-mixer",
+        "image": "two155"
+    },
+    {
+        "id": 93,
+        "name": "El Dora Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/el-dora-blade",
+        "image": "two154"
+    },
+    {
+        "id": 3,
+        "name": "Obsidian Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/obsidian-blade",
+        "image": "two131"
+    },
+    {
+        "id": 17,
+        "name": "Ravager Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/ravager-blade",
+        "image": "two2"
+    },
+    {
+        "id": 4,
+        "name": "Halberd",
+        "url": "http://mhgen.kiranico.com/greatsword/halberd",
+        "image": "two158"
+    },
+    {
+        "id": 36,
+        "name": "Golem Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/golem-blade",
+        "image": "two6"
+    },
+    {
+        "id": 55,
+        "name": "Sentoryu Raven",
+        "url": "http://mhgen.kiranico.com/greatsword/sentoryu-raven",
+        "image": "two33"
+    },
+    {
+        "id": 23,
+        "name": "Brazenwall",
+        "url": "http://mhgen.kiranico.com/greatsword/brazenwall",
+        "image": "two26"
+    },
+    {
+        "id": 37,
+        "name": "Valkyrie Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/valkyrie-blade",
+        "image": "two12",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 170,
+                "element_id": 6,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 19,
+        "name": "Tactical Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/tactical-blade",
+        "image": "two173"
+    },
+    {
+        "id": 28,
+        "name": "Red Wing",
+        "url": "http://mhgen.kiranico.com/greatsword/red-wing",
+        "image": "two13",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 133,
+                "element_id": 1,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": "Lagiacrus Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/lagiacrus-blade",
+        "image": "two171",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 62,
+                "element_id": 3,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "Usurper's Storm",
+        "url": "http://mhgen.kiranico.com/greatsword/usurpers-storm",
+        "image": "two28",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 44,
+                "element_id": 3,
+                "value": 35
+            }
+        }
+    },
+    {
+        "id": 60,
+        "name": "Hanayako Yohino",
+        "url": "http://mhgen.kiranico.com/greatsword/hanayako-yohino",
+        "image": "two139",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 286,
+                "element_id": 2,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 58,
+        "name": "Verdant Wing",
+        "url": "http://mhgen.kiranico.com/greatsword/verdant-wing",
+        "image": "two137",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 274,
+                "element_id": 3,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 59,
+        "name": "Giant's Slicer",
+        "url": "http://mhgen.kiranico.com/greatsword/giants-slicer",
+        "image": "two138",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 280,
+                "element_id": 5,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 61,
+        "name": "Scorching Blazer",
+        "url": "http://mhgen.kiranico.com/greatsword/scorching-blazer",
+        "image": "two134",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 292,
+                "element_id": 1,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 62,
+        "name": "Schattenstolz",
+        "url": "http://mhgen.kiranico.com/greatsword/schattenstolz",
+        "image": "two51",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 298,
+                "element_id": 4,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 30,
+        "name": "Cheda Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/cheda-blade",
+        "image": "two96"
+    },
+    {
+        "id": 39,
+        "name": "Tiger Jawblade",
+        "url": "http://mhgen.kiranico.com/greatsword/tiger-jawblade",
+        "image": "two10"
+    },
+    {
+        "id": 64,
+        "name": "Kirin Thundersword",
+        "url": "http://mhgen.kiranico.com/greatsword/kirin-thundersword",
+        "image": "two23",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 308,
+                "element_id": 3,
+                "value": 52
+            }
+        }
+    },
+    {
+        "id": 40,
+        "name": "Dios Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/dios-blade",
+        "image": "two36",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 182,
+                "element_id": 9,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 63,
+        "name": "L'Apothéose",
+        "url": "http://mhgen.kiranico.com/greatsword/lapotheose",
+        "image": "two58",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 303,
+                "element_id": 4,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 78,
+        "name": "Icesteel Edge",
+        "url": "http://mhgen.kiranico.com/greatsword/icesteel-edge",
+        "image": "two8",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 356,
+                "element_id": 5,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 65,
+        "name": "Grand Shamshir",
+        "url": "http://mhgen.kiranico.com/greatsword/grand-shamshir",
+        "image": "two95",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 313,
+                "element_id": 6,
+                "value": 45
+            }
+        }
+    },
+    {
+        "id": 70,
+        "name": "Skeletal Great Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/skeletal-great-sword",
+        "image": "two135",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 330,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 91,
+        "name": "Aloe Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/aloe-blade",
+        "image": "two153",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 411,
+                "element_id": 8,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 94,
+        "name": "Black Belt Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/black-belt-blade",
+        "image": "two127"
+    },
+    {
+        "id": 85,
+        "name": "Yukumo Pure Edge",
+        "url": "http://mhgen.kiranico.com/greatsword/yukumo-pure-edge",
+        "image": "two163"
+    },
+    {
+        "id": 83,
+        "name": "Black Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/black-blade",
+        "image": "two16",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 376,
+                "element_id": 4,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 77,
+        "name": "Ancient Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/ancient-blade",
+        "image": "two20",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 353,
+                "element_id": 4,
+                "value": 33
+            }
+        }
+    },
+    {
+        "id": 18,
+        "name": "Lacerator Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/lacerator-blade",
+        "image": "two54"
+    },
+    {
+        "id": 22,
+        "name": "Chrome Razor",
+        "url": "http://mhgen.kiranico.com/greatsword/chrome-razor",
+        "image": "two53",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 102,
+                "element_id": 6,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 42,
+        "name": "Executioner",
+        "url": "http://mhgen.kiranico.com/greatsword/executioner",
+        "image": "two159"
+    },
+    {
+        "id": 34,
+        "name": "Thrash Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/thrash-sword",
+        "image": "two39",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 158,
+                "element_id": 2,
+                "value": 23
+            }
+        }
+    },
+    {
+        "id": 15,
+        "name": "Plesioth Watercutter",
+        "url": "http://mhgen.kiranico.com/greatsword/plesioth-watercutter",
+        "image": "two34",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 70,
+                "element_id": 2,
+                "value": 45
+            }
+        }
+    },
+    {
+        "id": 92,
+        "name": "Cat's Soul",
+        "url": "http://mhgen.kiranico.com/greatsword/cats-soul",
+        "image": "two166",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 415,
+                "element_id": 7,
+                "value": 36
+            }
+        }
+    },
+    {
+        "id": 79,
+        "name": "Worn Great Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/worn-great-sword",
+        "image": "two19"
+    },
+    {
+        "id": 5,
+        "name": "Decider",
+        "url": "http://mhgen.kiranico.com/greatsword/decider",
+        "image": "two160"
+    },
+    {
+        "id": 33,
+        "name": "Wyvern Jawblade",
+        "url": "http://mhgen.kiranico.com/greatsword/wyvern-jawblade",
+        "image": "two161"
+    },
+    {
+        "id": 35,
+        "name": "Thrash Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/thrash-blade",
+        "image": "two59",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 162,
+                "element_id": 2,
+                "value": 60
+            }
+        }
+    },
+    {
+        "id": 26,
+        "name": "Toad Bereaver",
+        "url": "http://mhgen.kiranico.com/greatsword/toad-bereaver",
+        "image": "two60"
+    },
+    {
+        "id": 6,
+        "name": "Igneous Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/igneous-blade",
+        "image": "two174",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 24,
+                "element_id": 1,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 16,
+        "name": "Plesioth Wave Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/plesioth-wave-sword",
+        "image": "two175",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 74,
+                "element_id": 2,
+                "value": 36
+            }
+        }
+    },
+    {
+        "id": 56,
+        "name": "Sentoryu Bane",
+        "url": "http://mhgen.kiranico.com/greatsword/sentoryu-bane",
+        "image": "two99"
+    },
+    {
+        "id": 38,
+        "name": "Spartacus Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/spartacus-blade",
+        "image": "two11"
+    },
+    {
+        "id": 14,
+        "name": "Lagia Lightning",
+        "url": "http://mhgen.kiranico.com/greatsword/lagia-lightning",
+        "image": "two18",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 67,
+                "element_id": 3,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 31,
+        "name": "Seditious Cleaver",
+        "url": "http://mhgen.kiranico.com/greatsword/seditious-cleaver",
+        "image": "two98"
+    },
+    {
+        "id": 41,
+        "name": "Demolition Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/demolition-sword",
+        "image": "two45",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 187,
+                "element_id": 9,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 66,
+        "name": "Demon Rod",
+        "url": "http://mhgen.kiranico.com/greatsword/demon-rod",
+        "image": "two15",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 317,
+                "element_id": 3,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 68,
+        "name": "Berserker Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/berserker-sword",
+        "image": "two14",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 324,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 88,
+        "name": "Autumn Umbrella",
+        "url": "http://mhgen.kiranico.com/greatsword/autumn-umbrella",
+        "image": "two164"
+    },
+    {
+        "id": 95,
+        "name": "Expert Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/expert-blade",
+        "image": "two167"
+    },
+    {
+        "id": 80,
+        "name": "Epitaph Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/epitaph-blade",
+        "image": "two21",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 365,
+                "element_id": 4,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 107,
+        "name": "Fox Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/fox-blade",
+        "image": "two179",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 539,
+                "element_id": 3,
+                "value": 38
+            }
+        }
+    },
+    {
+        "id": 108,
+        "name": "Captain Blade J",
+        "url": "http://mhgen.kiranico.com/greatsword/captain-blade-j",
+        "image": "two91"
+    },
+    {
+        "id": 109,
+        "name": "Amol Saiqa",
+        "url": "http://mhgen.kiranico.com/greatsword/amol-saiqa",
+        "image": "two128",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 545,
+                "element_id": 1,
+                "value": 45
+            }
+        }
+    },
+    {
+        "id": 110,
+        "name": "Chivalry",
+        "url": "http://mhgen.kiranico.com/greatsword/chivalry",
+        "image": "two94"
+    },
+    {
+        "id": 111,
+        "name": "G Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/g-blade",
+        "image": "two126"
+    },
+    {
+        "id": 81,
+        "name": "Teostra Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/teostra-blade",
+        "image": "two22",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 368,
+                "element_id": 9,
+                "value": 36
+            }
+        }
+    },
+    {
+        "id": 29,
+        "name": "Rathalos Gleamsword",
+        "url": "http://mhgen.kiranico.com/greatsword/rathalos-gleamsword",
+        "image": "two32",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 138,
+                "element_id": 1,
+                "value": 52
+            }
+        }
+    },
+    {
+        "id": 67,
+        "name": "Demonlord Club",
+        "url": "http://mhgen.kiranico.com/greatsword/demonlord-club",
+        "image": "two100",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 321,
+                "element_id": 3,
+                "value": 26
+            }
+        }
+    },
+    {
+        "id": 69,
+        "name": "Consummate Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/consummate-blade",
+        "image": "two63",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 327,
+                "element_id": 4,
+                "value": 50
+            }
+        }
+    },
+    {
+        "id": 72,
+        "name": "Akantor Broadsword",
+        "url": "http://mhgen.kiranico.com/greatsword/akantor-broadsword",
+        "image": "two37"
+    },
+    {
+        "id": 73,
+        "name": "Ukanlos Destructor",
+        "url": "http://mhgen.kiranico.com/greatsword/ukanlos-destructor",
+        "image": "two111",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 341,
+                "element_id": 5,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 75,
+        "name": "Roilcloud Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/roilcloud-sword",
+        "image": "two177",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 347,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 71,
+        "name": "Astral Leo",
+        "url": "http://mhgen.kiranico.com/greatsword/astral-leo",
+        "image": "two136",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 335,
+                "element_id": 4,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 74,
+        "name": "Alatreon Great Sword",
+        "url": "http://mhgen.kiranico.com/greatsword/alatreon-great-sword",
+        "image": "two176",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 344,
+                "element_id": 4,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 96,
+        "name": "Eostoclad",
+        "url": "http://mhgen.kiranico.com/greatsword/eostoclad",
+        "image": "two140",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 429,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 97,
+        "name": "Stonefist Pincer",
+        "url": "http://mhgen.kiranico.com/greatsword/stonefist-pincer",
+        "image": "two142",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 439,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 98,
+        "name": "Royal Blade",
+        "url": "http://mhgen.kiranico.com/greatsword/royal-blade",
+        "image": "two143",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 449,
+                "element_id": 6,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 99,
+        "name": "Demon Knife",
+        "url": "http://mhgen.kiranico.com/greatsword/demon-knife",
+        "image": "two141"
+    },
+    {
+        "id": 100,
+        "name": "Blazing Squall",
+        "url": "http://mhgen.kiranico.com/greatsword/blazing-squall",
+        "image": "two147"
+    },
+    {
+        "id": 101,
+        "name": "Grobowall",
+        "url": "http://mhgen.kiranico.com/greatsword/grobowall",
+        "image": "two150"
+    },
+    {
+        "id": 102,
+        "name": "Sentoryo Calamity",
+        "url": "http://mhgen.kiranico.com/greatsword/sentoryo-calamity",
+        "image": "two144"
+    },
+    {
+        "id": 103,
+        "name": "Flamelord Wing",
+        "url": "http://mhgen.kiranico.com/greatsword/flamelord-wing",
+        "image": "two145",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 499,
+                "element_id": 1,
+                "value": 33
+            }
+        }
+    },
+    {
+        "id": 104,
+        "name": "Thunderlord Gekirai",
+        "url": "http://mhgen.kiranico.com/greatsword/thunderlord-gekirai",
+        "image": "two148",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 509,
+                "element_id": 3,
+                "value": 41
+            }
+        }
+    },
+    {
+        "id": 105,
+        "name": "Rudra Jawblade",
+        "url": "http://mhgen.kiranico.com/greatsword/rudra-jawblade",
+        "image": "two146"
+    },
+    {
+        "id": 106,
+        "name": "Crisped Blazer",
+        "url": "http://mhgen.kiranico.com/greatsword/crisped-blazer",
+        "image": "two149",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 529,
+                "element_id": 9,
+                "value": 21
+            }
+        }
+    }
+]

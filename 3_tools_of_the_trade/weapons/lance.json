@@ -1,0 +1,1108 @@
+[
+    {
+        "id": 325,
+        "name": "Petrified Lance",
+        "url": "http://mhgen.kiranico.com/lance/petrified-lance",
+        "image": "lan111"
+    },
+    {
+        "id": 334,
+        "name": "Iron Lance",
+        "url": "http://mhgen.kiranico.com/lance/iron-lance",
+        "image": "lan1"
+    },
+    {
+        "id": 354,
+        "name": "Bone Lance",
+        "url": "http://mhgen.kiranico.com/lance/bone-lance",
+        "image": "lan5"
+    },
+    {
+        "id": 342,
+        "name": "Thane Lance",
+        "url": "http://mhgen.kiranico.com/lance/thane-lance",
+        "image": "lan2"
+    },
+    {
+        "id": 355,
+        "name": "Longhorn Spear",
+        "url": "http://mhgen.kiranico.com/lance/longhorn-spear",
+        "image": "lan138"
+    },
+    {
+        "id": 349,
+        "name": "Spiked Spear",
+        "url": "http://mhgen.kiranico.com/lance/spiked-spear",
+        "image": "lan11"
+    },
+    {
+        "id": 364,
+        "name": "Ploshasta",
+        "url": "http://mhgen.kiranico.com/lance/ploshasta",
+        "image": "lan149"
+    },
+    {
+        "id": 367,
+        "name": "Ludroth Bone Spear",
+        "url": "http://mhgen.kiranico.com/lance/ludroth-bone-spear",
+        "image": "lan151"
+    },
+    {
+        "id": 370,
+        "name": "Wild Boar Lance",
+        "url": "http://mhgen.kiranico.com/lance/wild-boar-lance",
+        "image": "lan150"
+    },
+    {
+        "id": 401,
+        "name": "Yukumo Lance",
+        "url": "http://mhgen.kiranico.com/lance/yukumo-lance",
+        "image": "lan142"
+    },
+    {
+        "id": 393,
+        "name": "Rusted Lance",
+        "url": "http://mhgen.kiranico.com/lance/rusted-lance",
+        "image": "lan18"
+    },
+    {
+        "id": 347,
+        "name": "Drill Lance",
+        "url": "http://mhgen.kiranico.com/lance/drill-lance",
+        "image": "lan35",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1675,
+                "element_id": 3,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 336,
+        "name": "Estoc",
+        "url": "http://mhgen.kiranico.com/lance/estoc",
+        "image": "lan135"
+    },
+    {
+        "id": 369,
+        "name": "Dark Lance",
+        "url": "http://mhgen.kiranico.com/lance/dark-lance",
+        "image": "lan6",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 1778,
+                "element_id": 7,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 333,
+        "name": "Naag Serpentblade",
+        "url": "http://mhgen.kiranico.com/lance/naag-serpentblade",
+        "image": "lan153",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1611,
+                "element_id": 6,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 361,
+        "name": "Bone Claw Lance",
+        "url": "http://mhgen.kiranico.com/lance/bone-claw-lance",
+        "image": "lan95"
+    },
+    {
+        "id": 363,
+        "name": "Volvi Stroke",
+        "url": "http://mhgen.kiranico.com/lance/volvi-stroke",
+        "image": "lan129",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 1750,
+                "element_id": 7,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 368,
+        "name": "Spiral Lance",
+        "url": "http://mhgen.kiranico.com/lance/spiral-lance",
+        "image": "lan152",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1773,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 327,
+        "name": "Cross Coloris",
+        "url": "http://mhgen.kiranico.com/lance/cross-coloris",
+        "image": "lan113",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 1587,
+                "element_id": 8,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 353,
+        "name": "Type 43 Dragonlance",
+        "url": "http://mhgen.kiranico.com/lance/type-43-dragonlance",
+        "image": "lan128",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1702,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 362,
+        "name": "Ceanataur Stinger",
+        "url": "http://mhgen.kiranico.com/lance/ceanataur-stinger",
+        "image": "lan155"
+    },
+    {
+        "id": 330,
+        "name": "Twistcrawl",
+        "url": "http://mhgen.kiranico.com/lance/twistcrawl",
+        "image": "lan10",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 1600,
+                "element_id": 7,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 348,
+        "name": "Hidden Stinger",
+        "url": "http://mhgen.kiranico.com/lance/hidden-stinger",
+        "image": "lan154"
+    },
+    {
+        "id": 399,
+        "name": "Blue Crater",
+        "url": "http://mhgen.kiranico.com/lance/blue-crater",
+        "image": "lan15",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1902,
+                "element_id": 5,
+                "value": 5
+            }
+        }
+    },
+    {
+        "id": 405,
+        "name": "Frontrider Lance",
+        "url": "http://mhgen.kiranico.com/lance/frontrider-lance",
+        "image": "lan37"
+    },
+    {
+        "id": 406,
+        "name": "Native Spear",
+        "url": "http://mhgen.kiranico.com/lance/native-spear",
+        "image": "lan143",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1933,
+                "element_id": 6,
+                "value": 38
+            }
+        }
+    },
+    {
+        "id": 407,
+        "name": "Vacuum Striker",
+        "url": "http://mhgen.kiranico.com/lance/vacuum-striker",
+        "image": "lan144",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1937,
+                "element_id": 2,
+                "value": 26
+            }
+        }
+    },
+    {
+        "id": 408,
+        "name": "Fragrance",
+        "url": "http://mhgen.kiranico.com/lance/fragrance",
+        "image": "lan7",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 1941,
+                "element_id": 8,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 410,
+        "name": "Plegis Needle",
+        "url": "http://mhgen.kiranico.com/lance/plegis-needle",
+        "image": "lan146",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 1949,
+                "element_id": 7,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 403,
+        "name": "Fondue Lance",
+        "url": "http://mhgen.kiranico.com/lance/fondue-lance",
+        "image": "lan130",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1921,
+                "element_id": 1,
+                "value": 5
+            }
+        }
+    },
+    {
+        "id": 404,
+        "name": "Blimp Lance",
+        "url": "http://mhgen.kiranico.com/lance/blimp-lance",
+        "image": "lan131",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 1925,
+                "element_id": 9,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 326,
+        "name": "Obsidian Lance",
+        "url": "http://mhgen.kiranico.com/lance/obsidian-lance",
+        "image": "lan112"
+    },
+    {
+        "id": 337,
+        "name": "Paladin Lance",
+        "url": "http://mhgen.kiranico.com/lance/paladin-lance",
+        "image": "lan3"
+    },
+    {
+        "id": 359,
+        "name": "Barbarian Tusk",
+        "url": "http://mhgen.kiranico.com/lance/barbarian-tusk",
+        "image": "lan139"
+    },
+    {
+        "id": 345,
+        "name": "Steel Knight's Pike",
+        "url": "http://mhgen.kiranico.com/lance/steel-knights-pike",
+        "image": "lan30"
+    },
+    {
+        "id": 328,
+        "name": "Incessant Raven",
+        "url": "http://mhgen.kiranico.com/lance/incessant-raven",
+        "image": "lan21",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1592,
+                "element_id": 6,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 379,
+        "name": "Red Tail",
+        "url": "http://mhgen.kiranico.com/lance/red-tail",
+        "image": "lan28",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1818,
+                "element_id": 1,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 343,
+        "name": "Acrus Lance",
+        "url": "http://mhgen.kiranico.com/lance/acrus-lance",
+        "image": "lan156",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1659,
+                "element_id": 3,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 366,
+        "name": "Usurper's Coming",
+        "url": "http://mhgen.kiranico.com/lance/usurpers-coming",
+        "image": "lan29",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1764,
+                "element_id": 3,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 383,
+        "name": "Hana mo Hana Nare",
+        "url": "http://mhgen.kiranico.com/lance/hana-mo-hana-nare",
+        "image": "lan119",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1838,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 381,
+        "name": "Verdant Tail",
+        "url": "http://mhgen.kiranico.com/lance/verdant-tail",
+        "image": "lan117",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1826,
+                "element_id": 3,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 382,
+        "name": "Giant's Jouster",
+        "url": "http://mhgen.kiranico.com/lance/giants-jouster",
+        "image": "lan118",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1832,
+                "element_id": 5,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 384,
+        "name": "Svarog Blazer",
+        "url": "http://mhgen.kiranico.com/lance/svarog-blazer",
+        "image": "lan114",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1844,
+                "element_id": 1,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 385,
+        "name": "Eiferschild",
+        "url": "http://mhgen.kiranico.com/lance/eiferschild",
+        "image": "lan34",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1850,
+                "element_id": 4,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 357,
+        "name": "Harbah Lance",
+        "url": "http://mhgen.kiranico.com/lance/harbah-lance",
+        "image": "lan81"
+    },
+    {
+        "id": 340,
+        "name": "Tiger Stinger",
+        "url": "http://mhgen.kiranico.com/lance/tiger-stinger",
+        "image": "lan26"
+    },
+    {
+        "id": 352,
+        "name": "Thunderspear",
+        "url": "http://mhgen.kiranico.com/lance/thunderspear",
+        "image": "lan51",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1697,
+                "element_id": 3,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 377,
+        "name": "Dios Stinger",
+        "url": "http://mhgen.kiranico.com/lance/dios-stinger",
+        "image": "lan38",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 1810,
+                "element_id": 9,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 386,
+        "name": "L'Égide",
+        "url": "http://mhgen.kiranico.com/lance/legide",
+        "image": "lan40",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1855,
+                "element_id": 4,
+                "value": 34
+            }
+        }
+    },
+    {
+        "id": 395,
+        "name": "Icesteel Spear",
+        "url": "http://mhgen.kiranico.com/lance/icesteel-spear",
+        "image": "lan16",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1887,
+                "element_id": 5,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 388,
+        "name": "Skeletal Lance",
+        "url": "http://mhgen.kiranico.com/lance/skeletal-lance",
+        "image": "lan115",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1864,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 409,
+        "name": "Sharq Byte",
+        "url": "http://mhgen.kiranico.com/lance/sharq-byte",
+        "image": "lan25",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1945,
+                "element_id": 2,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 412,
+        "name": "Alacrantze",
+        "url": "http://mhgen.kiranico.com/lance/alacrantze",
+        "image": "lan132",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1956,
+                "element_id": 6,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 413,
+        "name": "Black Belt Lance",
+        "url": "http://mhgen.kiranico.com/lance/black-belt-lance",
+        "image": "lan147"
+    },
+    {
+        "id": 402,
+        "name": "Yukumo Purelance",
+        "url": "http://mhgen.kiranico.com/lance/yukumo-purelance",
+        "image": "lan142"
+    },
+    {
+        "id": 400,
+        "name": "Black Lance",
+        "url": "http://mhgen.kiranico.com/lance/black-lance",
+        "image": "lan32",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1907,
+                "element_id": 4,
+                "value": 29
+            }
+        }
+    },
+    {
+        "id": 394,
+        "name": "Undertaker",
+        "url": "http://mhgen.kiranico.com/lance/undertaker",
+        "image": "lan19",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1884,
+                "element_id": 4,
+                "value": 19
+            }
+        }
+    },
+    {
+        "id": 335,
+        "name": "Squire Spear",
+        "url": "http://mhgen.kiranico.com/lance/squire-spear",
+        "image": "lan134"
+    },
+    {
+        "id": 360,
+        "name": "Barbaroi Tusk",
+        "url": "http://mhgen.kiranico.com/lance/barbaroi-tusk",
+        "image": "lan140"
+    },
+    {
+        "id": 339,
+        "name": "Growling Wyvern",
+        "url": "http://mhgen.kiranico.com/lance/growling-wyvern",
+        "image": "lan137",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1641,
+                "element_id": 4,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 373,
+        "name": "Expelger",
+        "url": "http://mhgen.kiranico.com/lance/expelger",
+        "image": "lan31",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1796,
+                "element_id": 2,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 375,
+        "name": "Carnivicious",
+        "url": "http://mhgen.kiranico.com/lance/carnivicious",
+        "image": "lan49",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1803,
+                "element_id": 5,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 350,
+        "name": "Aqua Spear",
+        "url": "http://mhgen.kiranico.com/lance/aqua-spear",
+        "image": "lan33",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1691,
+                "element_id": 2,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 396,
+        "name": "Worn Spear",
+        "url": "http://mhgen.kiranico.com/lance/worn-spear",
+        "image": "lan18"
+    },
+    {
+        "id": 338,
+        "name": "Babel Spear",
+        "url": "http://mhgen.kiranico.com/lance/babel-spear",
+        "image": "lan4"
+    },
+    {
+        "id": 356,
+        "name": "Giant Tusk",
+        "url": "http://mhgen.kiranico.com/lance/giant-tusk",
+        "image": "lan141"
+    },
+    {
+        "id": 374,
+        "name": "Expelgouger",
+        "url": "http://mhgen.kiranico.com/lance/expelgouger",
+        "image": "lan43",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1800,
+                "element_id": 2,
+                "value": 35
+            }
+        }
+    },
+    {
+        "id": 376,
+        "name": "Omnivicious",
+        "url": "http://mhgen.kiranico.com/lance/omnivicious",
+        "image": "lan27",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1807,
+                "element_id": 5,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 351,
+        "name": "Rockabye Spear",
+        "url": "http://mhgen.kiranico.com/lance/rockabye-spear",
+        "image": "lan158",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 1694,
+                "element_id": 8,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 341,
+        "name": "Lava Cone",
+        "url": "http://mhgen.kiranico.com/lance/lava-cone",
+        "image": "lan133",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1649,
+                "element_id": 1,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 331,
+        "name": "Twisting Crawler",
+        "url": "http://mhgen.kiranico.com/lance/twisting-crawler",
+        "image": "lan39",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 1605,
+                "element_id": 7,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 411,
+        "name": "Guardian Lance",
+        "url": "http://mhgen.kiranico.com/lance/guardian-lance",
+        "image": "lan163"
+    },
+    {
+        "id": 346,
+        "name": "Dragon Rider Spear",
+        "url": "http://mhgen.kiranico.com/lance/dragon-rider-spear",
+        "image": "lan136"
+    },
+    {
+        "id": 329,
+        "name": "Incessant Evil",
+        "url": "http://mhgen.kiranico.com/lance/incessant-evil",
+        "image": "lan84",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1597,
+                "element_id": 6,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 344,
+        "name": "Doris Spear",
+        "url": "http://mhgen.kiranico.com/lance/doris-spear",
+        "image": "lan157",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1664,
+                "element_id": 3,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 365,
+        "name": "Spiral Heat",
+        "url": "http://mhgen.kiranico.com/lance/spiral-heat",
+        "image": "lan160",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1761,
+                "element_id": 1,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 358,
+        "name": "Seditious Lance",
+        "url": "http://mhgen.kiranico.com/lance/seditious-lance",
+        "image": "lan83"
+    },
+    {
+        "id": 332,
+        "name": "Boros Spear",
+        "url": "http://mhgen.kiranico.com/lance/boros-spear",
+        "image": "lan159"
+    },
+    {
+        "id": 378,
+        "name": "Demolition Lance",
+        "url": "http://mhgen.kiranico.com/lance/demolition-lance",
+        "image": "lan53",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 1815,
+                "element_id": 9,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 371,
+        "name": "Demon Lance",
+        "url": "http://mhgen.kiranico.com/lance/demon-lance",
+        "image": "lan14",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1789,
+                "element_id": 3,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 387,
+        "name": "Grief Lance",
+        "url": "http://mhgen.kiranico.com/lance/grief-lance",
+        "image": "lan17",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1860,
+                "element_id": 4,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 414,
+        "name": "Expert Lance",
+        "url": "http://mhgen.kiranico.com/lance/expert-lance",
+        "image": "lan148",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1964,
+                "element_id": 6,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 397,
+        "name": "Skyscraper",
+        "url": "http://mhgen.kiranico.com/lance/skyscraper",
+        "image": "lan20",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1896,
+                "element_id": 4,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 423,
+        "name": "Brain Fox",
+        "url": "http://mhgen.kiranico.com/lance/brain-fox",
+        "image": "lan80",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 2047,
+                "element_id": 1,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 398,
+        "name": "Teostra's Howl",
+        "url": "http://mhgen.kiranico.com/lance/teostras-howl",
+        "image": "lan22",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 1899,
+                "element_id": 9,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 380,
+        "name": "Silver Prominence",
+        "url": "http://mhgen.kiranico.com/lance/silver-prominence",
+        "image": "lan48",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1823,
+                "element_id": 1,
+                "value": 26
+            }
+        }
+    },
+    {
+        "id": 372,
+        "name": "Demonlord Spear",
+        "url": "http://mhgen.kiranico.com/lance/demonlord-spear",
+        "image": "lan87",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1793,
+                "element_id": 3,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 390,
+        "name": "Ukanlos Calamity",
+        "url": "http://mhgen.kiranico.com/lance/ukanlos-calamity",
+        "image": "lan94",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1872,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 392,
+        "name": "Ominous Cloud",
+        "url": "http://mhgen.kiranico.com/lance/ominous-cloud",
+        "image": "lan162",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1878,
+                "element_id": 2,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 389,
+        "name": "Astral Capricorn",
+        "url": "http://mhgen.kiranico.com/lance/astral-capricorn",
+        "image": "lan116",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1869,
+                "element_id": 4,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 391,
+        "name": "Alatreon Lance",
+        "url": "http://mhgen.kiranico.com/lance/alatreon-lance",
+        "image": "lan161",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1875,
+                "element_id": 4,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 415,
+        "name": "Stonefist Lance",
+        "url": "http://mhgen.kiranico.com/lance/stonefist-lance",
+        "image": "lan120",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1967,
+                "element_id": 2,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 416,
+        "name": "Dreadqueen Thorn",
+        "url": "http://mhgen.kiranico.com/lance/dreadqueen-thorn",
+        "image": "lan121",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1977,
+                "element_id": 6,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 417,
+        "name": "Gale Stinger",
+        "url": "http://mhgen.kiranico.com/lance/gale-stinger",
+        "image": "lan125"
+    },
+    {
+        "id": 418,
+        "name": "Incessant Calamity",
+        "url": "http://mhgen.kiranico.com/lance/incessant-calamity",
+        "image": "lan122",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1997,
+                "element_id": 6,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 419,
+        "name": "Groad Tail",
+        "url": "http://mhgen.kiranico.com/lance/groad-tail",
+        "image": "lan123",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 2007,
+                "element_id": 1,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 420,
+        "name": "Thunderlord Tenrai",
+        "url": "http://mhgen.kiranico.com/lance/thunderlord-tenrai",
+        "image": "lan126",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 2017,
+                "element_id": 3,
+                "value": 21
+            }
+        }
+    },
+    {
+        "id": 421,
+        "name": "Rudra Stinger",
+        "url": "http://mhgen.kiranico.com/lance/rudra-stinger",
+        "image": "lan124"
+    },
+    {
+        "id": 422,
+        "name": "Svarog Boomer",
+        "url": "http://mhgen.kiranico.com/lance/svarog-boomer",
+        "image": "lan127",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 2037,
+                "element_id": 9,
+                "value": 16
+            }
+        }
+    }
+]

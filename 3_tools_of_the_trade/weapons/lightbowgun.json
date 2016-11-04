@@ -1,0 +1,512 @@
+[
+    {
+        "id": 507,
+        "name": "Petrified Shooter",
+        "url": "http://mhgen.kiranico.com/lightbowgun/petrified-shooter",
+        "image": "lbg88"
+    },
+    {
+        "id": 521,
+        "name": "Hunter's Rifle",
+        "url": "http://mhgen.kiranico.com/lightbowgun/hunters-rifle",
+        "image": "lbg112"
+    },
+    {
+        "id": 535,
+        "name": "Cross Bowgun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/cross-bowgun",
+        "image": "lbg1"
+    },
+    {
+        "id": 530,
+        "name": "Shotgun (White)",
+        "url": "http://mhgen.kiranico.com/lightbowgun/shotgun-white",
+        "image": "lbg118"
+    },
+    {
+        "id": 546,
+        "name": "Striped Shell",
+        "url": "http://mhgen.kiranico.com/lightbowgun/striped-shell",
+        "image": "lbg104"
+    },
+    {
+        "id": 529,
+        "name": "Quill Burst",
+        "url": "http://mhgen.kiranico.com/lightbowgun/quill-burst",
+        "image": "lbg90"
+    },
+    {
+        "id": 518,
+        "name": "Kut-Ku Anger",
+        "url": "http://mhgen.kiranico.com/lightbowgun/kut-ku-anger",
+        "image": "lbg12"
+    },
+    {
+        "id": 573,
+        "name": "Yukumo Light Bowgun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/yukumo-light-bowgun",
+        "image": "lbg113"
+    },
+    {
+        "id": 538,
+        "name": "Yakt Shooter",
+        "url": "http://mhgen.kiranico.com/lightbowgun/yakt-shooter",
+        "image": "lbg110"
+    },
+    {
+        "id": 534,
+        "name": "Shotgun (Viper)",
+        "url": "http://mhgen.kiranico.com/lightbowgun/shotgun-viper",
+        "image": "lbg121"
+    },
+    {
+        "id": 527,
+        "name": "Scale Tornado",
+        "url": "http://mhgen.kiranico.com/lightbowgun/scale-tornado",
+        "image": "lbg105"
+    },
+    {
+        "id": 528,
+        "name": "Khezu Syringe",
+        "url": "http://mhgen.kiranico.com/lightbowgun/khezu-syringe",
+        "image": "lbg2"
+    },
+    {
+        "id": 544,
+        "name": "Royal Launcher",
+        "url": "http://mhgen.kiranico.com/lightbowgun/royal-launcher",
+        "image": "lbg3"
+    },
+    {
+        "id": 515,
+        "name": "Tail String",
+        "url": "http://mhgen.kiranico.com/lightbowgun/tail-string",
+        "image": "lbg124"
+    },
+    {
+        "id": 545,
+        "name": "Hidden Eye",
+        "url": "http://mhgen.kiranico.com/lightbowgun/hidden-eye",
+        "image": "lbg122"
+    },
+    {
+        "id": 549,
+        "name": "Demon's Isle",
+        "url": "http://mhgen.kiranico.com/lightbowgun/demons-isle",
+        "image": "lbg11"
+    },
+    {
+        "id": 579,
+        "name": "Felyne Ragdoll",
+        "url": "http://mhgen.kiranico.com/lightbowgun/felyne-ragdoll",
+        "image": "lbg26"
+    },
+    {
+        "id": 580,
+        "name": "Melynx Ragdoll",
+        "url": "http://mhgen.kiranico.com/lightbowgun/melynx-ragdoll",
+        "image": "lbg116"
+    },
+    {
+        "id": 581,
+        "name": "Kettleblower",
+        "url": "http://mhgen.kiranico.com/lightbowgun/kettleblower",
+        "image": "lbg84"
+    },
+    {
+        "id": 547,
+        "name": "Lobster Gun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/lobster-gun",
+        "image": "lbg115"
+    },
+    {
+        "id": 583,
+        "name": "Black Belt Bowgun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/black-belt-bowgun",
+        "image": "lbg117"
+    },
+    {
+        "id": 576,
+        "name": "Fiossidare",
+        "url": "http://mhgen.kiranico.com/lightbowgun/fiossidare",
+        "image": "lbg111"
+    },
+    {
+        "id": 578,
+        "name": "Beast Sniper",
+        "url": "http://mhgen.kiranico.com/lightbowgun/beast-sniper",
+        "image": "lbg132"
+    },
+    {
+        "id": 577,
+        "name": "Springnight Shot",
+        "url": "http://mhgen.kiranico.com/lightbowgun/springnight-shot",
+        "image": "lbg133"
+    },
+    {
+        "id": 570,
+        "name": "Airship Gun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/airship-gun",
+        "image": "lbg131"
+    },
+    {
+        "id": 569,
+        "name": "Veiled Bell",
+        "url": "http://mhgen.kiranico.com/lightbowgun/veiled-bell",
+        "image": "lbg107"
+    },
+    {
+        "id": 582,
+        "name": "Eldra Musket",
+        "url": "http://mhgen.kiranico.com/lightbowgun/eldra-musket",
+        "image": "lbg108"
+    },
+    {
+        "id": 510,
+        "name": "Obsidian Shooter",
+        "url": "http://mhgen.kiranico.com/lightbowgun/obsidian-shooter",
+        "image": "lbg89"
+    },
+    {
+        "id": 519,
+        "name": "Raven Do",
+        "url": "http://mhgen.kiranico.com/lightbowgun/raven-do",
+        "image": "lbg14"
+    },
+    {
+        "id": 513,
+        "name": "Valkyrie Fire",
+        "url": "http://mhgen.kiranico.com/lightbowgun/valkyrie-fire",
+        "image": "lbg123"
+    },
+    {
+        "id": 542,
+        "name": "Rathling Gun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/rathling-gun",
+        "image": "lbg6"
+    },
+    {
+        "id": 524,
+        "name": "Usurper's Crime",
+        "url": "http://mhgen.kiranico.com/lightbowgun/usurpers-crime",
+        "image": "lbg18"
+    },
+    {
+        "id": 553,
+        "name": "Desolate Mist",
+        "url": "http://mhgen.kiranico.com/lightbowgun/desolate-mist",
+        "image": "lbg96"
+    },
+    {
+        "id": 551,
+        "name": "Astalos Gun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/astalos-gun",
+        "image": "lbg94"
+    },
+    {
+        "id": 552,
+        "name": "Giant's Blaster",
+        "url": "http://mhgen.kiranico.com/lightbowgun/giants-blaster",
+        "image": "lbg95"
+    },
+    {
+        "id": 554,
+        "name": "Burning Answer",
+        "url": "http://mhgen.kiranico.com/lightbowgun/burning-answer",
+        "image": "lbg91"
+    },
+    {
+        "id": 555,
+        "name": "Fäulnisschleuder",
+        "url": "http://mhgen.kiranico.com/lightbowgun/faulnisschleuder",
+        "image": "lbg20"
+    },
+    {
+        "id": 525,
+        "name": "Rasasa Bowgun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/rasasa-bowgun",
+        "image": "lbg46"
+    },
+    {
+        "id": 541,
+        "name": "Tigrex Tank",
+        "url": "http://mhgen.kiranico.com/lightbowgun/tigrex-tank",
+        "image": "lbg65"
+    },
+    {
+        "id": 511,
+        "name": "Mythical Three-Horn",
+        "url": "http://mhgen.kiranico.com/lightbowgun/mythical-three-horn",
+        "image": "lbg125"
+    },
+    {
+        "id": 508,
+        "name": "Dios Blaster",
+        "url": "http://mhgen.kiranico.com/lightbowgun/dios-blaster",
+        "image": "lbg29"
+    },
+    {
+        "id": 558,
+        "name": "Blessed Lamp",
+        "url": "http://mhgen.kiranico.com/lightbowgun/blessed-lamp",
+        "image": "lbg68"
+    },
+    {
+        "id": 559,
+        "name": "Skeletal Bowgun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/skeletal-bowgun",
+        "image": "lbg92"
+    },
+    {
+        "id": 571,
+        "name": "Black Parasol",
+        "url": "http://mhgen.kiranico.com/lightbowgun/black-parasol",
+        "image": "lbg25"
+    },
+    {
+        "id": 532,
+        "name": "Shotgun (Azure)",
+        "url": "http://mhgen.kiranico.com/lightbowgun/shotgun-azure",
+        "image": "lbg22"
+    },
+    {
+        "id": 533,
+        "name": "Shotgun (Green)",
+        "url": "http://mhgen.kiranico.com/lightbowgun/shotgun-green",
+        "image": "lbg23"
+    },
+    {
+        "id": 531,
+        "name": "Shotgun (Blood)",
+        "url": "http://mhgen.kiranico.com/lightbowgun/shotgun-blood",
+        "image": "lbg24"
+    },
+    {
+        "id": 539,
+        "name": "Shell Shooter",
+        "url": "http://mhgen.kiranico.com/lightbowgun/shell-shooter",
+        "image": "lbg21"
+    },
+    {
+        "id": 536,
+        "name": "Desert Storm",
+        "url": "http://mhgen.kiranico.com/lightbowgun/desert-storm",
+        "image": "lbg119"
+    },
+    {
+        "id": 517,
+        "name": "Sawgun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/sawgun",
+        "image": "lbg15"
+    },
+    {
+        "id": 522,
+        "name": "Mandible Blaster",
+        "url": "http://mhgen.kiranico.com/lightbowgun/mandible-blaster",
+        "image": "lbg106"
+    },
+    {
+        "id": 516,
+        "name": "Tail Blizzard",
+        "url": "http://mhgen.kiranico.com/lightbowgun/tail-blizzard",
+        "image": "lbg109"
+    },
+    {
+        "id": 574,
+        "name": "Yukumo Pureshot",
+        "url": "http://mhgen.kiranico.com/lightbowgun/yukumo-pureshot",
+        "image": "lbg113"
+    },
+    {
+        "id": 537,
+        "name": "Lava Storm",
+        "url": "http://mhgen.kiranico.com/lightbowgun/lava-storm",
+        "image": "lbg126"
+    },
+    {
+        "id": 520,
+        "name": "Vile Do",
+        "url": "http://mhgen.kiranico.com/lightbowgun/vile-do",
+        "image": "lbg49"
+    },
+    {
+        "id": 543,
+        "name": "Thundacrus",
+        "url": "http://mhgen.kiranico.com/lightbowgun/thundacrus",
+        "image": "lbg19"
+    },
+    {
+        "id": 512,
+        "name": "Blitz Bowgun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/blitz-bowgun",
+        "image": "lbg17"
+    },
+    {
+        "id": 550,
+        "name": "God's Isle",
+        "url": "http://mhgen.kiranico.com/lightbowgun/gods-isle",
+        "image": "lbg11"
+    },
+    {
+        "id": 572,
+        "name": "Angel Parasol",
+        "url": "http://mhgen.kiranico.com/lightbowgun/angel-parasol",
+        "image": "lbg120"
+    },
+    {
+        "id": 548,
+        "name": "Maelstrom",
+        "url": "http://mhgen.kiranico.com/lightbowgun/maelstrom",
+        "image": "lbg70"
+    },
+    {
+        "id": 540,
+        "name": "Machine Strafer",
+        "url": "http://mhgen.kiranico.com/lightbowgun/machine-strafer",
+        "image": "lbg50"
+    },
+    {
+        "id": 526,
+        "name": "Seditious Shot",
+        "url": "http://mhgen.kiranico.com/lightbowgun/seditious-shot",
+        "image": "lbg48"
+    },
+    {
+        "id": 523,
+        "name": "Durambarrel",
+        "url": "http://mhgen.kiranico.com/lightbowgun/durambarrel",
+        "image": "lbg127"
+    },
+    {
+        "id": 509,
+        "name": "Demolition Gun",
+        "url": "http://mhgen.kiranico.com/lightbowgun/demolition-gun",
+        "image": "lbg33"
+    },
+    {
+        "id": 556,
+        "name": "La Lumière",
+        "url": "http://mhgen.kiranico.com/lightbowgun/la-lumiere",
+        "image": "lbg32"
+    },
+    {
+        "id": 563,
+        "name": "Rajang Barrage",
+        "url": "http://mhgen.kiranico.com/lightbowgun/rajang-barrage",
+        "image": "lbg8"
+    },
+    {
+        "id": 561,
+        "name": "Devil's Grin",
+        "url": "http://mhgen.kiranico.com/lightbowgun/devils-grin",
+        "image": "lbg10"
+    },
+    {
+        "id": 575,
+        "name": "Gourd Shot",
+        "url": "http://mhgen.kiranico.com/lightbowgun/gourd-shot",
+        "image": "lbg114"
+    },
+    {
+        "id": 557,
+        "name": "Icesteel Wasp",
+        "url": "http://mhgen.kiranico.com/lightbowgun/icesteel-wasp",
+        "image": "lbg44"
+    },
+    {
+        "id": 565,
+        "name": "Silver Spartacus",
+        "url": "http://mhgen.kiranico.com/lightbowgun/silver-spartacus",
+        "image": "lbg128"
+    },
+    {
+        "id": 566,
+        "name": "Gold Valkyrie",
+        "url": "http://mhgen.kiranico.com/lightbowgun/gold-valkyrie",
+        "image": "lbg129"
+    },
+    {
+        "id": 514,
+        "name": "Blossomayhem",
+        "url": "http://mhgen.kiranico.com/lightbowgun/blossomayhem",
+        "image": "lbg16"
+    },
+    {
+        "id": 564,
+        "name": "Demonlord Blaster",
+        "url": "http://mhgen.kiranico.com/lightbowgun/demonlord-blaster",
+        "image": "lbg53"
+    },
+    {
+        "id": 562,
+        "name": "Diregun \"Dementia\"",
+        "url": "http://mhgen.kiranico.com/lightbowgun/diregun-dementia",
+        "image": "lbg28"
+    },
+    {
+        "id": 567,
+        "name": "Ukanlos Frost Bow",
+        "url": "http://mhgen.kiranico.com/lightbowgun/ukanlos-frost-bow",
+        "image": "lbg67"
+    },
+    {
+        "id": 568,
+        "name": "Wicked Needle",
+        "url": "http://mhgen.kiranico.com/lightbowgun/wicked-needle",
+        "image": "lbg130"
+    },
+    {
+        "id": 560,
+        "name": "Polarstar Shooter",
+        "url": "http://mhgen.kiranico.com/lightbowgun/polarstar-shooter",
+        "image": "lbg93"
+    },
+    {
+        "id": 584,
+        "name": "Rathian Fire",
+        "url": "http://mhgen.kiranico.com/lightbowgun/rathian-fire",
+        "image": "lbg97"
+    },
+    {
+        "id": 585,
+        "name": "Squall's Gaze",
+        "url": "http://mhgen.kiranico.com/lightbowgun/squalls-gaze",
+        "image": "lbg101"
+    },
+    {
+        "id": 586,
+        "name": "Wicked Do",
+        "url": "http://mhgen.kiranico.com/lightbowgun/wicked-do",
+        "image": "lbg98"
+    },
+    {
+        "id": 587,
+        "name": "Dreadking Blaster",
+        "url": "http://mhgen.kiranico.com/lightbowgun/dreadking-blaster",
+        "image": "lbg99"
+    },
+    {
+        "id": 588,
+        "name": "Thunder Lycan",
+        "url": "http://mhgen.kiranico.com/lightbowgun/thunder-lycan",
+        "image": "lbg102"
+    },
+    {
+        "id": 589,
+        "name": "Rudra Shot",
+        "url": "http://mhgen.kiranico.com/lightbowgun/rudra-shot",
+        "image": "lbg100"
+    },
+    {
+        "id": 590,
+        "name": "Infernal Solution",
+        "url": "http://mhgen.kiranico.com/lightbowgun/infernal-solution",
+        "image": "lbg103"
+    },
+    {
+        "id": 591,
+        "name": "Arm Cannon",
+        "url": "http://mhgen.kiranico.com/lightbowgun/arm-cannon",
+        "image": "lbg86"
+    }
+]

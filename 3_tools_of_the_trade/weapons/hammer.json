@@ -1,0 +1,1158 @@
+[
+    {
+        "id": 217,
+        "name": "Petrified Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/petrified-hammer",
+        "image": "ham130"
+    },
+    {
+        "id": 224,
+        "name": "Iron Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/iron-hammer",
+        "image": "ham1"
+    },
+    {
+        "id": 241,
+        "name": "Bone Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/bone-hammer",
+        "image": "ham4"
+    },
+    {
+        "id": 237,
+        "name": "Spiked Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/spiked-hammer",
+        "image": "ham152"
+    },
+    {
+        "id": 254,
+        "name": "Bone Bludgeon",
+        "url": "http://mhgen.kiranico.com/hammer/bone-bludgeon",
+        "image": "ham5"
+    },
+    {
+        "id": 259,
+        "name": "Revenge Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/revenge-hammer",
+        "image": "ham151"
+    },
+    {
+        "id": 257,
+        "name": "Ludroth Bone Mace",
+        "url": "http://mhgen.kiranico.com/hammer/ludroth-bone-mace",
+        "image": "ham168"
+    },
+    {
+        "id": 260,
+        "name": "Feather Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/feather-hammer",
+        "image": "ham132"
+    },
+    {
+        "id": 261,
+        "name": "Bull Head Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/bull-head-hammer",
+        "image": "ham167"
+    },
+    {
+        "id": 294,
+        "name": "Yukumo Mallet",
+        "url": "http://mhgen.kiranico.com/hammer/yukumo-mallet",
+        "image": "ham158"
+    },
+    {
+        "id": 286,
+        "name": "Rusted Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/rusted-hammer",
+        "image": "ham17"
+    },
+    {
+        "id": 230,
+        "name": "War Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/war-hammer",
+        "image": "ham2"
+    },
+    {
+        "id": 246,
+        "name": "Cyclo-Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/cyclo-hammer",
+        "image": "ham156"
+    },
+    {
+        "id": 240,
+        "name": "Frozen Core",
+        "url": "http://mhgen.kiranico.com/hammer/frozen-core",
+        "image": "ham33",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1172,
+                "element_id": 5,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 221,
+        "name": "Great Nova",
+        "url": "http://mhgen.kiranico.com/hammer/great-nova",
+        "image": "ham154",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1085,
+                "element_id": 3,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 249,
+        "name": "Skullcrusher",
+        "url": "http://mhgen.kiranico.com/hammer/skullcrusher",
+        "image": "ham157"
+    },
+    {
+        "id": 243,
+        "name": "Calamitous Portent",
+        "url": "http://mhgen.kiranico.com/hammer/calamitous-portent",
+        "image": "ham147",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1189,
+                "element_id": 6,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 268,
+        "name": "Kut-Ku Pick",
+        "url": "http://mhgen.kiranico.com/hammer/kut-ku-pick",
+        "image": "ham14"
+    },
+    {
+        "id": 271,
+        "name": "Venom Monster",
+        "url": "http://mhgen.kiranico.com/hammer/venom-monster",
+        "image": "ham16",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1319,
+                "element_id": 6,
+                "value": 26
+            }
+        }
+    },
+    {
+        "id": 229,
+        "name": "Binding Bludgeon",
+        "url": "http://mhgen.kiranico.com/hammer/binding-bludgeon",
+        "image": "ham27",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 1124,
+                "element_id": 7,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 258,
+        "name": "Ludroth Splashhammer",
+        "url": "http://mhgen.kiranico.com/hammer/ludroth-splashhammer",
+        "image": "ham169",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1258,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 253,
+        "name": "Bag o' Horrors",
+        "url": "http://mhgen.kiranico.com/hammer/bag-o-horrors",
+        "image": "ham10",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1235,
+                "element_id": 3,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 223,
+        "name": "Type 42 Shellbuster",
+        "url": "http://mhgen.kiranico.com/hammer/type-42-shellbuster",
+        "image": "ham148",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1095,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 251,
+        "name": "Conehead Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/conehead-hammer",
+        "image": "ham171",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1225,
+                "element_id": 5,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 252,
+        "name": "Ceanataur Head Axe",
+        "url": "http://mhgen.kiranico.com/hammer/ceanataur-head-axe",
+        "image": "ham112"
+    },
+    {
+        "id": 264,
+        "name": "Dragonhead Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/dragonhead-hammer",
+        "image": "ham170"
+    },
+    {
+        "id": 267,
+        "name": "Hidden Breaker",
+        "url": "http://mhgen.kiranico.com/hammer/hidden-breaker",
+        "image": "ham23"
+    },
+    {
+        "id": 299,
+        "name": "Cactus Creamer",
+        "url": "http://mhgen.kiranico.com/hammer/cactus-creamer",
+        "image": "ham161",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1435,
+                "element_id": 6,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 300,
+        "name": "Black Frying Pan",
+        "url": "http://mhgen.kiranico.com/hammer/black-frying-pan",
+        "image": "ham162",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 1439,
+                "element_id": 9,
+                "value": 4
+            }
+        }
+    },
+    {
+        "id": 302,
+        "name": "Pumpking",
+        "url": "http://mhgen.kiranico.com/hammer/pumpking",
+        "image": "ham164",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1446,
+                "element_id": 1,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 296,
+        "name": "Airship Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/airship-hammer",
+        "image": "ham149",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 1425,
+                "element_id": 9,
+                "value": 7
+            }
+        }
+    },
+    {
+        "id": 292,
+        "name": "Gaiarch",
+        "url": "http://mhgen.kiranico.com/hammer/gaiarch",
+        "image": "ham15",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1406,
+                "element_id": 5,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 307,
+        "name": "White Kitty Stamp",
+        "url": "http://mhgen.kiranico.com/hammer/white-kitty-stamp",
+        "image": "ham36",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 1462,
+                "element_id": 7,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 218,
+        "name": "Obsidian Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/obsidian-hammer",
+        "image": "ham131"
+    },
+    {
+        "id": 226,
+        "name": "Anvil Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/anvil-hammer",
+        "image": "ham153"
+    },
+    {
+        "id": 235,
+        "name": "Gun Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/gun-hammer",
+        "image": "ham22",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1149,
+                "element_id": 1,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 269,
+        "name": "Raven Torrent",
+        "url": "http://mhgen.kiranico.com/hammer/raven-torrent",
+        "image": "ham51"
+    },
+    {
+        "id": 222,
+        "name": "Brazenclout",
+        "url": "http://mhgen.kiranico.com/hammer/brazenclout",
+        "image": "ham174"
+    },
+    {
+        "id": 265,
+        "name": "Red Bludgeon",
+        "url": "http://mhgen.kiranico.com/hammer/red-bludgeon",
+        "image": "ham8",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1292,
+                "element_id": 1,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 238,
+        "name": "Vortex Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/vortex-hammer",
+        "image": "ham172",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1164,
+                "element_id": 3,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 263,
+        "name": "Usurper's Thunder",
+        "url": "http://mhgen.kiranico.com/hammer/usurpers-thunder",
+        "image": "ham25",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1283,
+                "element_id": 3,
+                "value": 26
+            }
+        }
+    },
+    {
+        "id": 274,
+        "name": "Purity Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/purity-hammer",
+        "image": "ham138",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1336,
+                "element_id": 2,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 272,
+        "name": "Emerald Beater",
+        "url": "http://mhgen.kiranico.com/hammer/emerald-beater",
+        "image": "ham136",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1324,
+                "element_id": 3,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 273,
+        "name": "Giant's Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/giants-hammer",
+        "image": "ham137",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1330,
+                "element_id": 5,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 275,
+        "name": "Scorching Isshata",
+        "url": "http://mhgen.kiranico.com/hammer/scorching-isshata",
+        "image": "ham133",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1342,
+                "element_id": 1,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 276,
+        "name": "Wuchtblick",
+        "url": "http://mhgen.kiranico.com/hammer/wuchtblick",
+        "image": "ham56",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1348,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 247,
+        "name": "Matraca Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/matraca-hammer",
+        "image": "ham98"
+    },
+    {
+        "id": 220,
+        "name": "Striped Striker",
+        "url": "http://mhgen.kiranico.com/hammer/striped-striker",
+        "image": "ham9"
+    },
+    {
+        "id": 244,
+        "name": "Dios Tailhammer",
+        "url": "http://mhgen.kiranico.com/hammer/dios-tailhammer",
+        "image": "ham34",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 1194,
+                "element_id": 9,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 277,
+        "name": "Le Jugement",
+        "url": "http://mhgen.kiranico.com/hammer/le-jugement",
+        "image": "ham57",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1353,
+                "element_id": 4,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 278,
+        "name": "Genie's Expanse",
+        "url": "http://mhgen.kiranico.com/hammer/genies-expanse",
+        "image": "ham97",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1358,
+                "element_id": 6,
+                "value": 23
+            }
+        }
+    },
+    {
+        "id": 288,
+        "name": "Teostra Cratermaker",
+        "url": "http://mhgen.kiranico.com/hammer/teostra-cratermaker",
+        "image": "ham37",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 1391,
+                "element_id": 9,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 281,
+        "name": "Skeletal Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/skeletal-hammer",
+        "image": "ham134",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1368,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 297,
+        "name": "Teddybear",
+        "url": "http://mhgen.kiranico.com/hammer/teddybear",
+        "image": "ham128",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 1429,
+                "element_id": 8,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 242,
+        "name": "Lobstrosity",
+        "url": "http://mhgen.kiranico.com/hammer/lobstrosity",
+        "image": "ham160",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1185,
+                "element_id": 2,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 309,
+        "name": "Egg Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/egg-hammer",
+        "image": "ham166"
+    },
+    {
+        "id": 310,
+        "name": "Graceful Death",
+        "url": "http://mhgen.kiranico.com/hammer/graceful-death",
+        "image": "ham150",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1473,
+                "element_id": 4,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 311,
+        "name": "Black Belt Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/black-belt-hammer",
+        "image": "ham126"
+    },
+    {
+        "id": 295,
+        "name": "Yukumo Purehammer",
+        "url": "http://mhgen.kiranico.com/hammer/yukumo-purehammer",
+        "image": "ham158"
+    },
+    {
+        "id": 293,
+        "name": "Black Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/black-hammer",
+        "image": "ham21",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1411,
+                "element_id": 4,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 287,
+        "name": "Breath Core Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/breath-core-hammer",
+        "image": "ham18",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1388,
+                "element_id": 4,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 219,
+        "name": "Fist of Fury",
+        "url": "http://mhgen.kiranico.com/hammer/fist-of-fury",
+        "image": "ham6"
+    },
+    {
+        "id": 232,
+        "name": "Iron Striker",
+        "url": "http://mhgen.kiranico.com/hammer/iron-striker",
+        "image": "ham3"
+    },
+    {
+        "id": 227,
+        "name": "Accelerated Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/accelerated-hammer",
+        "image": "ham41",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1117,
+                "element_id": 2,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 255,
+        "name": "Meaty Smash",
+        "url": "http://mhgen.kiranico.com/hammer/meaty-smash",
+        "image": "ham54",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1246,
+                "element_id": 5,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 289,
+        "name": "Worn Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/worn-hammer",
+        "image": "ham17"
+    },
+    {
+        "id": 225,
+        "name": "Devil Masher",
+        "url": "http://mhgen.kiranico.com/hammer/devil-masher",
+        "image": "ham48",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 1108,
+                "element_id": 7,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 231,
+        "name": "War Stamp",
+        "url": "http://mhgen.kiranico.com/hammer/war-stamp",
+        "image": "ham49"
+    },
+    {
+        "id": 256,
+        "name": "Meaty Press",
+        "url": "http://mhgen.kiranico.com/hammer/meaty-press",
+        "image": "ham55",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1250,
+                "element_id": 5,
+                "value": 42
+            }
+        }
+    },
+    {
+        "id": 262,
+        "name": "Plesioth Head",
+        "url": "http://mhgen.kiranico.com/hammer/plesioth-head",
+        "image": "ham175",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1279,
+                "element_id": 2,
+                "value": 21
+            }
+        }
+    },
+    {
+        "id": 308,
+        "name": "Black Kitty Stamp",
+        "url": "http://mhgen.kiranico.com/hammer/black-kitty-stamp",
+        "image": "ham28",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 1466,
+                "element_id": 7,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 298,
+        "name": "Enormous Ham",
+        "url": "http://mhgen.kiranico.com/hammer/enormous-ham",
+        "image": "ham129",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1432,
+                "element_id": 1,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 301,
+        "name": "One Star Silver Pot",
+        "url": "http://mhgen.kiranico.com/hammer/one-star-silver-pot",
+        "image": "ham163",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 1443,
+                "element_id": 8,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 236,
+        "name": "Shot Crusher",
+        "url": "http://mhgen.kiranico.com/hammer/shot-crusher",
+        "image": "ham39",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1154,
+                "element_id": 1,
+                "value": 46
+            }
+        }
+    },
+    {
+        "id": 270,
+        "name": "Vile Torrent",
+        "url": "http://mhgen.kiranico.com/hammer/vile-torrent",
+        "image": "ham101",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 1316,
+                "element_id": 6,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 228,
+        "name": "Nitro Boost Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/nitro-boost-hammer",
+        "image": "ham38",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1121,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 239,
+        "name": "Vortical Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/vortical-hammer",
+        "image": "ham173",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1169,
+                "element_id": 3,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 248,
+        "name": "Seditious Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/seditious-hammer",
+        "image": "ham100"
+    },
+    {
+        "id": 250,
+        "name": "Jupiter's Sphere",
+        "url": "http://mhgen.kiranico.com/hammer/jupiters-sphere",
+        "image": "ham176"
+    },
+    {
+        "id": 245,
+        "name": "Demolition Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/demolition-hammer",
+        "image": "ham44",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 1199,
+                "element_id": 9,
+                "value": 26
+            }
+        }
+    },
+    {
+        "id": 233,
+        "name": "Mane Malice",
+        "url": "http://mhgen.kiranico.com/hammer/mane-malice",
+        "image": "ham58",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1142,
+                "element_id": 3,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 279,
+        "name": "Devil's Due",
+        "url": "http://mhgen.kiranico.com/hammer/devils-due",
+        "image": "ham12",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1362,
+                "element_id": 4,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 303,
+        "name": "Anchor Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/anchor-hammer",
+        "image": "ham159",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1450,
+                "element_id": 2,
+                "value": 34
+            }
+        }
+    },
+    {
+        "id": 304,
+        "name": "Portsmark",
+        "url": "http://mhgen.kiranico.com/hammer/portsmark",
+        "image": "ham127"
+    },
+    {
+        "id": 305,
+        "name": "Arluq Whammer",
+        "url": "http://mhgen.kiranico.com/hammer/arluq-whammer",
+        "image": "ham124",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1456,
+                "element_id": 4,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 306,
+        "name": "Pride of Harth",
+        "url": "http://mhgen.kiranico.com/hammer/pride-of-harth",
+        "image": "ham125"
+    },
+    {
+        "id": 312,
+        "name": "Expert Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/expert-hammer",
+        "image": "ham165"
+    },
+    {
+        "id": 290,
+        "name": "Pulsating Core",
+        "url": "http://mhgen.kiranico.com/hammer/pulsating-core",
+        "image": "ham19",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1400,
+                "element_id": 4,
+                "value": 35
+            }
+        }
+    },
+    {
+        "id": 321,
+        "name": "Thunder Works",
+        "url": "http://mhgen.kiranico.com/hammer/thunder-works",
+        "image": "ham95",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1564,
+                "element_id": 3,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 322,
+        "name": "Demon Visage",
+        "url": "http://mhgen.kiranico.com/hammer/demon-visage",
+        "image": "ham96"
+    },
+    {
+        "id": 291,
+        "name": "Icesteel Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/icesteel-hammer",
+        "image": "ham20",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1403,
+                "element_id": 5,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 266,
+        "name": "Leonid Starcrusher",
+        "url": "http://mhgen.kiranico.com/hammer/leonid-starcrusher",
+        "image": "ham32",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1297,
+                "element_id": 1,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 234,
+        "name": "Demonlord Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/demonlord-hammer",
+        "image": "ham104",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1146,
+                "element_id": 3,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 280,
+        "name": "Consummate Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/consummate-hammer",
+        "image": "ham61",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1365,
+                "element_id": 4,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 283,
+        "name": "Ukanlos Trampler",
+        "url": "http://mhgen.kiranico.com/hammer/ukanlos-trampler",
+        "image": "ham111",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1376,
+                "element_id": 5,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 285,
+        "name": "Incubus Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/incubus-hammer",
+        "image": "ham179",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1382,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 282,
+        "name": "Polaris Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/polaris-hammer",
+        "image": "ham135",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1373,
+                "element_id": 4,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 284,
+        "name": "Alatreon Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/alatreon-hammer",
+        "image": "ham178",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1379,
+                "element_id": 4,
+                "value": 35
+            }
+        }
+    },
+    {
+        "id": 313,
+        "name": "Pincher Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/pincher-hammer",
+        "image": "ham139",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 1484,
+                "element_id": 2,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 314,
+        "name": "Nightfall Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/nightfall-hammer",
+        "image": "ham143"
+    },
+    {
+        "id": 315,
+        "name": "Geode Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/geode-hammer",
+        "image": "ham146"
+    },
+    {
+        "id": 316,
+        "name": "Hardened Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/hardened-hammer",
+        "image": "ham140"
+    },
+    {
+        "id": 317,
+        "name": "Tomb Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/tomb-hammer",
+        "image": "ham141",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1524,
+                "element_id": 1,
+                "value": 33
+            }
+        }
+    },
+    {
+        "id": 318,
+        "name": "Raiden Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/raiden-hammer",
+        "image": "ham144",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1534,
+                "element_id": 3,
+                "value": 31
+            }
+        }
+    },
+    {
+        "id": 319,
+        "name": "Seize Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/seize-hammer",
+        "image": "ham142"
+    },
+    {
+        "id": 320,
+        "name": "Magma Hammer",
+        "url": "http://mhgen.kiranico.com/hammer/magma-hammer",
+        "image": "ham145",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 1554,
+                "element_id": 9,
+                "value": 16
+            }
+        }
+    }
+]

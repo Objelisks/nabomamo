@@ -1,0 +1,1104 @@
+[
+    {
+        "id": 960,
+        "name": "Petrified Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/petrified-daggers",
+        "image": "sou120"
+    },
+    {
+        "id": 968,
+        "name": "Twin Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/twin-daggers",
+        "image": "sou2"
+    },
+    {
+        "id": 985,
+        "name": "Bone Scythes",
+        "url": "http://mhgen.kiranico.com/dualblades/bone-scythes",
+        "image": "sou47"
+    },
+    {
+        "id": 966,
+        "name": "Insecticutters",
+        "url": "http://mhgen.kiranico.com/dualblades/insecticutters",
+        "image": "sou45"
+    },
+    {
+        "id": 981,
+        "name": "Dual Piercers",
+        "url": "http://mhgen.kiranico.com/dualblades/dual-piercers",
+        "image": "sou122"
+    },
+    {
+        "id": 1003,
+        "name": "Vprey Claws",
+        "url": "http://mhgen.kiranico.com/dualblades/vprey-claws",
+        "image": "sou7"
+    },
+    {
+        "id": 996,
+        "name": "Cerulean Axes",
+        "url": "http://mhgen.kiranico.com/dualblades/cerulean-axes",
+        "image": "sou138"
+    },
+    {
+        "id": 1029,
+        "name": "Yukumo Duo",
+        "url": "http://mhgen.kiranico.com/dualblades/yukumo-duo",
+        "image": "sou149"
+    },
+    {
+        "id": 969,
+        "name": "Hurricane",
+        "url": "http://mhgen.kiranico.com/dualblades/hurricane",
+        "image": "sou17"
+    },
+    {
+        "id": 988,
+        "name": "Talon Carvers",
+        "url": "http://mhgen.kiranico.com/dualblades/talon-carvers",
+        "image": "sou140"
+    },
+    {
+        "id": 963,
+        "name": "Twin Chainsaws",
+        "url": "http://mhgen.kiranico.com/dualblades/twin-chainsaws",
+        "image": "sou19",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4651,
+                "element_id": 3,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1007,
+        "name": "Kut-Ku Pair",
+        "url": "http://mhgen.kiranico.com/dualblades/kut-ku-pair",
+        "image": "sou9",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4855,
+                "element_id": 1,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1004,
+        "name": "Snow Venom",
+        "url": "http://mhgen.kiranico.com/dualblades/snow-venom",
+        "image": "sou155",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4843,
+                "element_id": 5,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1000,
+        "name": "Snow Slicers",
+        "url": "http://mhgen.kiranico.com/dualblades/snow-slicers",
+        "image": "sou6",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4823,
+                "element_id": 5,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 1002,
+        "name": "Dual Battleaxes",
+        "url": "http://mhgen.kiranico.com/dualblades/dual-battleaxes",
+        "image": "sou5",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 4832,
+                "element_id": 6,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 994,
+        "name": "Crab Horns",
+        "url": "http://mhgen.kiranico.com/dualblades/crab-horns",
+        "image": "sou144"
+    },
+    {
+        "id": 998,
+        "name": "Ludroth Pair",
+        "url": "http://mhgen.kiranico.com/dualblades/ludroth-pair",
+        "image": "sou153",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4813,
+                "element_id": 2,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 984,
+        "name": "Khezu Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/khezu-daggers",
+        "image": "sou139",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4745,
+                "element_id": 3,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 965,
+        "name": "Type 51 Macerators",
+        "url": "http://mhgen.kiranico.com/dualblades/type-51-macerators",
+        "image": "sou154",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4659,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 991,
+        "name": "Bladed Edges",
+        "url": "http://mhgen.kiranico.com/dualblades/bladed-edges",
+        "image": "sou157"
+    },
+    {
+        "id": 993,
+        "name": "Hidden Gemini",
+        "url": "http://mhgen.kiranico.com/dualblades/hidden-gemini",
+        "image": "sou156"
+    },
+    {
+        "id": 1039,
+        "name": "Glutton's Tools",
+        "url": "http://mhgen.kiranico.com/dualblades/gluttons-tools",
+        "image": "sou31"
+    },
+    {
+        "id": 1035,
+        "name": "Pokke Mittens",
+        "url": "http://mhgen.kiranico.com/dualblades/pokke-mittens",
+        "image": "sou162",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4974,
+                "element_id": 5,
+                "value": 2
+            }
+        }
+    },
+    {
+        "id": 1045,
+        "name": "Daora Blades",
+        "url": "http://mhgen.kiranico.com/dualblades/daora-blades",
+        "image": "sou145"
+    },
+    {
+        "id": 961,
+        "name": "Obsidian Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/obsidian-daggers",
+        "image": "sou121"
+    },
+    {
+        "id": 976,
+        "name": "Dual Hatchets",
+        "url": "http://mhgen.kiranico.com/dualblades/dual-hatchets",
+        "image": "sou18"
+    },
+    {
+        "id": 980,
+        "name": "Sworn Rapiers",
+        "url": "http://mhgen.kiranico.com/dualblades/sworn-rapiers",
+        "image": "sou16",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4727,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 997,
+        "name": "Blazeblades",
+        "url": "http://mhgen.kiranico.com/dualblades/blazeblades",
+        "image": "sou141",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4808,
+                "element_id": 1,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1008,
+        "name": "Raven Tessen",
+        "url": "http://mhgen.kiranico.com/dualblades/raven-tessen",
+        "image": "sou10"
+    },
+    {
+        "id": 986,
+        "name": "Twin Flames",
+        "url": "http://mhgen.kiranico.com/dualblades/twin-flames",
+        "image": "sou20",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4758,
+                "element_id": 1,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 999,
+        "name": "Twin Acrus",
+        "url": "http://mhgen.kiranico.com/dualblades/twin-acrus",
+        "image": "sou29",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4818,
+                "element_id": 3,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 979,
+        "name": "Usurper's Fulgur",
+        "url": "http://mhgen.kiranico.com/dualblades/usurpers-fulgur",
+        "image": "sou3",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4723,
+                "element_id": 3,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 1012,
+        "name": "Morning Dawn",
+        "url": "http://mhgen.kiranico.com/dualblades/morning-dawn",
+        "image": "sou128",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4881,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1010,
+        "name": "Twin Bolts",
+        "url": "http://mhgen.kiranico.com/dualblades/twin-bolts",
+        "image": "sou126",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4869,
+                "element_id": 3,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1011,
+        "name": "Giant's Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/giants-daggers",
+        "image": "sou127",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4875,
+                "element_id": 5,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1013,
+        "name": "Smoldering Cities",
+        "url": "http://mhgen.kiranico.com/dualblades/smoldering-cities",
+        "image": "sou123",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4887,
+                "element_id": 1,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1014,
+        "name": "Fledderklauen",
+        "url": "http://mhgen.kiranico.com/dualblades/fledderklauen",
+        "image": "sou39",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4893,
+                "element_id": 4,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 974,
+        "name": "Zakun Twins",
+        "url": "http://mhgen.kiranico.com/dualblades/zakun-twins",
+        "image": "sou86"
+    },
+    {
+        "id": 978,
+        "name": "Rex Slicers",
+        "url": "http://mhgen.kiranico.com/dualblades/rex-slicers",
+        "image": "sou1"
+    },
+    {
+        "id": 995,
+        "name": "Monarch",
+        "url": "http://mhgen.kiranico.com/dualblades/monarch",
+        "image": "sou27",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4797,
+                "element_id": 3,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 972,
+        "name": "Dios Slicers",
+        "url": "http://mhgen.kiranico.com/dualblades/dios-slicers",
+        "image": "sou24",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 4695,
+                "element_id": 9,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1015,
+        "name": "Les Apôtres",
+        "url": "http://mhgen.kiranico.com/dualblades/les-apotres",
+        "image": "sou44",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4898,
+                "element_id": 4,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 983,
+        "name": "Rouge Flames",
+        "url": "http://mhgen.kiranico.com/dualblades/rouge-flames",
+        "image": "sou26",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 4741,
+                "element_id": 6,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 1016,
+        "name": "Twin Nails",
+        "url": "http://mhgen.kiranico.com/dualblades/twin-nails",
+        "image": "sou11",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 4903,
+                "element_id": 9,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1020,
+        "name": "Chasm Blades",
+        "url": "http://mhgen.kiranico.com/dualblades/chasm-blades",
+        "image": "sou124",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4917,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1041,
+        "name": "Qornu Waga",
+        "url": "http://mhgen.kiranico.com/dualblades/qornu-waga",
+        "image": "sou152",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4995,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1036,
+        "name": "White Dango",
+        "url": "http://mhgen.kiranico.com/dualblades/white-dango",
+        "image": "sou150"
+    },
+    {
+        "id": 1034,
+        "name": "Addled Beers",
+        "url": "http://mhgen.kiranico.com/dualblades/addled-beers",
+        "image": "sou161",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 4970,
+                "element_id": 8,
+                "value": 2
+            }
+        }
+    },
+    {
+        "id": 1031,
+        "name": "Wycademy Blades",
+        "url": "http://mhgen.kiranico.com/dualblades/wycademy-blades",
+        "image": "sou143",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 4959,
+                "element_id": 9,
+                "value": 7
+            }
+        }
+    },
+    {
+        "id": 1030,
+        "name": "Pure Yukumo Duo",
+        "url": "http://mhgen.kiranico.com/dualblades/pure-yukumo-duo",
+        "image": "sou149"
+    },
+    {
+        "id": 1028,
+        "name": "Black Twin Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/black-twin-daggers",
+        "image": "sou160",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4945,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1032,
+        "name": "Heroic Twins",
+        "url": "http://mhgen.kiranico.com/dualblades/heroic-twins",
+        "image": "sou148"
+    },
+    {
+        "id": 977,
+        "name": "Tornado Hatchets",
+        "url": "http://mhgen.kiranico.com/dualblades/tornado-hatchets",
+        "image": "sou102"
+    },
+    {
+        "id": 962,
+        "name": "Gelid Mind",
+        "url": "http://mhgen.kiranico.com/dualblades/gelid-mind",
+        "image": "sou92",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4648,
+                "element_id": 5,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 1005,
+        "name": "Whirlitwists",
+        "url": "http://mhgen.kiranico.com/dualblades/whirlitwists",
+        "image": "sou49",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4848,
+                "element_id": 2,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1001,
+        "name": "Maulagombs",
+        "url": "http://mhgen.kiranico.com/dualblades/maulagombs",
+        "image": "sou37",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4829,
+                "element_id": 5,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 970,
+        "name": "Cleaving Jaws",
+        "url": "http://mhgen.kiranico.com/dualblades/cleaving-jaws",
+        "image": "sou42",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4688,
+                "element_id": 5,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 989,
+        "name": "Plesioth Cutlasses",
+        "url": "http://mhgen.kiranico.com/dualblades/plesioth-cutlasses",
+        "image": "sou15",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4772,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1037,
+        "name": "Spicy Dango",
+        "url": "http://mhgen.kiranico.com/dualblades/spicy-dango",
+        "image": "sou150",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4982,
+                "element_id": 1,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1038,
+        "name": "Tengu Dango",
+        "url": "http://mhgen.kiranico.com/dualblades/tengu-dango",
+        "image": "sou150",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 4985,
+                "element_id": 6,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1042,
+        "name": "Shaka Scarecrows",
+        "url": "http://mhgen.kiranico.com/dualblades/shaka-scarecrows",
+        "image": "sou117",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 4999,
+                "element_id": 7,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1025,
+        "name": "Worn Blades",
+        "url": "http://mhgen.kiranico.com/dualblades/worn-blades",
+        "image": "sou22"
+    },
+    {
+        "id": 964,
+        "name": "Roving Saws",
+        "url": "http://mhgen.kiranico.com/dualblades/roving-saws",
+        "image": "sou147",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4656,
+                "element_id": 3,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 967,
+        "name": "Insectiscythes",
+        "url": "http://mhgen.kiranico.com/dualblades/insectiscythes",
+        "image": "sou46"
+    },
+    {
+        "id": 971,
+        "name": "Cool Cleavers",
+        "url": "http://mhgen.kiranico.com/dualblades/cool-cleavers",
+        "image": "sou38",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4692,
+                "element_id": 5,
+                "value": 27
+            }
+        }
+    },
+    {
+        "id": 1006,
+        "name": "Whirlitorture",
+        "url": "http://mhgen.kiranico.com/dualblades/whirlitorture",
+        "image": "sou48",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4852,
+                "element_id": 2,
+                "value": 21
+            }
+        }
+    },
+    {
+        "id": 990,
+        "name": "Firestorm",
+        "url": "http://mhgen.kiranico.com/dualblades/firestorm",
+        "image": "sou158",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4776,
+                "element_id": 2,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 992,
+        "name": "Bladed Pincers",
+        "url": "http://mhgen.kiranico.com/dualblades/bladed-pincers",
+        "image": "sou146"
+    },
+    {
+        "id": 1044,
+        "name": "Felyne Claws",
+        "url": "http://mhgen.kiranico.com/dualblades/felyne-claws",
+        "image": "sou142"
+    },
+    {
+        "id": 1040,
+        "name": "Stewbry Stirfoils",
+        "url": "http://mhgen.kiranico.com/dualblades/stewbry-stirfoils",
+        "image": "sou151"
+    },
+    {
+        "id": 1033,
+        "name": "Guild Knight Sabers",
+        "url": "http://mhgen.kiranico.com/dualblades/guild-knight-sabers",
+        "image": "sou43",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4967,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1027,
+        "name": "Hi Twin Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/hi-twin-daggers",
+        "image": "sou2",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4942,
+                "element_id": 5,
+                "value": 35
+            }
+        }
+    },
+    {
+        "id": 1009,
+        "name": "Wicked Tessen",
+        "url": "http://mhgen.kiranico.com/dualblades/wicked-tessen",
+        "image": "sou89",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 4866,
+                "element_id": 6,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 982,
+        "name": "Flamestorm",
+        "url": "http://mhgen.kiranico.com/dualblades/flamestorm",
+        "image": "sou105",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4738,
+                "element_id": 1,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 975,
+        "name": "Seditious Talons",
+        "url": "http://mhgen.kiranico.com/dualblades/seditious-talons",
+        "image": "sou88"
+    },
+    {
+        "id": 973,
+        "name": "Demolition Blades",
+        "url": "http://mhgen.kiranico.com/dualblades/demolition-blades",
+        "image": "sou34",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 4700,
+                "element_id": 9,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1017,
+        "name": "Suzuka Takamaru",
+        "url": "http://mhgen.kiranico.com/dualblades/suzuka-takamaru",
+        "image": "sou85",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4907,
+                "element_id": 3,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1018,
+        "name": "Wrath & Rancor",
+        "url": "http://mhgen.kiranico.com/dualblades/wrath-rancor",
+        "image": "sou12",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4911,
+                "element_id": 4,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1026,
+        "name": "Enduring Schism",
+        "url": "http://mhgen.kiranico.com/dualblades/enduring-schism",
+        "image": "sou23",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4939,
+                "element_id": 4,
+                "value": 38
+            }
+        }
+    },
+    {
+        "id": 1055,
+        "name": "Pirate Edges J",
+        "url": "http://mhgen.kiranico.com/dualblades/pirate-edges-j",
+        "image": "sou83"
+    },
+    {
+        "id": 1056,
+        "name": "Exploding Blades",
+        "url": "http://mhgen.kiranico.com/dualblades/exploding-blades",
+        "image": "sou82",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5105,
+                "element_id": 9,
+                "value": 36
+            }
+        }
+    },
+    {
+        "id": 1057,
+        "name": "Baki Combat Jutsu",
+        "url": "http://mhgen.kiranico.com/dualblades/baki-combat-jutsu",
+        "image": "sou118"
+    },
+    {
+        "id": 1058,
+        "name": "Twin Star Blades",
+        "url": "http://mhgen.kiranico.com/dualblades/twin-star-blades",
+        "image": "sou163",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5111,
+                "element_id": 1,
+                "value": 36
+            }
+        }
+    },
+    {
+        "id": 1059,
+        "name": "Fan Club Fans",
+        "url": "http://mhgen.kiranico.com/dualblades/fan-club-fans",
+        "image": "sou119"
+    },
+    {
+        "id": 1043,
+        "name": "Felyne and Melynx",
+        "url": "http://mhgen.kiranico.com/dualblades/felyne-and-melynx",
+        "image": "sou25",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 5002,
+                "element_id": 7,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 1060,
+        "name": "Light Sword Cypher",
+        "url": "http://mhgen.kiranico.com/dualblades/light-sword-cypher",
+        "image": "sou164"
+    },
+    {
+        "id": 987,
+        "name": "Wyvern Strife",
+        "url": "http://mhgen.kiranico.com/dualblades/wyvern-strife",
+        "image": "sou21",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4763,
+                "element_id": 1,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 1019,
+        "name": "Consummate Pair",
+        "url": "http://mhgen.kiranico.com/dualblades/consummate-pair",
+        "image": "sou52",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4914,
+                "element_id": 4,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 1022,
+        "name": "Akantor Blades",
+        "url": "http://mhgen.kiranico.com/dualblades/akantor-blades",
+        "image": "sou36"
+    },
+    {
+        "id": 1023,
+        "name": "Ukanlos Ruinblades",
+        "url": "http://mhgen.kiranico.com/dualblades/ukanlos-ruinblades",
+        "image": "sou103",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4928,
+                "element_id": 5,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 1024,
+        "name": "Stormwind Fans",
+        "url": "http://mhgen.kiranico.com/dualblades/stormwind-fans",
+        "image": "sou159",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4931,
+                "element_id": 2,
+                "value": 4
+            }
+        }
+    },
+    {
+        "id": 1021,
+        "name": "Astral Gemini",
+        "url": "http://mhgen.kiranico.com/dualblades/astral-gemini",
+        "image": "sou125",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4922,
+                "element_id": 4,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 1046,
+        "name": "Crimson Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/crimson-daggers",
+        "image": "sou129"
+    },
+    {
+        "id": 1047,
+        "name": "Blackhare Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/blackhare-daggers",
+        "image": "sou130",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5022,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1048,
+        "name": "Pincher Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/pincher-daggers",
+        "image": "sou131",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5032,
+                "element_id": 2,
+                "value": 7
+            }
+        }
+    },
+    {
+        "id": 1049,
+        "name": "Royal Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/royal-daggers",
+        "image": "sou132",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 5042,
+                "element_id": 6,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1050,
+        "name": "Nightfall Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/nightfall-daggers",
+        "image": "sou135"
+    },
+    {
+        "id": 1051,
+        "name": "Hardened Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/hardened-daggers",
+        "image": "sou133"
+    },
+    {
+        "id": 1052,
+        "name": "Raiden Daggers",
+        "url": "http://mhgen.kiranico.com/dualblades/raiden-daggers",
+        "image": "sou136",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5072,
+                "element_id": 3,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1053,
+        "name": "Seize Slicers",
+        "url": "http://mhgen.kiranico.com/dualblades/seize-slicers",
+        "image": "sou134"
+    },
+    {
+        "id": 1054,
+        "name": "Enflamed Slicers",
+        "url": "http://mhgen.kiranico.com/dualblades/enflamed-slicers",
+        "image": "sou137",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5092,
+                "element_id": 9,
+                "value": 11
+            }
+        }
+    }
+]

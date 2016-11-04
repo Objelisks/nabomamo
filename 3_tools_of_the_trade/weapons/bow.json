@@ -1,0 +1,872 @@
+[
+    {
+        "id": 878,
+        "name": "Petrified Bow",
+        "url": "http://mhgen.kiranico.com/bow/petrified-bow",
+        "image": "bow107"
+    },
+    {
+        "id": 906,
+        "name": "Hunter's Bow",
+        "url": "http://mhgen.kiranico.com/bow/hunters-bow",
+        "image": "bow38"
+    },
+    {
+        "id": 890,
+        "name": "Hunter's Stoutbow",
+        "url": "http://mhgen.kiranico.com/bow/hunters-stoutbow",
+        "image": "bow39"
+    },
+    {
+        "id": 881,
+        "name": "Arko Nulo (Y)",
+        "url": "http://mhgen.kiranico.com/bow/arko-nulo-y",
+        "image": "bow136",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4257,
+                "element_id": 3,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 882,
+        "name": "Arko Nulo (W)",
+        "url": "http://mhgen.kiranico.com/bow/arko-nulo-w",
+        "image": "bow136",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4262,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 911,
+        "name": "Blango Fur Bow",
+        "url": "http://mhgen.kiranico.com/bow/blango-fur-bow",
+        "image": "bow137",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4383,
+                "element_id": 5,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 886,
+        "name": "Plume Bow",
+        "url": "http://mhgen.kiranico.com/bow/plume-bow",
+        "image": "bow109"
+    },
+    {
+        "id": 939,
+        "name": "Yukumo Bow",
+        "url": "http://mhgen.kiranico.com/bow/yukumo-bow",
+        "image": "bow135"
+    },
+    {
+        "id": 943,
+        "name": "Morsel Bowfish",
+        "url": "http://mhgen.kiranico.com/bow/morsel-bowfish",
+        "image": "bow42"
+    },
+    {
+        "id": 902,
+        "name": "Crystalline Flower",
+        "url": "http://mhgen.kiranico.com/bow/crystalline-flower",
+        "image": "bow129",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4345,
+                "element_id": 5,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 883,
+        "name": "Sonic Bow",
+        "url": "http://mhgen.kiranico.com/bow/sonic-bow",
+        "image": "bow138",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4267,
+                "element_id": 3,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 908,
+        "name": "Kut-Ku Stave",
+        "url": "http://mhgen.kiranico.com/bow/kut-ku-stave",
+        "image": "bow9",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4372,
+                "element_id": 1,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 888,
+        "name": "Daimyo's Warbow",
+        "url": "http://mhgen.kiranico.com/bow/daimyos-warbow",
+        "image": "bow91",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4289,
+                "element_id": 2,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 913,
+        "name": "Spongia Bow",
+        "url": "http://mhgen.kiranico.com/bow/spongia-bow",
+        "image": "bow139",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4392,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 905,
+        "name": "Khezu Bow",
+        "url": "http://mhgen.kiranico.com/bow/khezu-bow",
+        "image": "bow10",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4356,
+                "element_id": 3,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 894,
+        "name": "Queen Blaster",
+        "url": "http://mhgen.kiranico.com/bow/queen-blaster",
+        "image": "bow7",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4316,
+                "element_id": 1,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 895,
+        "name": "Type 64 Multibow",
+        "url": "http://mhgen.kiranico.com/bow/type-64-multibow",
+        "image": "bow140",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4320,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 887,
+        "name": "Hidden Bow",
+        "url": "http://mhgen.kiranico.com/bow/hidden-bow",
+        "image": "bow141"
+    },
+    {
+        "id": 941,
+        "name": "Bamboo Taketori",
+        "url": "http://mhgen.kiranico.com/bow/bamboo-taketori",
+        "image": "bow105"
+    },
+    {
+        "id": 937,
+        "name": "Ivory Bow",
+        "url": "http://mhgen.kiranico.com/bow/ivory-bow",
+        "image": "bow133"
+    },
+    {
+        "id": 944,
+        "name": "Chaos Bow",
+        "url": "http://mhgen.kiranico.com/bow/chaos-bow",
+        "image": "bow148"
+    },
+    {
+        "id": 945,
+        "name": "Felyne Bow",
+        "url": "http://mhgen.kiranico.com/bow/felyne-bow",
+        "image": "bow132"
+    },
+    {
+        "id": 946,
+        "name": "Arachnid Bow",
+        "url": "http://mhgen.kiranico.com/bow/arachnid-bow",
+        "image": "bow134"
+    },
+    {
+        "id": 879,
+        "name": "Obsidian Bow",
+        "url": "http://mhgen.kiranico.com/bow/obsidian-bow",
+        "image": "bow108"
+    },
+    {
+        "id": 891,
+        "name": "Yekla Arc",
+        "url": "http://mhgen.kiranico.com/bow/yekla-arc",
+        "image": "bow128"
+    },
+    {
+        "id": 909,
+        "name": "Crow Bow",
+        "url": "http://mhgen.kiranico.com/bow/crow-bow",
+        "image": "bow12"
+    },
+    {
+        "id": 899,
+        "name": "Brazencord",
+        "url": "http://mhgen.kiranico.com/bow/brazencord",
+        "image": "bow93",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4335,
+                "element_id": 1,
+                "value": 5
+            }
+        }
+    },
+    {
+        "id": 893,
+        "name": "Prominence Bow",
+        "url": "http://mhgen.kiranico.com/bow/prominence-bow",
+        "image": "bow6",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4312,
+                "element_id": 1,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 914,
+        "name": "Voltsender",
+        "url": "http://mhgen.kiranico.com/bow/voltsender",
+        "image": "bow144",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4397,
+                "element_id": 3,
+                "value": 7
+            }
+        }
+    },
+    {
+        "id": 880,
+        "name": "Usurper's Rumble",
+        "url": "http://mhgen.kiranico.com/bow/usurpers-rumble",
+        "image": "bow4",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4253,
+                "element_id": 3,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 921,
+        "name": "Blessed Rain",
+        "url": "http://mhgen.kiranico.com/bow/blessed-rain",
+        "image": "bow115",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4424,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 919,
+        "name": "Lightning Bow",
+        "url": "http://mhgen.kiranico.com/bow/lightning-bow",
+        "image": "bow113",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4416,
+                "element_id": 3,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 920,
+        "name": "Giant's Bow",
+        "url": "http://mhgen.kiranico.com/bow/giants-bow",
+        "image": "bow114",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4420,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 922,
+        "name": "Ashen Wrath",
+        "url": "http://mhgen.kiranico.com/bow/ashen-wrath",
+        "image": "bow110",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4428,
+                "element_id": 1,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 923,
+        "name": "Entbehrung",
+        "url": "http://mhgen.kiranico.com/bow/entbehrung",
+        "image": "bow23",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4432,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 897,
+        "name": "Shalya Bow",
+        "url": "http://mhgen.kiranico.com/bow/shalya-bow",
+        "image": "bow74"
+    },
+    {
+        "id": 896,
+        "name": "Tigrex Archer",
+        "url": "http://mhgen.kiranico.com/bow/tigrex-archer",
+        "image": "bow1"
+    },
+    {
+        "id": 900,
+        "name": "Dios Flier",
+        "url": "http://mhgen.kiranico.com/bow/dios-flier",
+        "image": "bow26",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 4339,
+                "element_id": 9,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 926,
+        "name": "Bow of Hope & Valor",
+        "url": "http://mhgen.kiranico.com/bow/bow-of-hope-valor",
+        "image": "bow15",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 4442,
+                "element_id": 9,
+                "value": 21
+            }
+        }
+    },
+    {
+        "id": 927,
+        "name": "Skeletal Bow",
+        "url": "http://mhgen.kiranico.com/bow/skeletal-bow",
+        "image": "bow111",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4446,
+                "element_id": 4,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 940,
+        "name": "Yukumo Purebow",
+        "url": "http://mhgen.kiranico.com/bow/yukumo-purebow",
+        "image": "bow135"
+    },
+    {
+        "id": 938,
+        "name": "Onyx Bow",
+        "url": "http://mhgen.kiranico.com/bow/onyx-bow",
+        "image": "bow147",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4481,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 907,
+        "name": "Kelbi Stingshot",
+        "url": "http://mhgen.kiranico.com/bow/kelbi-stingshot",
+        "image": "bow17"
+    },
+    {
+        "id": 884,
+        "name": "Heat Haze",
+        "url": "http://mhgen.kiranico.com/bow/heat-haze",
+        "image": "bow32"
+    },
+    {
+        "id": 892,
+        "name": "Demon Helm Bow",
+        "url": "http://mhgen.kiranico.com/bow/demon-helm-bow",
+        "image": "bow127"
+    },
+    {
+        "id": 903,
+        "name": "Blue Alighter",
+        "url": "http://mhgen.kiranico.com/bow/blue-alighter",
+        "image": "bow19",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4350,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 889,
+        "name": "Bear Blade Bow",
+        "url": "http://mhgen.kiranico.com/bow/bear-blade-bow",
+        "image": "bow142"
+    },
+    {
+        "id": 918,
+        "name": "Arca Raptora",
+        "url": "http://mhgen.kiranico.com/bow/arca-raptora",
+        "image": "bow21"
+    },
+    {
+        "id": 915,
+        "name": "Worn Bow",
+        "url": "http://mhgen.kiranico.com/bow/worn-bow",
+        "image": "bow130"
+    },
+    {
+        "id": 904,
+        "name": "Ice Cold Alighter",
+        "url": "http://mhgen.kiranico.com/bow/ice-cold-alighter",
+        "image": "bow30",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4353,
+                "element_id": 5,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 912,
+        "name": "Abominable Bow",
+        "url": "http://mhgen.kiranico.com/bow/abominable-bow",
+        "image": "bow143",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4388,
+                "element_id": 5,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 885,
+        "name": "Feminine Haze",
+        "url": "http://mhgen.kiranico.com/bow/feminine-haze",
+        "image": "bow35",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4275,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 942,
+        "name": "Seahorse Harp",
+        "url": "http://mhgen.kiranico.com/bow/seahorse-harp",
+        "image": "bow104",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4499,
+                "element_id": 2,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 910,
+        "name": "Vile Bow",
+        "url": "http://mhgen.kiranico.com/bow/vile-bow",
+        "image": "bow77"
+    },
+    {
+        "id": 898,
+        "name": "Seditious Arrow",
+        "url": "http://mhgen.kiranico.com/bow/seditious-arrow",
+        "image": "bow76"
+    },
+    {
+        "id": 901,
+        "name": "Demolition Bow",
+        "url": "http://mhgen.kiranico.com/bow/demolition-bow",
+        "image": "bow37",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 4342,
+                "element_id": 9,
+                "value": 13
+            }
+        }
+    },
+    {
+        "id": 924,
+        "name": "Le Ravisseur",
+        "url": "http://mhgen.kiranico.com/bow/le-ravisseur",
+        "image": "bow29",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4436,
+                "element_id": 4,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 929,
+        "name": "Beast Thunderbow",
+        "url": "http://mhgen.kiranico.com/bow/beast-thunderbow",
+        "image": "bow14",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4453,
+                "element_id": 3,
+                "value": 17
+            }
+        }
+    },
+    {
+        "id": 916,
+        "name": "Angelbein",
+        "url": "http://mhgen.kiranico.com/bow/angelbein",
+        "image": "bow131",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4406,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 917,
+        "name": "Icesteel Bow",
+        "url": "http://mhgen.kiranico.com/bow/icesteel-bow",
+        "image": "bow13",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4409,
+                "element_id": 5,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 925,
+        "name": "Genie's Grimoire",
+        "url": "http://mhgen.kiranico.com/bow/genies-grimoire",
+        "image": "bow73"
+    },
+    {
+        "id": 931,
+        "name": "Hyperion",
+        "url": "http://mhgen.kiranico.com/bow/hyperion",
+        "image": "bow41",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4459,
+                "element_id": 1,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 932,
+        "name": "Selene Moonbroken",
+        "url": "http://mhgen.kiranico.com/bow/selene-moonbroken",
+        "image": "bow22",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4462,
+                "element_id": 1,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 930,
+        "name": "Archbeast Thunderbow",
+        "url": "http://mhgen.kiranico.com/bow/archbeast-thunderbow",
+        "image": "bow78",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4456,
+                "element_id": 3,
+                "value": 5
+            }
+        }
+    },
+    {
+        "id": 933,
+        "name": "Akantor Bow",
+        "url": "http://mhgen.kiranico.com/bow/akantor-bow",
+        "image": "bow3",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4465,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 934,
+        "name": "Ukanlos Bow",
+        "url": "http://mhgen.kiranico.com/bow/ukanlos-bow",
+        "image": "bow90",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 4468,
+                "element_id": 5,
+                "value": 9
+            }
+        }
+    },
+    {
+        "id": 936,
+        "name": "Tempest Nightbow",
+        "url": "http://mhgen.kiranico.com/bow/tempest-nightbow",
+        "image": "bow146",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4474,
+                "element_id": 2,
+                "value": 11
+            }
+        }
+    },
+    {
+        "id": 928,
+        "name": "Polar Avian Bow",
+        "url": "http://mhgen.kiranico.com/bow/polar-avian-bow",
+        "image": "bow112",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4450,
+                "element_id": 4,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 935,
+        "name": "Alatreon Bow",
+        "url": "http://mhgen.kiranico.com/bow/alatreon-bow",
+        "image": "bow145",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 4471,
+                "element_id": 4,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 947,
+        "name": "Crimson Bow",
+        "url": "http://mhgen.kiranico.com/bow/crimson-bow",
+        "image": "bow116"
+    },
+    {
+        "id": 948,
+        "name": "Stonefist Bow",
+        "url": "http://mhgen.kiranico.com/bow/stonefist-bow",
+        "image": "bow118",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 4530,
+                "element_id": 2,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 949,
+        "name": "Royal Blaster",
+        "url": "http://mhgen.kiranico.com/bow/royal-blaster",
+        "image": "bow119",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4540,
+                "element_id": 1,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 950,
+        "name": "Demonic Bow",
+        "url": "http://mhgen.kiranico.com/bow/demonic-bow",
+        "image": "bow117"
+    },
+    {
+        "id": 951,
+        "name": "Silverwind Bow",
+        "url": "http://mhgen.kiranico.com/bow/silverwind-bow",
+        "image": "bow123"
+    },
+    {
+        "id": 952,
+        "name": "Grobo Arc",
+        "url": "http://mhgen.kiranico.com/bow/grobo-arc",
+        "image": "bow126",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4570,
+                "element_id": 1,
+                "value": 5
+            }
+        }
+    },
+    {
+        "id": 953,
+        "name": "Wicked Bow",
+        "url": "http://mhgen.kiranico.com/bow/wicked-bow",
+        "image": "bow120"
+    },
+    {
+        "id": 954,
+        "name": "Dread Bow",
+        "url": "http://mhgen.kiranico.com/bow/dread-bow",
+        "image": "bow121",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 4590,
+                "element_id": 1,
+                "value": 7
+            }
+        }
+    },
+    {
+        "id": 955,
+        "name": "Rumble Bow",
+        "url": "http://mhgen.kiranico.com/bow/rumble-bow",
+        "image": "bow124",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 4600,
+                "element_id": 3,
+                "value": 7
+            }
+        }
+    },
+    {
+        "id": 956,
+        "name": "Rudra Bow",
+        "url": "http://mhgen.kiranico.com/bow/rudra-bow",
+        "image": "bow122"
+    },
+    {
+        "id": 957,
+        "name": "Hellish Wrath",
+        "url": "http://mhgen.kiranico.com/bow/hellish-wrath",
+        "image": "bow125",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 4620,
+                "element_id": 9,
+                "value": 7
+            }
+        }
+    },
+    {
+        "id": 958,
+        "name": "Hero's Bow",
+        "url": "http://mhgen.kiranico.com/bow/heros-bow",
+        "image": "bow72"
+    }
+]

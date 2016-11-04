@@ -1,0 +1,1110 @@
+[
+    {
+        "id": 593,
+        "name": "Petrified Saber",
+        "url": "http://mhgen.kiranico.com/longsword/petrified-saber",
+        "image": "swo120"
+    },
+    {
+        "id": 601,
+        "name": "Iron Katana",
+        "url": "http://mhgen.kiranico.com/longsword/iron-katana",
+        "image": "swo26"
+    },
+    {
+        "id": 615,
+        "name": "Serrated Jaw",
+        "url": "http://mhgen.kiranico.com/longsword/serrated-jaw",
+        "image": "swo142"
+    },
+    {
+        "id": 631,
+        "name": "Bone",
+        "url": "http://mhgen.kiranico.com/longsword/bone",
+        "image": "swo4"
+    },
+    {
+        "id": 643,
+        "name": "Dark Scythe",
+        "url": "http://mhgen.kiranico.com/longsword/dark-scythe",
+        "image": "swo147"
+    },
+    {
+        "id": 642,
+        "name": "Anteka Blade",
+        "url": "http://mhgen.kiranico.com/longsword/anteka-blade",
+        "image": "swo140"
+    },
+    {
+        "id": 611,
+        "name": "Plume Sword",
+        "url": "http://mhgen.kiranico.com/longsword/plume-sword",
+        "image": "swo122"
+    },
+    {
+        "id": 634,
+        "name": "Blango Destroyer",
+        "url": "http://mhgen.kiranico.com/longsword/blango-destroyer",
+        "image": "swo152",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 3010,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 636,
+        "name": "Arzuros Naginata",
+        "url": "http://mhgen.kiranico.com/longsword/arzuros-naginata",
+        "image": "swo154"
+    },
+    {
+        "id": 669,
+        "name": "Yukumo Long Sword",
+        "url": "http://mhgen.kiranico.com/longsword/yukumo-long-sword",
+        "image": "swo149"
+    },
+    {
+        "id": 619,
+        "name": "Bone Katana \"Wolf\"",
+        "url": "http://mhgen.kiranico.com/longsword/bone-katana-wolf",
+        "image": "swo151"
+    },
+    {
+        "id": 603,
+        "name": "Eager Cleaver",
+        "url": "http://mhgen.kiranico.com/longsword/eager-cleaver",
+        "image": "swo3",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 2871,
+                "element_id": 3,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 607,
+        "name": "Rimeblossom",
+        "url": "http://mhgen.kiranico.com/longsword/rimeblossom",
+        "image": "swo25",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 2890,
+                "element_id": 5,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 644,
+        "name": "Scythe of Menace",
+        "url": "http://mhgen.kiranico.com/longsword/scythe-of-menace",
+        "image": "swo148",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 3058,
+                "element_id": 6,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 630,
+        "name": "Black Katana Mk.I",
+        "url": "http://mhgen.kiranico.com/longsword/black-katana-mk.i",
+        "image": "swo153"
+    },
+    {
+        "id": 599,
+        "name": "Ivory Rabbit",
+        "url": "http://mhgen.kiranico.com/longsword/ivory-rabbit",
+        "image": "swo141",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 2848,
+                "element_id": 5,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 609,
+        "name": "Aikuchi",
+        "url": "http://mhgen.kiranico.com/longsword/aikuchi",
+        "image": "swo15"
+    },
+    {
+        "id": 646,
+        "name": "Crab Cutter",
+        "url": "http://mhgen.kiranico.com/longsword/crab-cutter",
+        "image": "swo95"
+    },
+    {
+        "id": 641,
+        "name": "Drowning Shaft",
+        "url": "http://mhgen.kiranico.com/longsword/drowning-shaft",
+        "image": "swo155",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3042,
+                "element_id": 2,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 635,
+        "name": "Blango Decimator",
+        "url": "http://mhgen.kiranico.com/longsword/blango-decimator",
+        "image": "swo158",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 3016,
+                "element_id": 5,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 648,
+        "name": "Shogun Cutter",
+        "url": "http://mhgen.kiranico.com/longsword/shogun-cutter",
+        "image": "swo157"
+    },
+    {
+        "id": 628,
+        "name": "Coiled Nail",
+        "url": "http://mhgen.kiranico.com/longsword/coiled-nail",
+        "image": "swo18",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 2983,
+                "element_id": 7,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 602,
+        "name": "Hidden Saber",
+        "url": "http://mhgen.kiranico.com/longsword/hidden-saber",
+        "image": "swo101"
+    },
+    {
+        "id": 667,
+        "name": "Windeater",
+        "url": "http://mhgen.kiranico.com/longsword/windeater",
+        "image": "swo23",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 3152,
+                "element_id": 1,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 674,
+        "name": "Great Hornfly Saber",
+        "url": "http://mhgen.kiranico.com/longsword/great-hornfly-saber",
+        "image": "swo150",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 3183,
+                "element_id": 9,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 671,
+        "name": "Cheese Knife",
+        "url": "http://mhgen.kiranico.com/longsword/cheese-knife",
+        "image": "swo144"
+    },
+    {
+        "id": 672,
+        "name": "Moofah Staff",
+        "url": "http://mhgen.kiranico.com/longsword/moofah-staff",
+        "image": "swo143"
+    },
+    {
+        "id": 594,
+        "name": "Obsidian Saber",
+        "url": "http://mhgen.kiranico.com/longsword/obsidian-saber",
+        "image": "swo121"
+    },
+    {
+        "id": 596,
+        "name": "Guardian Sword",
+        "url": "http://mhgen.kiranico.com/longsword/guardian-sword",
+        "image": "swo2"
+    },
+    {
+        "id": 639,
+        "name": "Daito Crow",
+        "url": "http://mhgen.kiranico.com/longsword/daito-crow",
+        "image": "swo8",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 3034,
+                "element_id": 6,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 595,
+        "name": "Diapason",
+        "url": "http://mhgen.kiranico.com/longsword/diapason",
+        "image": "swo159"
+    },
+    {
+        "id": 624,
+        "name": "Wyvern Blade \"Verde\"",
+        "url": "http://mhgen.kiranico.com/longsword/wyvern-blade-verde",
+        "image": "swo156",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 2967,
+                "element_id": 6,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 626,
+        "name": "Wyvern Blade \"Blood\"",
+        "url": "http://mhgen.kiranico.com/longsword/wyvern-blade-blood",
+        "image": "swo29",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 2975,
+                "element_id": 1,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 617,
+        "name": "Rusty Claymore",
+        "url": "http://mhgen.kiranico.com/longsword/rusty-claymore",
+        "image": "swo16"
+    },
+    {
+        "id": 605,
+        "name": "Thunderclap",
+        "url": "http://mhgen.kiranico.com/longsword/thunderclap",
+        "image": "swo116",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 2880,
+                "element_id": 3,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 620,
+        "name": "Usurper's Boltslicer",
+        "url": "http://mhgen.kiranico.com/longsword/usurpers-boltslicer",
+        "image": "swo12",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 2951,
+                "element_id": 3,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 652,
+        "name": "Kakaru Kumo Naki",
+        "url": "http://mhgen.kiranico.com/longsword/kakaru-kumo-naki",
+        "image": "swo128",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3093,
+                "element_id": 2,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 650,
+        "name": "Wyvern Blade \"Beryl\"",
+        "url": "http://mhgen.kiranico.com/longsword/wyvern-blade-beryl",
+        "image": "swo126",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 3081,
+                "element_id": 3,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 651,
+        "name": "Giant's Tower",
+        "url": "http://mhgen.kiranico.com/longsword/giants-tower",
+        "image": "swo127",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 3087,
+                "element_id": 5,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 653,
+        "name": "Billowing Luger",
+        "url": "http://mhgen.kiranico.com/longsword/billowing-luger",
+        "image": "swo123",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 3099,
+                "element_id": 1,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 654,
+        "name": "Stahlfakt",
+        "url": "http://mhgen.kiranico.com/longsword/stahlfakt",
+        "image": "swo20",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3105,
+                "element_id": 4,
+                "value": 7
+            }
+        }
+    },
+    {
+        "id": 613,
+        "name": "Khanga Edge",
+        "url": "http://mhgen.kiranico.com/longsword/khanga-edge",
+        "image": "swo78"
+    },
+    {
+        "id": 621,
+        "name": "Tigrine Edge",
+        "url": "http://mhgen.kiranico.com/longsword/tigrine-edge",
+        "image": "swo11"
+    },
+    {
+        "id": 622,
+        "name": "Dios Katana",
+        "url": "http://mhgen.kiranico.com/longsword/dios-katana",
+        "image": "swo28",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 2959,
+                "element_id": 9,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 655,
+        "name": "La Justicière",
+        "url": "http://mhgen.kiranico.com/longsword/la-justiciere",
+        "image": "swo33",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3110,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 600,
+        "name": "Mirage Finsword",
+        "url": "http://mhgen.kiranico.com/longsword/mirage-finsword",
+        "image": "swo94"
+    },
+    {
+        "id": 606,
+        "name": "Imperial Saber",
+        "url": "http://mhgen.kiranico.com/longsword/imperial-saber",
+        "image": "swo88",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 2885,
+                "element_id": 9,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 658,
+        "name": "Skeletal Sword",
+        "url": "http://mhgen.kiranico.com/longsword/skeletal-sword",
+        "image": "swo124",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3121,
+                "element_id": 4,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 676,
+        "name": "Hairtail's Hairblade",
+        "url": "http://mhgen.kiranico.com/longsword/hairtails-hairblade",
+        "image": "swo27",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3190,
+                "element_id": 2,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 677,
+        "name": "Cawscythe",
+        "url": "http://mhgen.kiranico.com/longsword/cawscythe",
+        "image": "swo145",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3194,
+                "element_id": 4,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 670,
+        "name": "Yukumo Puresword",
+        "url": "http://mhgen.kiranico.com/longsword/yukumo-puresword",
+        "image": "swo149"
+    },
+    {
+        "id": 668,
+        "name": "Black Scythe",
+        "url": "http://mhgen.kiranico.com/longsword/black-scythe",
+        "image": "swo10",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3157,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 598,
+        "name": "Chainslaughter",
+        "url": "http://mhgen.kiranico.com/longsword/chainslaughter",
+        "image": "swo117",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 2844,
+                "element_id": 3,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 618,
+        "name": "Canine Katana",
+        "url": "http://mhgen.kiranico.com/longsword/canine-katana",
+        "image": "swo24"
+    },
+    {
+        "id": 632,
+        "name": "Curviscera",
+        "url": "http://mhgen.kiranico.com/longsword/curviscera",
+        "image": "swo13",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3003,
+                "element_id": 2,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 647,
+        "name": "Plesioth Splasher",
+        "url": "http://mhgen.kiranico.com/longsword/plesioth-splasher",
+        "image": "swo162",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3070,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 612,
+        "name": "Liquid Fire Blade",
+        "url": "http://mhgen.kiranico.com/longsword/liquid-fire-blade",
+        "image": "swo161",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 2914,
+                "element_id": 1,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 664,
+        "name": "Worn Long Sword",
+        "url": "http://mhgen.kiranico.com/longsword/worn-long-sword",
+        "image": "swo30"
+    },
+    {
+        "id": 604,
+        "name": "Wailing Ghost",
+        "url": "http://mhgen.kiranico.com/longsword/wailing-ghost",
+        "image": "swo19",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 2877,
+                "element_id": 3,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 608,
+        "name": "Yuki Ichimonji",
+        "url": "http://mhgen.kiranico.com/longsword/yuki-ichimonji",
+        "image": "swo105",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 2895,
+                "element_id": 5,
+                "value": 38
+            }
+        }
+    },
+    {
+        "id": 597,
+        "name": "Aqua Guardian",
+        "url": "http://mhgen.kiranico.com/longsword/aqua-guardian",
+        "image": "swo99",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 2841,
+                "element_id": 2,
+                "value": 26
+            }
+        }
+    },
+    {
+        "id": 633,
+        "name": "Bicurviscera",
+        "url": "http://mhgen.kiranico.com/longsword/bicurviscera",
+        "image": "swo22",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3007,
+                "element_id": 2,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 610,
+        "name": "Toad Abetter",
+        "url": "http://mhgen.kiranico.com/longsword/toad-abetter",
+        "image": "swo34"
+    },
+    {
+        "id": 649,
+        "name": "Shogun Splitter",
+        "url": "http://mhgen.kiranico.com/longsword/shogun-splitter",
+        "image": "swo146"
+    },
+    {
+        "id": 629,
+        "name": "Coiled Saber",
+        "url": "http://mhgen.kiranico.com/longsword/coiled-saber",
+        "image": "swo44",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 2988,
+                "element_id": 7,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 625,
+        "name": "Wyvern Blade \"Flame\"",
+        "url": "http://mhgen.kiranico.com/longsword/wyvern-blade-flame",
+        "image": "swo160",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 2972,
+                "element_id": 1,
+                "value": 36
+            }
+        }
+    },
+    {
+        "id": 640,
+        "name": "Daito Bane",
+        "url": "http://mhgen.kiranico.com/longsword/daito-bane",
+        "image": "swo35",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 3039,
+                "element_id": 6,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 616,
+        "name": "Dancing Flames",
+        "url": "http://mhgen.kiranico.com/longsword/dancing-flames",
+        "image": "swo164",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 2933,
+                "element_id": 1,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 614,
+        "name": "Seditious Edge",
+        "url": "http://mhgen.kiranico.com/longsword/seditious-edge",
+        "image": "swo80"
+    },
+    {
+        "id": 645,
+        "name": "Mountain Reaper",
+        "url": "http://mhgen.kiranico.com/longsword/mountain-reaper",
+        "image": "swo163"
+    },
+    {
+        "id": 623,
+        "name": "Demolition Katana",
+        "url": "http://mhgen.kiranico.com/longsword/demolition-katana",
+        "image": "swo37",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 2964,
+                "element_id": 9,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 637,
+        "name": "Demon Halberd",
+        "url": "http://mhgen.kiranico.com/longsword/demon-halberd",
+        "image": "swo7",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 3027,
+                "element_id": 3,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 656,
+        "name": "Reaver \"Cruelty\"",
+        "url": "http://mhgen.kiranico.com/longsword/reaver-cruelty",
+        "image": "swo1",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3115,
+                "element_id": 4,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 675,
+        "name": "Barbarian Blade",
+        "url": "http://mhgen.kiranico.com/longsword/barbarian-blade",
+        "image": "swo5",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3187,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 673,
+        "name": "Centenarian Dagger",
+        "url": "http://mhgen.kiranico.com/longsword/centenarian-dagger",
+        "image": "swo100",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 3180,
+                "element_id": 1,
+                "value": 7
+            }
+        }
+    },
+    {
+        "id": 665,
+        "name": "Oblivion",
+        "url": "http://mhgen.kiranico.com/longsword/oblivion",
+        "image": "swo46",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3146,
+                "element_id": 4,
+                "value": 38
+            }
+        }
+    },
+    {
+        "id": 689,
+        "name": "Fox Select",
+        "url": "http://mhgen.kiranico.com/longsword/fox-select",
+        "image": "swo73",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 3308,
+                "element_id": 9,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 690,
+        "name": "Light Works",
+        "url": "http://mhgen.kiranico.com/longsword/light-works",
+        "image": "swo167",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 3311,
+                "element_id": 3,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 691,
+        "name": "Pirate Sword J",
+        "url": "http://mhgen.kiranico.com/longsword/pirate-sword-j",
+        "image": "swo168"
+    },
+    {
+        "id": 692,
+        "name": "Starlight Gate",
+        "url": "http://mhgen.kiranico.com/longsword/starlight-gate",
+        "image": "swo75"
+    },
+    {
+        "id": 693,
+        "name": "Wing of Judgment",
+        "url": "http://mhgen.kiranico.com/longsword/wing-of-judgment",
+        "image": "swo169",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3320,
+                "element_id": 4,
+                "value": 5
+            }
+        }
+    },
+    {
+        "id": 694,
+        "name": "Fan Club Bamboo Rod",
+        "url": "http://mhgen.kiranico.com/longsword/fan-club-bamboo-rod",
+        "image": "swo119"
+    },
+    {
+        "id": 666,
+        "name": "Icesteel Blade",
+        "url": "http://mhgen.kiranico.com/longsword/icesteel-blade",
+        "image": "swo9",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 3149,
+                "element_id": 5,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 627,
+        "name": "Wyvern Blade \"Pale\"",
+        "url": "http://mhgen.kiranico.com/longsword/wyvern-blade-pale",
+        "image": "swo45",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 2980,
+                "element_id": 1,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 638,
+        "name": "Demonlord Katana",
+        "url": "http://mhgen.kiranico.com/longsword/demonlord-katana",
+        "image": "swo84",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 3031,
+                "element_id": 3,
+                "value": 36
+            }
+        }
+    },
+    {
+        "id": 657,
+        "name": "Consummate Katana",
+        "url": "http://mhgen.kiranico.com/longsword/consummate-katana",
+        "image": "swo41",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3118,
+                "element_id": 4,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 660,
+        "name": "Akantor Katana",
+        "url": "http://mhgen.kiranico.com/longsword/akantor-katana",
+        "image": "swo32"
+    },
+    {
+        "id": 661,
+        "name": "Ukanlos Slicer",
+        "url": "http://mhgen.kiranico.com/longsword/ukanlos-slicer",
+        "image": "swo93",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 3132,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 663,
+        "name": "Ominous Spring",
+        "url": "http://mhgen.kiranico.com/longsword/ominous-spring",
+        "image": "swo166",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3138,
+                "element_id": 2,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 659,
+        "name": "Astral Pisces",
+        "url": "http://mhgen.kiranico.com/longsword/astral-pisces",
+        "image": "swo125",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3126,
+                "element_id": 4,
+                "value": 6
+            }
+        }
+    },
+    {
+        "id": 662,
+        "name": "Dark Claw",
+        "url": "http://mhgen.kiranico.com/longsword/dark-claw",
+        "image": "swo165",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 3135,
+                "element_id": 4,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 678,
+        "name": "Crimson Maw",
+        "url": "http://mhgen.kiranico.com/longsword/crimson-maw",
+        "image": "swo129"
+    },
+    {
+        "id": 679,
+        "name": "Ebon Rabbit",
+        "url": "http://mhgen.kiranico.com/longsword/ebon-rabbit",
+        "image": "swo130",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 3208,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 680,
+        "name": "Stonefist Cutter",
+        "url": "http://mhgen.kiranico.com/longsword/stonefist-cutter",
+        "image": "swo132",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 3218,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 681,
+        "name": "Demon Swirl",
+        "url": "http://mhgen.kiranico.com/longsword/demon-swirl",
+        "image": "swo131"
+    },
+    {
+        "id": 682,
+        "name": "Nightfall Saber",
+        "url": "http://mhgen.kiranico.com/longsword/nightfall-saber",
+        "image": "swo136"
+    },
+    {
+        "id": 683,
+        "name": "Geode Saber",
+        "url": "http://mhgen.kiranico.com/longsword/geode-saber",
+        "image": "swo139"
+    },
+    {
+        "id": 684,
+        "name": "Daito Calamity",
+        "url": "http://mhgen.kiranico.com/longsword/daito-calamity",
+        "image": "swo133",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 3258,
+                "element_id": 6,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 685,
+        "name": "Tomb Saber",
+        "url": "http://mhgen.kiranico.com/longsword/tomb-saber",
+        "image": "swo134",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 3268,
+                "element_id": 1,
+                "value": 19
+            }
+        }
+    },
+    {
+        "id": 686,
+        "name": "Thunderlord Raikiri",
+        "url": "http://mhgen.kiranico.com/longsword/thunderlord-raikiri",
+        "image": "swo137",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 3278,
+                "element_id": 3,
+                "value": 31
+            }
+        }
+    },
+    {
+        "id": 687,
+        "name": "Seize Cutter",
+        "url": "http://mhgen.kiranico.com/longsword/seize-cutter",
+        "image": "swo135"
+    },
+    {
+        "id": 688,
+        "name": "Blazing Ognar",
+        "url": "http://mhgen.kiranico.com/longsword/blazing-ognar",
+        "image": "swo138",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 3298,
+                "element_id": 9,
+                "value": 16
+            }
+        }
+    }
+]

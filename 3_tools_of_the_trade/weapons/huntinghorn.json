@@ -1,0 +1,978 @@
+[
+    {
+        "id": 1064,
+        "name": "Petrified Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/petrified-horn",
+        "image": "hue98"
+    },
+    {
+        "id": 1072,
+        "name": "Iron Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/iron-horn",
+        "image": "hue121"
+    },
+    {
+        "id": 1083,
+        "name": "Bone Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/bone-horn",
+        "image": "hue7"
+    },
+    {
+        "id": 1071,
+        "name": "Larinoth Ocarina",
+        "url": "http://mhgen.kiranico.com/huntinghorn/larinoth-ocarina",
+        "image": "hue141"
+    },
+    {
+        "id": 1082,
+        "name": "Sonic Glass",
+        "url": "http://mhgen.kiranico.com/huntinghorn/sonic-glass",
+        "image": "hue129"
+    },
+    {
+        "id": 1102,
+        "name": "Vicello Nulo",
+        "url": "http://mhgen.kiranico.com/huntinghorn/vicello-nulo",
+        "image": "hue12"
+    },
+    {
+        "id": 1089,
+        "name": "Velociprey Balloon",
+        "url": "http://mhgen.kiranico.com/huntinghorn/velociprey-balloon",
+        "image": "hue8"
+    },
+    {
+        "id": 1091,
+        "name": "Giaprey Balloon",
+        "url": "http://mhgen.kiranico.com/huntinghorn/giaprey-balloon",
+        "image": "hue128",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5264,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1093,
+        "name": "Bull Grunt",
+        "url": "http://mhgen.kiranico.com/huntinghorn/bull-grunt",
+        "image": "hue117"
+    },
+    {
+        "id": 1094,
+        "name": "Zurogong Primo",
+        "url": "http://mhgen.kiranico.com/huntinghorn/zurogong-primo",
+        "image": "hue131"
+    },
+    {
+        "id": 1130,
+        "name": "Yukumo Flute",
+        "url": "http://mhgen.kiranico.com/huntinghorn/yukumo-flute",
+        "image": "hue127"
+    },
+    {
+        "id": 1076,
+        "name": "Metal Bagpipe",
+        "url": "http://mhgen.kiranico.com/huntinghorn/metal-bagpipe",
+        "image": "hue18"
+    },
+    {
+        "id": 1103,
+        "name": "Vicello Nulo (G)",
+        "url": "http://mhgen.kiranico.com/huntinghorn/vicello-nulo-g",
+        "image": "hue12",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 5323,
+                "element_id": 7,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1104,
+        "name": "Vicello Nulo (R)",
+        "url": "http://mhgen.kiranico.com/huntinghorn/vicello-nulo-r",
+        "image": "hue12",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5328,
+                "element_id": 1,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1105,
+        "name": "Vicello Nulo (W)",
+        "url": "http://mhgen.kiranico.com/huntinghorn/vicello-nulo-w",
+        "image": "hue12",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5333,
+                "element_id": 5,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1069,
+        "name": "Kut-Ku's Song",
+        "url": "http://mhgen.kiranico.com/huntinghorn/kut-kus-song",
+        "image": "hue125",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5153,
+                "element_id": 1,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 1070,
+        "name": "Poisoned Capri",
+        "url": "http://mhgen.kiranico.com/huntinghorn/poisoned-capri",
+        "image": "hue126",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 5159,
+                "element_id": 6,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 1099,
+        "name": "Demon Block",
+        "url": "http://mhgen.kiranico.com/huntinghorn/demon-block",
+        "image": "hue119"
+    },
+    {
+        "id": 1068,
+        "name": "Droth Drone",
+        "url": "http://mhgen.kiranico.com/huntinghorn/droth-drone",
+        "image": "hue132",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5147,
+                "element_id": 2,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 1107,
+        "name": "Fool's Harp",
+        "url": "http://mhgen.kiranico.com/huntinghorn/fools-harp",
+        "image": "hue100",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 5342,
+                "element_id": 8,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 1092,
+        "name": "Khezu Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/khezu-horn",
+        "image": "hue6",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5270,
+                "element_id": 3,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1081,
+        "name": "Type 63 Warmonica",
+        "url": "http://mhgen.kiranico.com/huntinghorn/type-63-warmonica",
+        "image": "hue133",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5215,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1111,
+        "name": "Dodotto Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/dodotto-horn",
+        "image": "hue118",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5359,
+                "element_id": 5,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 1101,
+        "name": "Shell Castanet",
+        "url": "http://mhgen.kiranico.com/huntinghorn/shell-castanet",
+        "image": "hue82",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5311,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1087,
+        "name": "Danger Call",
+        "url": "http://mhgen.kiranico.com/huntinghorn/danger-call",
+        "image": "hue32",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 5247,
+                "element_id": 7,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1079,
+        "name": "Hidden Harmonic",
+        "url": "http://mhgen.kiranico.com/huntinghorn/hidden-harmonic",
+        "image": "hue134"
+    },
+    {
+        "id": 1134,
+        "name": "Handmade Frog",
+        "url": "http://mhgen.kiranico.com/huntinghorn/handmade-frog",
+        "image": "hue96",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5460,
+                "element_id": 2,
+                "value": 37
+            }
+        }
+    },
+    {
+        "id": 1135,
+        "name": "Magia Charm",
+        "url": "http://mhgen.kiranico.com/huntinghorn/magia-charm",
+        "image": "hue20",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5464,
+                "element_id": 4,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 1136,
+        "name": "Swell Shell",
+        "url": "http://mhgen.kiranico.com/huntinghorn/swell-shell",
+        "image": "hue36"
+    },
+    {
+        "id": 1138,
+        "name": "Poison Fungasax",
+        "url": "http://mhgen.kiranico.com/huntinghorn/poison-fungasax",
+        "image": "hue142",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 5476,
+                "element_id": 6,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 1132,
+        "name": "Bherna Chime",
+        "url": "http://mhgen.kiranico.com/huntinghorn/bherna-chime",
+        "image": "hue123",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5452,
+                "element_id": 3,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1133,
+        "name": "Airship Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/airship-horn",
+        "image": "hue140",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5456,
+                "element_id": 9,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1084,
+        "name": "Hunter's Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/hunters-horn",
+        "image": "hue26"
+    },
+    {
+        "id": 1109,
+        "name": "Raven Shamisen",
+        "url": "http://mhgen.kiranico.com/huntinghorn/raven-shamisen",
+        "image": "hue13",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 5351,
+                "element_id": 6,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1098,
+        "name": "Brazengaita",
+        "url": "http://mhgen.kiranico.com/huntinghorn/brazengaita",
+        "image": "hue136"
+    },
+    {
+        "id": 1074,
+        "name": "Valkyrie Chordmaker",
+        "url": "http://mhgen.kiranico.com/huntinghorn/valkyrie-chordmaker",
+        "image": "hue14",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5181,
+                "element_id": 1,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 1078,
+        "name": "Lagia Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/lagia-horn",
+        "image": "hue135",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5201,
+                "element_id": 3,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1106,
+        "name": "Usurper's Growl",
+        "url": "http://mhgen.kiranico.com/huntinghorn/usurpers-growl",
+        "image": "hue2",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5338,
+                "element_id": 3,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 1114,
+        "name": "Poetic Bell",
+        "url": "http://mhgen.kiranico.com/huntinghorn/poetic-bell",
+        "image": "hue106",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5376,
+                "element_id": 2,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 1112,
+        "name": "Emerald Flap",
+        "url": "http://mhgen.kiranico.com/huntinghorn/emerald-flap",
+        "image": "hue104",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5364,
+                "element_id": 3,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 1113,
+        "name": "Giant's Koto",
+        "url": "http://mhgen.kiranico.com/huntinghorn/giants-koto",
+        "image": "hue105",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5370,
+                "element_id": 5,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1115,
+        "name": "Hell Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/hell-horn",
+        "image": "hue101",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5382,
+                "element_id": 1,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 1116,
+        "name": "Kummerklang",
+        "url": "http://mhgen.kiranico.com/huntinghorn/kummerklang",
+        "image": "hue34",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5388,
+                "element_id": 4,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 1066,
+        "name": "Vadya Muse",
+        "url": "http://mhgen.kiranico.com/huntinghorn/vadya-muse",
+        "image": "hue70"
+    },
+    {
+        "id": 1097,
+        "name": "Striped Dragonga",
+        "url": "http://mhgen.kiranico.com/huntinghorn/striped-dragonga",
+        "image": "hue1"
+    },
+    {
+        "id": 1085,
+        "name": "Dios Bell",
+        "url": "http://mhgen.kiranico.com/huntinghorn/dios-bell",
+        "image": "hue25",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5239,
+                "element_id": 9,
+                "value": 16
+            }
+        }
+    },
+    {
+        "id": 1117,
+        "name": "La Sépulture",
+        "url": "http://mhgen.kiranico.com/huntinghorn/la-sepulture",
+        "image": "hue39",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5393,
+                "element_id": 4,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 1118,
+        "name": "Blessed Ocarina",
+        "url": "http://mhgen.kiranico.com/huntinghorn/blessed-ocarina",
+        "image": "hue81",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 5398,
+                "element_id": 6,
+                "value": 29
+            }
+        }
+    },
+    {
+        "id": 1119,
+        "name": "Teostra's Tiple",
+        "url": "http://mhgen.kiranico.com/huntinghorn/teostras-tiple",
+        "image": "hue66",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5402,
+                "element_id": 9,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 1121,
+        "name": "Skeletal Melody",
+        "url": "http://mhgen.kiranico.com/huntinghorn/skeletal-melody",
+        "image": "hue102",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5410,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1137,
+        "name": "Azumand Wind",
+        "url": "http://mhgen.kiranico.com/huntinghorn/azumand-wind",
+        "image": "hue122",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 5472,
+                "element_id": 8,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1139,
+        "name": "Cornupion",
+        "url": "http://mhgen.kiranico.com/huntinghorn/cornupion",
+        "image": "hue124",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 5480,
+                "element_id": 7,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1065,
+        "name": "Obsidian Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/obsidian-horn",
+        "image": "hue99"
+    },
+    {
+        "id": 1131,
+        "name": "Yukumo Pureflute",
+        "url": "http://mhgen.kiranico.com/huntinghorn/yukumo-pureflute",
+        "image": "hue127"
+    },
+    {
+        "id": 1129,
+        "name": "Black Lute",
+        "url": "http://mhgen.kiranico.com/huntinghorn/black-lute",
+        "image": "hue9",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5438,
+                "element_id": 4,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 1077,
+        "name": "Heavy Bagpipe",
+        "url": "http://mhgen.kiranico.com/huntinghorn/heavy-bagpipe",
+        "image": "hue19"
+    },
+    {
+        "id": 1090,
+        "name": "Velocidrome Balloon",
+        "url": "http://mhgen.kiranico.com/huntinghorn/velocidrome-balloon",
+        "image": "hue130"
+    },
+    {
+        "id": 1095,
+        "name": "Kecha Whappa",
+        "url": "http://mhgen.kiranico.com/huntinghorn/kecha-whappa",
+        "image": "hue30",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5286,
+                "element_id": 2,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1126,
+        "name": "Worn Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/worn-horn",
+        "image": "hue21"
+    },
+    {
+        "id": 1096,
+        "name": "Kecha Thumpa",
+        "url": "http://mhgen.kiranico.com/huntinghorn/kecha-thumpa",
+        "image": "hue38",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5290,
+                "element_id": 2,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 1080,
+        "name": "Poli'ahu Pipe",
+        "url": "http://mhgen.kiranico.com/huntinghorn/poliahu-pipe",
+        "image": "hue67",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5211,
+                "element_id": 5,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1108,
+        "name": "Lava Alphorn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/lava-alphorn",
+        "image": "hue137",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5348,
+                "element_id": 1,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 1088,
+        "name": "Hazardous Call",
+        "url": "http://mhgen.kiranico.com/huntinghorn/hazardous-call",
+        "image": "hue40",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 5252,
+                "element_id": 7,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 1110,
+        "name": "Vile Shamisen",
+        "url": "http://mhgen.kiranico.com/huntinghorn/vile-shamisen",
+        "image": "hue73",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 5356,
+                "element_id": 6,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 1073,
+        "name": "Agnakdion",
+        "url": "http://mhgen.kiranico.com/huntinghorn/agnakdion",
+        "image": "hue138",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5178,
+                "element_id": 1,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 1067,
+        "name": "Seditious Warhorn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/seditious-warhorn",
+        "image": "hue72"
+    },
+    {
+        "id": 1100,
+        "name": "Mountain Crusher",
+        "url": "http://mhgen.kiranico.com/huntinghorn/mountain-crusher",
+        "image": "hue120"
+    },
+    {
+        "id": 1086,
+        "name": "Demolition Chime",
+        "url": "http://mhgen.kiranico.com/huntinghorn/demolition-chime",
+        "image": "hue33",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5244,
+                "element_id": 9,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 1120,
+        "name": "Denden Daiko",
+        "url": "http://mhgen.kiranico.com/huntinghorn/denden-daiko",
+        "image": "hue68",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5406,
+                "element_id": 3,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 1127,
+        "name": "Avenir's Music Box",
+        "url": "http://mhgen.kiranico.com/huntinghorn/avenirs-music-box",
+        "image": "hue22",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5432,
+                "element_id": 4,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 1150,
+        "name": "Blitz Works",
+        "url": "http://mhgen.kiranico.com/huntinghorn/blitz-works",
+        "image": "hue65",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5584,
+                "element_id": 3,
+                "value": 35
+            }
+        }
+    },
+    {
+        "id": 1152,
+        "name": "Megaphone",
+        "url": "http://mhgen.kiranico.com/huntinghorn/megaphone",
+        "image": "hue63"
+    },
+    {
+        "id": 1128,
+        "name": "Daora's Taus",
+        "url": "http://mhgen.kiranico.com/huntinghorn/daoras-taus",
+        "image": "hue69",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5435,
+                "element_id": 5,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 1075,
+        "name": "Gold Chordmaker",
+        "url": "http://mhgen.kiranico.com/huntinghorn/gold-chordmaker",
+        "image": "hue37",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5187,
+                "element_id": 4,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 1123,
+        "name": "Akantor Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/akantor-horn",
+        "image": "hue3"
+    },
+    {
+        "id": 1124,
+        "name": "Ukanlos Horned Flute",
+        "url": "http://mhgen.kiranico.com/huntinghorn/ukanlos-horned-flute",
+        "image": "hue80",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 5421,
+                "element_id": 5,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 1125,
+        "name": "Autumn Lute",
+        "url": "http://mhgen.kiranico.com/huntinghorn/autumn-lute",
+        "image": "hue139",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 5424,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 1122,
+        "name": "Polaris Wraith",
+        "url": "http://mhgen.kiranico.com/huntinghorn/polaris-wraith",
+        "image": "hue103",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 5415,
+                "element_id": 4,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 1140,
+        "name": "Crimson Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/crimson-horn",
+        "image": "hue107"
+    },
+    {
+        "id": 1141,
+        "name": "Royal Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/royal-horn",
+        "image": "hue109",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 5494,
+                "element_id": 6,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 1142,
+        "name": "Pierce Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/pierce-horn",
+        "image": "hue108"
+    },
+    {
+        "id": 1143,
+        "name": "Nightfall Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/nightfall-horn",
+        "image": "hue113"
+    },
+    {
+        "id": 1144,
+        "name": "Geode Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/geode-horn",
+        "image": "hue116"
+    },
+    {
+        "id": 1145,
+        "name": "Hardened Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/hardened-horn",
+        "image": "hue110",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 5534,
+                "element_id": 6,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 1146,
+        "name": "Tomb Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/tomb-horn",
+        "image": "hue111",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 5544,
+                "element_id": 1,
+                "value": 27
+            }
+        }
+    },
+    {
+        "id": 1147,
+        "name": "Raiden Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/raiden-horn",
+        "image": "hue114",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 5554,
+                "element_id": 3,
+                "value": 31
+            }
+        }
+    },
+    {
+        "id": 1148,
+        "name": "Seize Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/seize-horn",
+        "image": "hue112"
+    },
+    {
+        "id": 1149,
+        "name": "Magma Horn",
+        "url": "http://mhgen.kiranico.com/huntinghorn/magma-horn",
+        "image": "hue115",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 5574,
+                "element_id": 9,
+                "value": 21
+            }
+        }
+    }
+]

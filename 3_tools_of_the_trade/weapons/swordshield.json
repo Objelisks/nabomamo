@@ -1,0 +1,1118 @@
+[
+    {
+        "id": 113,
+        "name": "Petrified Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/petrified-sword",
+        "image": "one134"
+    },
+    {
+        "id": 123,
+        "name": "Hunter's Knife",
+        "url": "http://mhgen.kiranico.com/swordshield/hunters-knife",
+        "image": "one1"
+    },
+    {
+        "id": 141,
+        "name": "Bone Kris",
+        "url": "http://mhgen.kiranico.com/swordshield/bone-kris",
+        "image": "one5"
+    },
+    {
+        "id": 154,
+        "name": "Bone Tabar",
+        "url": "http://mhgen.kiranico.com/swordshield/bone-tabar",
+        "image": "one156"
+    },
+    {
+        "id": 161,
+        "name": "Secta Nulo",
+        "url": "http://mhgen.kiranico.com/swordshield/secta-nulo",
+        "image": "one169"
+    },
+    {
+        "id": 130,
+        "name": "Soldier's Dagger",
+        "url": "http://mhgen.kiranico.com/swordshield/soldiers-dagger",
+        "image": "one3"
+    },
+    {
+        "id": 135,
+        "name": "Serpent Bite",
+        "url": "http://mhgen.kiranico.com/swordshield/serpent-bite",
+        "image": "one170"
+    },
+    {
+        "id": 138,
+        "name": "Snake Bite",
+        "url": "http://mhgen.kiranico.com/swordshield/snake-bite",
+        "image": "one171",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 682,
+                "element_id": 5,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 136,
+        "name": "Viper Bite",
+        "url": "http://mhgen.kiranico.com/swordshield/viper-bite",
+        "image": "one31",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 671,
+                "element_id": 7,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 137,
+        "name": "Hydra Bite",
+        "url": "http://mhgen.kiranico.com/swordshield/hydra-bite",
+        "image": "one21",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 676,
+                "element_id": 6,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 160,
+        "name": "Brash Buddies",
+        "url": "http://mhgen.kiranico.com/swordshield/brash-buddies",
+        "image": "one152"
+    },
+    {
+        "id": 150,
+        "name": "Ludroth's Nail",
+        "url": "http://mhgen.kiranico.com/swordshield/ludroths-nail",
+        "image": "one6"
+    },
+    {
+        "id": 119,
+        "name": "Velocidrome Bite",
+        "url": "http://mhgen.kiranico.com/swordshield/velocidrome-bite",
+        "image": "one15"
+    },
+    {
+        "id": 187,
+        "name": "Yukumo Cutter",
+        "url": "http://mhgen.kiranico.com/swordshield/yukumo-cutter",
+        "image": "one164"
+    },
+    {
+        "id": 179,
+        "name": "Rusted Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/rusted-sword",
+        "image": "one22"
+    },
+    {
+        "id": 125,
+        "name": "Hunter's Dagger",
+        "url": "http://mhgen.kiranico.com/swordshield/hunters-dagger",
+        "image": "one2"
+    },
+    {
+        "id": 145,
+        "name": "Bone Pick",
+        "url": "http://mhgen.kiranico.com/swordshield/bone-pick",
+        "image": "one163"
+    },
+    {
+        "id": 118,
+        "name": "Frost Edge",
+        "url": "http://mhgen.kiranico.com/swordshield/frost-edge",
+        "image": "one60",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 582,
+                "element_id": 5,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 162,
+        "name": "Secta Nulo (G)",
+        "url": "http://mhgen.kiranico.com/swordshield/secta-nulo-g",
+        "image": "one169",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 794,
+                "element_id": 7,
+                "value": 14
+            }
+        }
+    },
+    {
+        "id": 163,
+        "name": "Secta Nulo (R)",
+        "url": "http://mhgen.kiranico.com/swordshield/secta-nulo-r",
+        "image": "one169",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 799,
+                "element_id": 1,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 129,
+        "name": "Lava Pick",
+        "url": "http://mhgen.kiranico.com/swordshield/lava-pick",
+        "image": "one153",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 637,
+                "element_id": 1,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 159,
+        "name": "Poison Axe",
+        "url": "http://mhgen.kiranico.com/swordshield/poison-axe",
+        "image": "one7",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 776,
+                "element_id": 6,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 149,
+        "name": "Thunderbane",
+        "url": "http://mhgen.kiranico.com/swordshield/thunderbane",
+        "image": "one172",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 732,
+                "element_id": 3,
+                "value": 17
+            }
+        }
+    },
+    {
+        "id": 151,
+        "name": "Royal Claw",
+        "url": "http://mhgen.kiranico.com/swordshield/royal-claw",
+        "image": "one25",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 742,
+                "element_id": 2,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 122,
+        "name": "Shura Fan",
+        "url": "http://mhgen.kiranico.com/swordshield/shura-fan",
+        "image": "one136",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 601,
+                "element_id": 8,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 134,
+        "name": "Khezu Razor",
+        "url": "http://mhgen.kiranico.com/swordshield/khezu-razor",
+        "image": "one154",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 660,
+                "element_id": 3,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 128,
+        "name": "Dual Carapace",
+        "url": "http://mhgen.kiranico.com/swordshield/dual-carapace",
+        "image": "one173",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 632,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 121,
+        "name": "Spiked Circle",
+        "url": "http://mhgen.kiranico.com/swordshield/spiked-circle",
+        "image": "one58",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 596,
+                "element_id": 7,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 117,
+        "name": "Hidden Edge",
+        "url": "http://mhgen.kiranico.com/swordshield/hidden-edge",
+        "image": "one29"
+    },
+    {
+        "id": 185,
+        "name": "Tusk Gear",
+        "url": "http://mhgen.kiranico.com/swordshield/tusk-gear",
+        "image": "one19",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 891,
+                "element_id": 5,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 197,
+        "name": "Catspaw",
+        "url": "http://mhgen.kiranico.com/swordshield/catspaw",
+        "image": "one18",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 941,
+                "element_id": 7,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 192,
+        "name": "Kitchen Knife",
+        "url": "http://mhgen.kiranico.com/swordshield/kitchen-knife",
+        "image": "one166"
+    },
+    {
+        "id": 193,
+        "name": "Chak Chak",
+        "url": "http://mhgen.kiranico.com/swordshield/chak-chak",
+        "image": "one17"
+    },
+    {
+        "id": 189,
+        "name": "Moofah Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/moofah-sword",
+        "image": "one157",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 910,
+                "element_id": 8,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 199,
+        "name": "Eldora Closure",
+        "url": "http://mhgen.kiranico.com/swordshield/eldora-closure",
+        "image": "one159"
+    },
+    {
+        "id": 114,
+        "name": "Obsidian Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/obsidian-sword",
+        "image": "one135"
+    },
+    {
+        "id": 126,
+        "name": "Heavy Bang",
+        "url": "http://mhgen.kiranico.com/swordshield/heavy-bang",
+        "image": "one37"
+    },
+    {
+        "id": 120,
+        "name": "Raven Blade",
+        "url": "http://mhgen.kiranico.com/swordshield/raven-blade",
+        "image": "one174"
+    },
+    {
+        "id": 153,
+        "name": "Gigas Club",
+        "url": "http://mhgen.kiranico.com/swordshield/gigas-club",
+        "image": "one175"
+    },
+    {
+        "id": 132,
+        "name": "Princess Rapier",
+        "url": "http://mhgen.kiranico.com/swordshield/princess-rapier",
+        "image": "one24",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 652,
+                "element_id": 6,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 142,
+        "name": "Djinn",
+        "url": "http://mhgen.kiranico.com/swordshield/djinn",
+        "image": "one16",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 704,
+                "element_id": 1,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 157,
+        "name": "Lagia Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/lagia-sword",
+        "image": "one12",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 768,
+                "element_id": 3,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 131,
+        "name": "Usurper's Firebolt",
+        "url": "http://mhgen.kiranico.com/swordshield/usurpers-firebolt",
+        "image": "one30",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 648,
+                "element_id": 3,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 168,
+        "name": "Hana no Nagoriwo",
+        "url": "http://mhgen.kiranico.com/swordshield/hana-no-nagoriwo",
+        "image": "one142",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 823,
+                "element_id": 2,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 166,
+        "name": "Verdant Rapier",
+        "url": "http://mhgen.kiranico.com/swordshield/verdant-rapier",
+        "image": "one140",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 811,
+                "element_id": 3,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 167,
+        "name": "Giant's Tusk",
+        "url": "http://mhgen.kiranico.com/swordshield/giants-tusk",
+        "image": "one141",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 817,
+                "element_id": 5,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 169,
+        "name": "Burning Prominar",
+        "url": "http://mhgen.kiranico.com/swordshield/burning-prominar",
+        "image": "one137",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 829,
+                "element_id": 1,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 170,
+        "name": "Sucher-Ankh",
+        "url": "http://mhgen.kiranico.com/swordshield/sucher-ankh",
+        "image": "one46",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 835,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 139,
+        "name": "Naab Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/naab-sword",
+        "image": "one96"
+    },
+    {
+        "id": 152,
+        "name": "Rex Talon",
+        "url": "http://mhgen.kiranico.com/swordshield/rex-talon",
+        "image": "one27"
+    },
+    {
+        "id": 172,
+        "name": "Kirin Bolt Ultimus",
+        "url": "http://mhgen.kiranico.com/swordshield/kirin-bolt-ultimus",
+        "image": "one177",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 845,
+                "element_id": 3,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 115,
+        "name": "Dios Edge",
+        "url": "http://mhgen.kiranico.com/swordshield/dios-edge",
+        "image": "one34",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 569,
+                "element_id": 9,
+                "value": 15
+            }
+        }
+    },
+    {
+        "id": 171,
+        "name": "Le Détecteur",
+        "url": "http://mhgen.kiranico.com/swordshield/le-detecteur",
+        "image": "one54",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 840,
+                "element_id": 4,
+                "value": 22
+            }
+        }
+    },
+    {
+        "id": 181,
+        "name": "Icesteel Dagger",
+        "url": "http://mhgen.kiranico.com/swordshield/icesteel-dagger",
+        "image": "one10",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 876,
+                "element_id": 5,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 173,
+        "name": "Skeletal Blade",
+        "url": "http://mhgen.kiranico.com/swordshield/skeletal-blade",
+        "image": "one138",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 850,
+                "element_id": 4,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 194,
+        "name": "Floral Seif",
+        "url": "http://mhgen.kiranico.com/swordshield/floral-seif",
+        "image": "one158",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 930,
+                "element_id": 9,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 200,
+        "name": "Black Belt Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/black-belt-sword",
+        "image": "one129"
+    },
+    {
+        "id": 188,
+        "name": "Yukumo Pure Cutter",
+        "url": "http://mhgen.kiranico.com/swordshield/yukumo-pure-cutter",
+        "image": "one164"
+    },
+    {
+        "id": 186,
+        "name": "Black Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/black-sword",
+        "image": "one35",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 896,
+                "element_id": 4,
+                "value": 20
+            }
+        }
+    },
+    {
+        "id": 190,
+        "name": "Hero's Blade",
+        "url": "http://mhgen.kiranico.com/swordshield/heros-blade",
+        "image": "one28"
+    },
+    {
+        "id": 180,
+        "name": "Eternal Strife",
+        "url": "http://mhgen.kiranico.com/swordshield/eternal-strife",
+        "image": "one23",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 873,
+                "element_id": 4,
+                "value": 41
+            }
+        }
+    },
+    {
+        "id": 124,
+        "name": "Odyssey Blade",
+        "url": "http://mhgen.kiranico.com/swordshield/odyssey-blade",
+        "image": "one52",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 615,
+                "element_id": 2,
+                "value": 24
+            }
+        }
+    },
+    {
+        "id": 164,
+        "name": "Celestial Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/celestial-sword",
+        "image": "one40",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 804,
+                "element_id": 2,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 155,
+        "name": "Sharkutter",
+        "url": "http://mhgen.kiranico.com/swordshield/sharkutter",
+        "image": "one41",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 761,
+                "element_id": 5,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 182,
+        "name": "Worn Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/worn-sword",
+        "image": "one22"
+    },
+    {
+        "id": 156,
+        "name": "Sharfin Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/sharfin-sword",
+        "image": "one44",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 765,
+                "element_id": 5,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 148,
+        "name": "Weary Finsword",
+        "url": "http://mhgen.kiranico.com/swordshield/weary-finsword",
+        "image": "one33",
+        "element": {
+            "id": 8,
+            "pivot": {
+                "weaponlevel_id": 729,
+                "element_id": 8,
+                "value": 26
+            }
+        }
+    },
+    {
+        "id": 198,
+        "name": "Melynx Tool",
+        "url": "http://mhgen.kiranico.com/swordshield/melynx-tool",
+        "image": "one168",
+        "element": {
+            "id": 7,
+            "pivot": {
+                "weaponlevel_id": 945,
+                "element_id": 7,
+                "value": 34
+            }
+        }
+    },
+    {
+        "id": 196,
+        "name": "Shining Wyvern Blade",
+        "url": "http://mhgen.kiranico.com/swordshield/shining-wyvern-blade",
+        "image": "one167"
+    },
+    {
+        "id": 165,
+        "name": "Cross Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/cross-sword",
+        "image": "one43",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 808,
+                "element_id": 2,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 143,
+        "name": "Corona",
+        "url": "http://mhgen.kiranico.com/swordshield/corona",
+        "image": "one176",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 709,
+                "element_id": 1,
+                "value": 40
+            }
+        }
+    },
+    {
+        "id": 158,
+        "name": "Storm Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/storm-sword",
+        "image": "one20",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 773,
+                "element_id": 3,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 140,
+        "name": "Seditious Fang",
+        "url": "http://mhgen.kiranico.com/swordshield/seditious-fang",
+        "image": "one98"
+    },
+    {
+        "id": 127,
+        "name": "Baumfäller",
+        "url": "http://mhgen.kiranico.com/swordshield/baumfaller",
+        "image": "one178"
+    },
+    {
+        "id": 116,
+        "name": "Demolition Cutter",
+        "url": "http://mhgen.kiranico.com/swordshield/demolition-cutter",
+        "image": "one45",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 574,
+                "element_id": 9,
+                "value": 30
+            }
+        }
+    },
+    {
+        "id": 146,
+        "name": "Rajang Club",
+        "url": "http://mhgen.kiranico.com/swordshield/rajang-club",
+        "image": "one117",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 722,
+                "element_id": 3,
+                "value": 10
+            }
+        }
+    },
+    {
+        "id": 191,
+        "name": "Dragonseal Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/dragonseal-sword",
+        "image": "one165",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 919,
+                "element_id": 4,
+                "value": 12
+            }
+        }
+    },
+    {
+        "id": 195,
+        "name": "Ninja Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/ninja-sword",
+        "image": "one161"
+    },
+    {
+        "id": 183,
+        "name": "Divine Exodus",
+        "url": "http://mhgen.kiranico.com/swordshield/divine-exodus",
+        "image": "one26",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 885,
+                "element_id": 4,
+                "value": 56
+            }
+        }
+    },
+    {
+        "id": 210,
+        "name": "Inazuma Works",
+        "url": "http://mhgen.kiranico.com/swordshield/inazuma-works",
+        "image": "one130",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1046,
+                "element_id": 3,
+                "value": 36
+            }
+        }
+    },
+    {
+        "id": 211,
+        "name": "Levindicator",
+        "url": "http://mhgen.kiranico.com/swordshield/levindicator",
+        "image": "one94",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1049,
+                "element_id": 3,
+                "value": 18
+            }
+        }
+    },
+    {
+        "id": 212,
+        "name": "Star Knight Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/star-knight-sword",
+        "image": "one131",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 1052,
+                "element_id": 5,
+                "value": 13
+            }
+        }
+    },
+    {
+        "id": 213,
+        "name": "Hero's Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/heros-sword",
+        "image": "one93"
+    },
+    {
+        "id": 214,
+        "name": "Falchion",
+        "url": "http://mhgen.kiranico.com/swordshield/falchion",
+        "image": "one181",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 1058,
+                "element_id": 4,
+                "value": 36
+            }
+        }
+    },
+    {
+        "id": 184,
+        "name": "Teostra's Spada",
+        "url": "http://mhgen.kiranico.com/swordshield/teostras-spada",
+        "image": "one95",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 888,
+                "element_id": 9,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 133,
+        "name": "Lunatic Rose",
+        "url": "http://mhgen.kiranico.com/swordshield/lunatic-rose",
+        "image": "one107",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 657,
+                "element_id": 6,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 144,
+        "name": "Golden Falchion",
+        "url": "http://mhgen.kiranico.com/swordshield/golden-falchion",
+        "image": "one57",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 712,
+                "element_id": 1,
+                "value": 32
+            }
+        }
+    },
+    {
+        "id": 147,
+        "name": "Demonlord Mace",
+        "url": "http://mhgen.kiranico.com/swordshield/demonlord-mace",
+        "image": "one160",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 726,
+                "element_id": 3,
+                "value": 26
+            }
+        }
+    },
+    {
+        "id": 175,
+        "name": "Akantor Duo",
+        "url": "http://mhgen.kiranico.com/swordshield/akantor-duo",
+        "image": "one155"
+    },
+    {
+        "id": 176,
+        "name": "Ukanlos Soul Hatchet",
+        "url": "http://mhgen.kiranico.com/swordshield/ukanlos-soul-hatchet",
+        "image": "one114",
+        "element": {
+            "id": 5,
+            "pivot": {
+                "weaponlevel_id": 861,
+                "element_id": 5,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 178,
+        "name": "Ominous Treasure",
+        "url": "http://mhgen.kiranico.com/swordshield/ominous-treasure",
+        "image": "one180",
+        "element": {
+            "id": 2,
+            "pivot": {
+                "weaponlevel_id": 867,
+                "element_id": 2,
+                "value": 8
+            }
+        }
+    },
+    {
+        "id": 174,
+        "name": "Astral Taurus",
+        "url": "http://mhgen.kiranico.com/swordshield/astral-taurus",
+        "image": "one139",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 855,
+                "element_id": 4,
+                "value": 7
+            }
+        }
+    },
+    {
+        "id": 177,
+        "name": "Alatreon Sword",
+        "url": "http://mhgen.kiranico.com/swordshield/alatreon-sword",
+        "image": "one179",
+        "element": {
+            "id": 4,
+            "pivot": {
+                "weaponlevel_id": 864,
+                "element_id": 4,
+                "value": 25
+            }
+        }
+    },
+    {
+        "id": 201,
+        "name": "Dreadqueen Rapier",
+        "url": "http://mhgen.kiranico.com/swordshield/dreadqueen-rapier",
+        "image": "one144",
+        "element": {
+            "id": 6,
+            "pivot": {
+                "weaponlevel_id": 956,
+                "element_id": 6,
+                "value": 28
+            }
+        }
+    },
+    {
+        "id": 202,
+        "name": "Drilltusk Truncheon",
+        "url": "http://mhgen.kiranico.com/swordshield/drilltusk-truncheon",
+        "image": "one143"
+    },
+    {
+        "id": 203,
+        "name": "Nightfall Edge",
+        "url": "http://mhgen.kiranico.com/swordshield/nightfall-edge",
+        "image": "one148"
+    },
+    {
+        "id": 204,
+        "name": "Geode Mace",
+        "url": "http://mhgen.kiranico.com/swordshield/geode-mace",
+        "image": "one151"
+    },
+    {
+        "id": 205,
+        "name": "Hardened Edge",
+        "url": "http://mhgen.kiranico.com/swordshield/hardened-edge",
+        "image": "one145"
+    },
+    {
+        "id": 206,
+        "name": "Tomb Edge",
+        "url": "http://mhgen.kiranico.com/swordshield/tomb-edge",
+        "image": "one146",
+        "element": {
+            "id": 1,
+            "pivot": {
+                "weaponlevel_id": 1006,
+                "element_id": 1,
+                "value": 27
+            }
+        }
+    },
+    {
+        "id": 207,
+        "name": "Thunderlord Firebolt",
+        "url": "http://mhgen.kiranico.com/swordshield/thunderlord-firebolt",
+        "image": "one149",
+        "element": {
+            "id": 3,
+            "pivot": {
+                "weaponlevel_id": 1016,
+                "element_id": 3,
+                "value": 31
+            }
+        }
+    },
+    {
+        "id": 208,
+        "name": "Grimclaw Barb",
+        "url": "http://mhgen.kiranico.com/swordshield/grimclaw-barb",
+        "image": "one147"
+    },
+    {
+        "id": 209,
+        "name": "Fiery Prominar",
+        "url": "http://mhgen.kiranico.com/swordshield/fiery-prominar",
+        "image": "one150",
+        "element": {
+            "id": 9,
+            "pivot": {
+                "weaponlevel_id": 1036,
+                "element_id": 9,
+                "value": 16
+            }
+        }
+    }
+]
