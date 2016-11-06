@@ -4,6 +4,7 @@
   "description": "",
   "main": "bot.js",
   "dependencies": {
+    "node-fetch": "^1.6.3",
     "twitter": "^1.4.0"
   },
   "devDependencies": {},

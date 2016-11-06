@@ -1,0 +1,1197 @@
+{
+    "🍏": {
+        "name": "Apples, raw, with skin",
+        "facts": {
+            "Calories": 126,
+            "Protein": 0.63,
+            "Total Fat": 0.41,
+            "Total Carbohydrate": 33.42,
+            "Dietary Fiber": 5.8,
+            "Sugars": 25.14,
+            "Calcium": 0.015,
+            "Iron": 0.00029,
+            "Sodium": 0.002,
+            "Vitamin C": 0.0111,
+            "Vitamin A": 0.00007000000000000001,
+            "Saturated Fat": 0.068,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍎": {
+        "name": "Apples, raw, with skin",
+        "facts": {
+            "Calories": 126,
+            "Protein": 0.63,
+            "Total Fat": 0.41,
+            "Total Carbohydrate": 33.42,
+            "Dietary Fiber": 5.8,
+            "Sugars": 25.14,
+            "Calcium": 0.015,
+            "Iron": 0.00029,
+            "Sodium": 0.002,
+            "Vitamin C": 0.0111,
+            "Vitamin A": 0.00007000000000000001,
+            "Saturated Fat": 0.068,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍐": {
+        "name": "Pears, raw",
+        "facts": {
+            "Calories": 95,
+            "Protein": 0.6,
+            "Total Fat": 0.23,
+            "Total Carbohydrate": 25.28,
+            "Dietary Fiber": 5.1,
+            "Sugars": 16.18,
+            "Calcium": 0.015,
+            "Iron": 0.0003,
+            "Sodium": 0.002,
+            "Vitamin C": 0.0070999999999999995,
+            "Vitamin A": 0.00002,
+            "Saturated Fat": 0.037,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍊": {
+        "name": "Oranges, raw, Florida",
+        "facts": {
+            "Calories": 65,
+            "Protein": 0.99,
+            "Total Fat": 0.3,
+            "Total Carbohydrate": 16.27,
+            "Dietary Fiber": 3.4,
+            "Sugars": 12.89,
+            "Calcium": 0.061,
+            "Iron": 0.00013000000000000002,
+            "Sodium": 0,
+            "Vitamin C": 0.0634,
+            "Vitamin A": 0.00016,
+            "Saturated Fat": 0.035,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍋": {
+        "name": "Lemons, raw, without peel",
+        "facts": {
+            "Calories": 17,
+            "Protein": 0.64,
+            "Total Fat": 0.17,
+            "Total Carbohydrate": 5.41,
+            "Dietary Fiber": 1.6,
+            "Sugars": 1.45,
+            "Calcium": 0.015,
+            "Iron": 0.00035,
+            "Sodium": 0.001,
+            "Vitamin C": 0.0307,
+            "Vitamin A": 0.00001,
+            "Saturated Fat": 0.023,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍌": {
+        "name": "Bananas, raw",
+        "facts": {
+            "Calories": 112,
+            "Protein": 1.37,
+            "Total Fat": 0.42,
+            "Total Carbohydrate": 28.78,
+            "Dietary Fiber": 3.3,
+            "Sugars": 15.41,
+            "Calcium": 0.006,
+            "Iron": 0.00033,
+            "Sodium": 0.001,
+            "Vitamin C": 0.011,
+            "Vitamin A": 0.00004,
+            "Saturated Fat": 0.141,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍉": {
+        "name": "Watermelon, raw",
+        "facts": {
+            "Calories": 84,
+            "Protein": 1.71,
+            "Total Fat": 0.42,
+            "Total Carbohydrate": 21.14,
+            "Dietary Fiber": 1.1,
+            "Sugars": 17.36,
+            "Calcium": 0.02,
+            "Iron": 0.00067,
+            "Sodium": 0.003,
+            "Vitamin C": 0.0227,
+            "Vitamin A": 0.0007800000000000001,
+            "Saturated Fat": 0.045,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍇": {
+        "name": "Grapes, red or green (European type, such as Thompson seedless), raw",
+        "facts": {
+            "Calories": 87,
+            "Protein": 0.91,
+            "Total Fat": 0.2,
+            "Total Carbohydrate": 22.81,
+            "Dietary Fiber": 1.1,
+            "Sugars": 19.5,
+            "Calcium": 0.013000000000000001,
+            "Iron": 0.00045000000000000004,
+            "Sodium": 0.003,
+            "Vitamin C": 0.004,
+            "Vitamin A": 0.00004,
+            "Saturated Fat": 0.068,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍓": {
+        "name": "Strawberries, raw",
+        "facts": {
+            "Calories": 47,
+            "Protein": 0.98,
+            "Total Fat": 0.44,
+            "Total Carbohydrate": 11.29,
+            "Dietary Fiber": 2.9,
+            "Sugars": 7.19,
+            "Calcium": 0.024,
+            "Iron": 0.0006,
+            "Sodium": 0.001,
+            "Vitamin C": 0.0864,
+            "Vitamin A": 0.00001,
+            "Saturated Fat": 0.022,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍈": {
+        "name": "Melons, honeydew, raw",
+        "facts": {
+            "Calories": 48,
+            "Protein": 0.72,
+            "Total Fat": 0.19,
+            "Total Carbohydrate": 12.18,
+            "Dietary Fiber": 1.1,
+            "Sugars": 10.88,
+            "Calcium": 0.008,
+            "Iron": 0.00023,
+            "Sodium": 0.024,
+            "Vitamin C": 0.024100000000000003,
+            "Vitamin A": 0.00004,
+            "Saturated Fat": 0.051,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍒": {
+        "name": "Cherries, sweet, raw",
+        "facts": {
+            "Calories": 88,
+            "Protein": 1.48,
+            "Total Fat": 0.28,
+            "Total Carbohydrate": 22.41,
+            "Dietary Fiber": 2.9,
+            "Sugars": 17.95,
+            "Calcium": 0.018000000000000002,
+            "Iron": 0.0005,
+            "Sodium": 0,
+            "Vitamin C": 0.009800000000000001,
+            "Vitamin A": 0.00004,
+            "Saturated Fat": 0.053,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍑": {
+        "name": "Peaches, yellow, raw",
+        "facts": {
+            "Calories": 57,
+            "Protein": 1.34,
+            "Total Fat": 0.37,
+            "Total Carbohydrate": 14.02,
+            "Dietary Fiber": 2.2,
+            "Sugars": 12.33,
+            "Calcium": 0.009000000000000001,
+            "Iron": 0.00037,
+            "Sodium": 0,
+            "Vitamin C": 0.0097,
+            "Vitamin A": 0.00024000000000000003,
+            "Saturated Fat": 0.028,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍍": {
+        "name": "Pineapple, raw, all varieties",
+        "facts": {
+            "Calories": 82,
+            "Protein": 0.89,
+            "Total Fat": 0.2,
+            "Total Carbohydrate": 21.65,
+            "Dietary Fiber": 2.3,
+            "Sugars": 16.25,
+            "Calcium": 0.021,
+            "Iron": 0.00048,
+            "Sodium": 0.002,
+            "Vitamin C": 0.07890000000000001,
+            "Vitamin A": 0.00005,
+            "Saturated Fat": 0.015,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍅": {
+        "name": "Tomatoes, red, ripe, raw, year round average",
+        "facts": {
+            "Calories": 27,
+            "Protein": 1.3,
+            "Total Fat": 0.3,
+            "Total Carbohydrate": 5.76,
+            "Dietary Fiber": 1.8,
+            "Sugars": 3.89,
+            "Calcium": 0.015,
+            "Iron": 0.0004,
+            "Sodium": 0.007,
+            "Vitamin C": 0.020300000000000002,
+            "Vitamin A": 0.00062,
+            "Saturated Fat": 0.041,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍆": {
+        "name": "Eggplant, cooked, boiled, drained, without salt",
+        "facts": {
+            "Calories": 35,
+            "Protein": 0.82,
+            "Total Fat": 0.23,
+            "Total Carbohydrate": 8.64,
+            "Dietary Fiber": 2.5,
+            "Sugars": 3.17,
+            "Calcium": 0.006,
+            "Iron": 0.00025,
+            "Sodium": 0.001,
+            "Vitamin C": 0.0013000000000000002,
+            "Vitamin A": 0.00002,
+            "Saturated Fat": 0.044,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🌶": {
+        "name": "Peppers, sweet, red, raw",
+        "facts": {
+            "Calories": 37,
+            "Protein": 1.18,
+            "Total Fat": 0.36,
+            "Total Carbohydrate": 7.18,
+            "Dietary Fiber": 2.5,
+            "Sugars": 5,
+            "Calcium": 0.008,
+            "Iron": 0.00051,
+            "Sodium": 0.005,
+            "Vitamin C": 0.152,
+            "Vitamin A": 0.0018700000000000001,
+            "Saturated Fat": 0.032,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🌽": {
+        "name": "Corn, sweet, yellow, cooked, boiled, drained, without salt",
+        "facts": {
+            "Calories": 99,
+            "Protein": 3.51,
+            "Total Fat": 1.54,
+            "Total Carbohydrate": 21.61,
+            "Dietary Fiber": 2.5,
+            "Sugars": 4.68,
+            "Calcium": 0.003,
+            "Iron": 0.00046,
+            "Sodium": 0.001,
+            "Vitamin C": 0.0057,
+            "Vitamin A": 0.00013000000000000002,
+            "Saturated Fat": 0.203,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍠": {
+        "name": "Sweet potato, cooked, baked in skin, flesh, without salt",
+        "facts": {
+            "Calories": 103,
+            "Protein": 2.29,
+            "Total Fat": 0.17,
+            "Total Carbohydrate": 23.61,
+            "Dietary Fiber": 3.8,
+            "Sugars": 7.39,
+            "Calcium": 0.043000000000000003,
+            "Iron": 0.00079,
+            "Sodium": 0.041,
+            "Vitamin C": 0.0223,
+            "Vitamin A": 0.010960000000000001,
+            "Saturated Fat": 0.059,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍯": {
+        "name": "Honey",
+        "facts": {
+            "Calories": 64,
+            "Protein": 0.06,
+            "Total Fat": 0,
+            "Total Carbohydrate": 17.3,
+            "Dietary Fiber": 0,
+            "Sugars": 17.25,
+            "Calcium": 0.001,
+            "Iron": 0.00008999999999999999,
+            "Sodium": 0.001,
+            "Vitamin C": 0.0001,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍞": {
+        "name": "Bread, white, commercially prepared (includes soft bread crumbs)",
+        "facts": {
+            "Calories": 77,
+            "Protein": 2.57,
+            "Total Fat": 0.97,
+            "Total Carbohydrate": 14.33,
+            "Dietary Fiber": 0.8,
+            "Sugars": 1.64,
+            "Calcium": 0.042,
+            "Iron": 0.0010500000000000002,
+            "Sodium": 0.14200000000000002,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0.202,
+            "Trans Fat": 0.008,
+            "Cholesterol": 0
+        }
+    },
+    "🧀": {
+        "name": "Cheese, cheddar",
+        "facts": {
+            "Calories": 113,
+            "Protein": 6.4,
+            "Total Fat": 9.33,
+            "Total Carbohydrate": 0.87,
+            "Dietary Fiber": 0,
+            "Sugars": 0.13,
+            "Calcium": 0.199,
+            "Iron": 0.00004,
+            "Sodium": 0.183,
+            "Vitamin C": 0,
+            "Vitamin A": 0.00092,
+            "Saturated Fat": 5.283,
+            "Trans Fat": 0.257,
+            "Cholesterol": 0.028
+        }
+    },
+    "🍗": {
+        "name": "Turkey, all classes, leg, meat and skin, cooked, roasted",
+        "facts": {
+            "Calories": 1136,
+            "Protein": 152.17,
+            "Total Fat": 53.62,
+            "Total Carbohydrate": 0,
+            "Dietary Fiber": 0,
+            "Sugars": 0,
+            "Calcium": 0.17500000000000002,
+            "Iron": 0.01256,
+            "Sodium": 0.42,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 16.708,
+            "Cholesterol": 0.464
+        }
+    },
+    "🍖": {
+        "name": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled",
+        "facts": {
+            "Calories": 781,
+            "Protein": 98.93,
+            "Total Fat": 39.78,
+            "Total Carbohydrate": 0,
+            "Dietary Fiber": 0,
+            "Sugars": 0,
+            "Calcium": 0.068,
+            "Iron": 0.01285,
+            "Sodium": 0.245,
+            "Vitamin C": 0,
+            "Vitamin A": 0.00004,
+            "Saturated Fat": 16.56,
+            "Trans Fat": 2.142,
+            "Cholesterol": 0.292
+        }
+    },
+    "🍤": {
+        "name": "Crustaceans, shrimp, mixed species, cooked, breaded and fried",
+        "facts": {
+            "Calories": 73,
+            "Protein": 6.42,
+            "Total Fat": 3.68,
+            "Total Carbohydrate": 3.44,
+            "Dietary Fiber": 0.1,
+            "Sugars": 0.24,
+            "Calcium": 0.02,
+            "Iron": 0.00038,
+            "Sodium": 0.10300000000000001,
+            "Vitamin C": 0.0004,
+            "Vitamin A": 0.00017,
+            "Saturated Fat": 0.626,
+            "Cholesterol": 0.041
+        }
+    },
+    "🍳": {
+        "name": "Egg, whole, cooked, fried",
+        "facts": {
+            "Calories": 90,
+            "Protein": 6.26,
+            "Total Fat": 6.83,
+            "Total Carbohydrate": 0.38,
+            "Dietary Fiber": 0,
+            "Sugars": 0.18,
+            "Calcium": 0.029,
+            "Iron": 0.00087,
+            "Sodium": 0.095,
+            "Vitamin C": 0,
+            "Vitamin A": 0.00101,
+            "Saturated Fat": 1.989,
+            "Trans Fat": 0.019,
+            "Cholesterol": 0.184
+        }
+    },
+    "🍔": {
+        "name": "McDONALD'S, Cheeseburger",
+        "facts": {
+            "Calories": 313,
+            "Protein": 15.43,
+            "Total Fat": 14.03,
+            "Total Carbohydrate": 33.09,
+            "Dietary Fiber": 1.3,
+            "Sugars": 7.4,
+            "Calcium": 0.199,
+            "Iron": 0.0028,
+            "Sodium": 0.745,
+            "Vitamin C": 0.0007,
+            "Vitamin A": 0,
+            "Saturated Fat": 5.278,
+            "Trans Fat": 0.77,
+            "Cholesterol": 0.042
+        }
+    },
+    "🍟": {
+        "name": "Restaurant, family style, french fries",
+        "facts": {
+            "Calories": 491,
+            "Protein": 5.93,
+            "Total Fat": 23.87,
+            "Total Carbohydrate": 63.24,
+            "Dietary Fiber": 6.6,
+            "Sugars": 0.48,
+            "Calcium": 0.029,
+            "Iron": 0.0015500000000000002,
+            "Sodium": 0.607,
+            "Vitamin C": 0.0019,
+            "Vitamin A": 0,
+            "Saturated Fat": 4.231,
+            "Trans Fat": 0.177,
+            "Cholesterol": 0.002
+        }
+    },
+    "🌭": {
+        "name": "Frankfurter, beef, heated",
+        "facts": {
+            "Calories": 155,
+            "Protein": 5.61,
+            "Total Fat": 14.09,
+            "Total Carbohydrate": 1.28,
+            "Dietary Fiber": 0,
+            "Sugars": 0.61,
+            "Calcium": 0.005,
+            "Iron": 0.00059,
+            "Sodium": 0.40900000000000003,
+            "Vitamin A": 0,
+            "Saturated Fat": 5.565,
+            "Cholesterol": 0.028
+        }
+    },
+    "🍕": {
+        "name": "Pizza, pepperoni topping, regular crust, frozen, cooked",
+        "facts": {
+            "Calories": 348,
+            "Protein": 18.26,
+            "Total Fat": 16.68,
+            "Total Carbohydrate": 31.36,
+            "Dietary Fiber": 2.5,
+            "Sugars": 4.31,
+            "Calcium": 0.213,
+            "Iron": 0.00309,
+            "Sodium": 0.749,
+            "Vitamin C": 0.0024,
+            "Vitamin A": 0.00088,
+            "Saturated Fat": 6.13,
+            "Trans Fat": 0.267,
+            "Cholesterol": 0.034
+        }
+    },
+    "🍝": {
+        "name": "Restaurant, family style, spaghetti and meatballs",
+        "facts": {
+            "Calories": 960,
+            "Protein": 44.3,
+            "Total Fat": 48.14,
+            "Total Carbohydrate": 87.63,
+            "Dietary Fiber": 8.5,
+            "Sugars": 11.47,
+            "Calcium": 0.254,
+            "Iron": 0.0072900000000000005,
+            "Sodium": 1.983,
+            "Vitamin C": 0.0050999999999999995,
+            "Vitamin A": 0.00158,
+            "Saturated Fat": 17.538,
+            "Trans Fat": 1.226,
+            "Cholesterol": 0.107
+        }
+    },
+    "🌮": {
+        "name": "Fast foods, taco with beef, cheese and lettuce, hard shell",
+        "facts": {
+            "Calories": 156,
+            "Protein": 6.11,
+            "Total Fat": 8.76,
+            "Total Carbohydrate": 13.7,
+            "Dietary Fiber": 2.7,
+            "Sugars": 0.62,
+            "Calcium": 0.061,
+            "Iron": 0.00082,
+            "Sodium": 0.274,
+            "Vitamin C": 0.0003,
+            "Vitamin A": 0.00014000000000000001,
+            "Saturated Fat": 3.025,
+            "Trans Fat": 0.322,
+            "Cholesterol": 0.019
+        }
+    },
+    "🌯": {
+        "name": "Fast foods, burrito, with beans, cheese, and beef",
+        "facts": {
+            "Calories": 434,
+            "Protein": 16.94,
+            "Total Fat": 16.39,
+            "Total Carbohydrate": 56.32,
+            "Dietary Fiber": 8.9,
+            "Sugars": 5.06,
+            "Calcium": 0.217,
+            "Iron": 0.00439,
+            "Sodium": 1.087,
+            "Vitamin C": 0.0031000000000000003,
+            "Vitamin A": 0.00125,
+            "Saturated Fat": 6.587,
+            "Trans Fat": 0.364,
+            "Cholesterol": 0.029
+        }
+    },
+    "🍜": {
+        "name": "Soup, ramen noodle, any flavor, dry",
+        "facts": {
+            "Calories": 356,
+            "Protein": 8.24,
+            "Total Fat": 14.25,
+            "Total Carbohydrate": 48.81,
+            "Dietary Fiber": 2.3,
+            "Sugars": 1.6,
+            "Calcium": 0.017,
+            "Iron": 0.00333,
+            "Sodium": 1.5030000000000001,
+            "Vitamin C": 0.0002,
+            "Vitamin A": 0.00001,
+            "Saturated Fat": 6.575,
+            "Trans Fat": 0.053,
+            "Cholesterol": 0
+        }
+    },
+    "🍲": {
+        "name": "Beef stew, canned entree",
+        "facts": {
+            "Calories": 194,
+            "Protein": 8.64,
+            "Total Fat": 10.84,
+            "Total Carbohydrate": 15.39,
+            "Dietary Fiber": 1.8,
+            "Sugars": 3.45,
+            "Calcium": 0.024,
+            "Iron": 0.004860000000000001,
+            "Sodium": 0.76,
+            "Vitamin C": 0.0014,
+            "Vitamin A": 0.00022,
+            "Saturated Fat": 4.283,
+            "Cholesterol": 0.025
+        }
+    },
+    "🍥": {
+        "name": "YAMASA, NARUTOMAKI STEAMED FISH CAKE, UPC: 070516670004",
+        "facts": {
+            "Calories": 60,
+            "Protein": 5,
+            "Total Fat": 0,
+            "Total Carbohydrate": 9,
+            "Dietary Fiber": 0,
+            "Sugars": 3,
+            "Calcium": 0,
+            "Iron": 0,
+            "Sodium": 0.72,
+            "Vitamin C": 0,
+            "Saturated Fat": 0,
+            "Trans Fat": 0,
+            "Cholesterol": 0.01
+        }
+    },
+    "🍣": {
+        "name": "Fish, salmon, chinook, raw",
+        "facts": {
+            "Calories": 354,
+            "Protein": 39.46,
+            "Total Fat": 20.65,
+            "Total Carbohydrate": 0,
+            "Dietary Fiber": 0,
+            "Sugars": 0,
+            "Calcium": 0.051000000000000004,
+            "Iron": 0.0005,
+            "Sodium": 0.093,
+            "Vitamin C": 0.0079,
+            "Vitamin A": 0.00269,
+            "Saturated Fat": 6.138,
+            "Cholesterol": 0.099
+        }
+    },
+    "🍱": {
+        "name": "BENTO EXPRESS, FUJI COMBO, CALIFORNIA & SPICY CALIFORNIA ROLLS WITH IMITATION CRAB & SHRIMP NIGIRI, UPC: 670452700416",
+        "facts": {
+            "Calories": 390,
+            "Protein": 10,
+            "Total Fat": 9,
+            "Total Carbohydrate": 64,
+            "Dietary Fiber": 1,
+            "Sugars": 11,
+            "Calcium": 0.06,
+            "Iron": 0.0007199999999999999,
+            "Sodium": 0.64,
+            "Vitamin C": 0.0024,
+            "Saturated Fat": 1,
+            "Trans Fat": 0,
+            "Cholesterol": 0.02
+        }
+    },
+    "🍛": {
+        "name": "S&B, CURRY SAUCE WITH VEGETABLE, UPC: 074880061710",
+        "facts": {
+            "Calories": 181,
+            "Protein": 3,
+            "Total Fat": 6.99,
+            "Total Carbohydrate": 26,
+            "Dietary Fiber": 2.9,
+            "Sugars": 8,
+            "Calcium": 0.04,
+            "Iron": 0.00071,
+            "Sodium": 0.8190000000000001,
+            "Vitamin C": 0,
+            "Saturated Fat": 3.99,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍙": {
+        "name": "Rice, white, medium-grain, enriched, cooked",
+        "facts": {
+            "Calories": 242,
+            "Protein": 4.43,
+            "Total Fat": 0.39,
+            "Total Carbohydrate": 53.18,
+            "Dietary Fiber": 0.6,
+            "Calcium": 0.006,
+            "Iron": 0.00277,
+            "Sodium": 0,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0.106,
+            "Cholesterol": 0
+        }
+    },
+    "🍚": {
+        "name": "Rice, white, medium-grain, enriched, cooked",
+        "facts": {
+            "Calories": 242,
+            "Protein": 4.43,
+            "Total Fat": 0.39,
+            "Total Carbohydrate": 53.18,
+            "Dietary Fiber": 0.6,
+            "Calcium": 0.006,
+            "Iron": 0.00277,
+            "Sodium": 0,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0.106,
+            "Cholesterol": 0
+        }
+    },
+    "🍘": {
+        "name": "Snacks, rice cracker brown rice, plain",
+        "facts": {
+            "Calories": 35,
+            "Protein": 0.74,
+            "Total Fat": 0.25,
+            "Total Carbohydrate": 7.34,
+            "Dietary Fiber": 0.4,
+            "Sugars": 0.08,
+            "Calcium": 0.001,
+            "Iron": 0.00013000000000000002,
+            "Sodium": 0.029,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0.051,
+            "Cholesterol": 0
+        }
+    },
+    "🍢": {
+        "name": "Fast Foods, biscuit, with egg and sausage",
+        "facts": {
+            "Calories": 505,
+            "Protein": 18.03,
+            "Total Fat": 33.65,
+            "Total Carbohydrate": 34.1,
+            "Dietary Fiber": 0.3,
+            "Sugars": 1.54,
+            "Calcium": 0.083,
+            "Iron": 0.0030800000000000003,
+            "Sodium": 1.089,
+            "Vitamin C": 0,
+            "Vitamin A": 0.0007000000000000001,
+            "Saturated Fat": 10.447,
+            "Cholesterol": 0.261
+        }
+    },
+    "🍡": {
+        "name": "GRINASSANCE, ORIGINAL MOCHI, UPC: 030264001406",
+        "facts": {
+            "Calories": 110,
+            "Protein": 2,
+            "Total Fat": 1,
+            "Total Carbohydrate": 24,
+            "Dietary Fiber": 2,
+            "Sugars": 0,
+            "Calcium": 0,
+            "Iron": 0.0007199999999999999,
+            "Sodium": 0,
+            "Vitamin C": 0,
+            "Saturated Fat": 0,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍧": {
+        "name": "Frozen novelties, ice type, italian, restaurant-prepared",
+        "facts": {
+            "Calories": 61,
+            "Protein": 0.03,
+            "Total Fat": 0.02,
+            "Total Carbohydrate": 15.66,
+            "Dietary Fiber": 0,
+            "Calcium": 0.001,
+            "Iron": 0.0001,
+            "Sodium": 0.005,
+            "Vitamin C": 0.0006,
+            "Saturated Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍨": {
+        "name": "Ice creams, vanilla",
+        "facts": {
+            "Calories": 137,
+            "Protein": 2.31,
+            "Total Fat": 7.26,
+            "Total Carbohydrate": 15.58,
+            "Dietary Fiber": 0.5,
+            "Sugars": 14.01,
+            "Calcium": 0.084,
+            "Iron": 0.00006,
+            "Sodium": 0.053,
+            "Vitamin C": 0.0004,
+            "Vitamin A": 0.0007800000000000001,
+            "Saturated Fat": 4.481,
+            "Cholesterol": 0.029
+        }
+    },
+    "🍦": {
+        "name": "Ice creams, vanilla, light",
+        "facts": {
+            "Calories": 137,
+            "Protein": 3.63,
+            "Total Fat": 3.67,
+            "Total Carbohydrate": 22.39,
+            "Dietary Fiber": 0.2,
+            "Sugars": 16.81,
+            "Calcium": 0.122,
+            "Iron": 0.00014000000000000001,
+            "Sodium": 0.056,
+            "Vitamin C": 0.0009000000000000001,
+            "Vitamin A": 0.00097,
+            "Saturated Fat": 2.225,
+            "Cholesterol": 0.021
+        }
+    },
+    "🍰": {
+        "name": "Cake, shortcake, biscuit-type, prepared from recipe",
+        "facts": {
+            "Calories": 98,
+            "Protein": 1.73,
+            "Total Fat": 4.03,
+            "Total Carbohydrate": 13.75,
+            "Calcium": 0.058,
+            "Iron": 0.0007199999999999999,
+            "Sodium": 0.14300000000000002,
+            "Vitamin C": 0.0001,
+            "Vitamin A": 0.00005,
+            "Saturated Fat": 1.069,
+            "Cholesterol": 0.001
+        }
+    },
+    "🎂": {
+        "name": "Cake, chocolate, commercially prepared with chocolate frosting, in-store bakery",
+        "facts": {
+            "Calories": 537,
+            "Protein": 4.8,
+            "Total Fat": 27.67,
+            "Total Carbohydrate": 72.92,
+            "Dietary Fiber": 3,
+            "Sugars": 55.14,
+            "Calcium": 0.041,
+            "Iron": 0.004200000000000001,
+            "Sodium": 0.48,
+            "Vitamin C": 0.0001,
+            "Vitamin A": 0.00001,
+            "Saturated Fat": 8.165,
+            "Trans Fat": 1.819,
+            "Cholesterol": 0.03
+        }
+    },
+    "🍮": {
+        "name": "Desserts, flan, caramel custard, prepared-from-recipe",
+        "facts": {
+            "Calories": 222,
+            "Protein": 6.93,
+            "Total Fat": 6.17,
+            "Total Carbohydrate": 34.85,
+            "Dietary Fiber": 0,
+            "Sugars": 35.42,
+            "Calcium": 0.127,
+            "Iron": 0.00058,
+            "Sodium": 0.081,
+            "Vitamin C": 0,
+            "Vitamin A": 0.0007000000000000001,
+            "Saturated Fat": 2.752,
+            "Cholesterol": 0.138
+        }
+    },
+    "🍬": {
+        "name": "Candies, hard",
+        "facts": {
+            "Calories": 24,
+            "Protein": 0,
+            "Total Fat": 0.01,
+            "Total Carbohydrate": 5.88,
+            "Dietary Fiber": 0,
+            "Sugars": 3.77,
+            "Calcium": 0,
+            "Iron": 0.00002,
+            "Sodium": 0.002,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍭": {
+        "name": "Candies, hard",
+        "facts": {
+            "Calories": 112,
+            "Protein": 0,
+            "Total Fat": 0.06,
+            "Total Carbohydrate": 27.78,
+            "Dietary Fiber": 0,
+            "Sugars": 17.83,
+            "Calcium": 0.001,
+            "Iron": 0.00008999999999999999,
+            "Sodium": 0.011,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍫": {
+        "name": "HERSHEYS MILK CHOC BAR, PREPARED, GTIN: 00034000002405",
+        "facts": {
+            "Calories": 220,
+            "Protein": 3,
+            "Total Carbohydrate": 25,
+            "Sugars": 24,
+            "Calcium": 0.085,
+            "Iron": 0.0015,
+            "Sodium": 0.035,
+            "Vitamin C": 0.001,
+            "Saturated Fat": 8,
+            "Trans Fat": 0,
+            "Cholesterol": 0.01
+        }
+    },
+    "🍿": {
+        "name": "Snacks, popcorn, oil-popped, white popcorn, salt added",
+        "facts": {
+            "Calories": 142,
+            "Protein": 2.55,
+            "Total Fat": 7.97,
+            "Total Carbohydrate": 16.22,
+            "Dietary Fiber": 2.8,
+            "Calcium": 0.003,
+            "Iron": 0.00079,
+            "Sodium": 0.251,
+            "Vitamin C": 0.0001,
+            "Vitamin A": 0,
+            "Saturated Fat": 1.386,
+            "Cholesterol": 0
+        }
+    },
+    "🍩": {
+        "name": "Doughnuts, cake-type, plain, chocolate-coated or frosted",
+        "facts": {
+            "Calories": 194,
+            "Protein": 2.12,
+            "Total Fat": 10.86,
+            "Total Carbohydrate": 22.07,
+            "Dietary Fiber": 0.8,
+            "Sugars": 11.46,
+            "Calcium": 0.01,
+            "Iron": 0.00172,
+            "Sodium": 0.14,
+            "Vitamin C": 0.0006,
+            "Vitamin A": 0.00002,
+            "Saturated Fat": 5.792,
+            "Cholesterol": 0.008
+        }
+    },
+    "🍪": {
+        "name": "Cookies, chocolate chip, commercially prepared, soft-type",
+        "facts": {
+            "Calories": 63,
+            "Protein": 0.52,
+            "Total Fat": 2.81,
+            "Total Carbohydrate": 9.34,
+            "Dietary Fiber": 0.3,
+            "Sugars": 5.27,
+            "Calcium": 0.002,
+            "Iron": 0.00058,
+            "Sodium": 0.039,
+            "Vitamin A": 0,
+            "Saturated Fat": 1.385,
+            "Trans Fat": 0.008
+        }
+    },
+    "🍺": {
+        "name": "Alcoholic beverage, beer, light",
+        "facts": {
+            "Calories": 103,
+            "Protein": 0.85,
+            "Total Fat": 0,
+            "Total Carbohydrate": 5.81,
+            "Dietary Fiber": 0,
+            "Sugars": 0.32,
+            "Calcium": 0.014,
+            "Iron": 0.00011,
+            "Sodium": 0.014,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍻": {
+        "name": "Alcoholic beverage, beer, light",
+        "facts": {
+            "Calories": 103,
+            "Protein": 0.85,
+            "Total Fat": 0,
+            "Total Carbohydrate": 5.81,
+            "Dietary Fiber": 0,
+            "Sugars": 0.32,
+            "Calcium": 0.014,
+            "Iron": 0.00011,
+            "Sodium": 0.014,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍷": {
+        "name": "Alcoholic beverage, wine, table, red",
+        "facts": {
+            "Calories": 125,
+            "Protein": 0.1,
+            "Total Fat": 0,
+            "Total Carbohydrate": 3.84,
+            "Dietary Fiber": 0,
+            "Sugars": 0.91,
+            "Calcium": 0.012,
+            "Iron": 0.00068,
+            "Sodium": 0.006,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍸": {
+        "name": "Alcoholic beverage, distilled, gin, 90 proof",
+        "facts": {
+            "Calories": 110,
+            "Protein": 0,
+            "Total Fat": 0,
+            "Total Carbohydrate": 0,
+            "Dietary Fiber": 0,
+            "Sugars": 0,
+            "Calcium": 0,
+            "Iron": 0,
+            "Sodium": 0.001,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍹": {
+        "name": "Alcoholic beverage, distilled, rum, 80 proof",
+        "facts": {
+            "Calories": 97,
+            "Protein": 0,
+            "Total Fat": 0,
+            "Total Carbohydrate": 0,
+            "Dietary Fiber": 0,
+            "Sugars": 0,
+            "Calcium": 0,
+            "Iron": 0.00005,
+            "Sodium": 0,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍾": {
+        "name": "Alcoholic beverage, wine, dessert, dry",
+        "facts": {
+            "Calories": 157,
+            "Protein": 0.21,
+            "Total Fat": 0,
+            "Total Carbohydrate": 12.02,
+            "Dietary Fiber": 0,
+            "Sugars": 1.12,
+            "Calcium": 0.008,
+            "Iron": 0.00025,
+            "Sodium": 0.009000000000000001,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍶": {
+        "name": "Alcoholic beverage, rice (sake)",
+        "facts": {
+            "Calories": 39,
+            "Protein": 0.15,
+            "Total Fat": 0,
+            "Total Carbohydrate": 1.46,
+            "Dietary Fiber": 0,
+            "Sugars": 0,
+            "Calcium": 0.001,
+            "Iron": 0.00003,
+            "Sodium": 0.001,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Trans Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍵": {
+        "name": "Beverages, tea, green, brewed, regular",
+        "facts": {
+            "Calories": 2,
+            "Protein": 0.54,
+            "Total Fat": 0,
+            "Total Carbohydrate": 0,
+            "Dietary Fiber": 0,
+            "Sugars": 0,
+            "Calcium": 0,
+            "Iron": 0.00005,
+            "Sodium": 0.002,
+            "Vitamin C": 0.0007,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "☕️": {
+        "name": "Beverages, coffee, brewed, breakfast blend",
+        "facts": {
+            "Calories": 5,
+            "Protein": 0.74,
+            "Total Fat": 0,
+            "Total Carbohydrate": 0.57,
+            "Dietary Fiber": 0,
+            "Sugars": 0,
+            "Calcium": 0.005,
+            "Iron": 0.00005,
+            "Sodium": 0.002,
+            "Vitamin C": 0,
+            "Vitamin A": 0,
+            "Saturated Fat": 0,
+            "Cholesterol": 0
+        }
+    },
+    "🍼": {
+        "name": "Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids, without added vitamin A",
+        "facts": {
+            "Calories": 137,
+            "Protein": 9.68,
+            "Total Fat": 4.85,
+            "Total Carbohydrate": 13.45,
+            "Dietary Fiber": 0,
+            "Calcium": 0.35000000000000003,
+            "Iron": 0.00015,
+            "Sodium": 0.145,
+            "Vitamin C": 0.0027,
+            "Vitamin A": 0.00042,
+            "Saturated Fat": 3.018,
+            "Cholesterol": 0.02
+        }
+    }
+}
