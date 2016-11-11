@@ -1,0 +1,15 @@
+{
+  "name": "4_meditator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^1.6.2",
+    "gifencoder": "^1.0.6"
+  }
+}
