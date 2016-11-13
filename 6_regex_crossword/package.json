@@ -1,0 +1,17 @@
+{
+  "name": "6_regex_crossword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^1.6.2",
+    "lodash": "^4.16.6",
+    "seedrandom": "^2.4.2",
+    "twitter": "^1.4.0"
+  }
+}
