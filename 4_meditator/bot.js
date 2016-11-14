@@ -19,7 +19,7 @@ let ctx = canvas.getContext('2d');
 let GIFEncoder = require('gifencoder');
 let encoder = new GIFEncoder(width, height);
 
-encoder.createReadStream().pipe(fs.createWriteStream('out.gif'));
+//encoder.createReadStream().pipe(fs.createWriteStream('out.gif'));
 
 encoder.start();
 encoder.setRepeat(0);
@@ -28,15 +28,16 @@ encoder.setQuality(10);
 
 let types = [
     'circle',
-    'expand',
-    'shape'
+    'circles',
+    'rotatysquare',
+    'fancysquares'
 ];
 
 let fgColors = [
-    'rgb(0, 66, 200)'
+    '#34529D'
 ];
 let bgColors = [
-    'rgb(0,0,0)'
+    '#24266B'
 ];
 
 let pickRandom = (arr) => {
@@ -47,6 +48,11 @@ let easeInOutSine = (t, low, high, time) => {
 	return -high/2 * (Math.cos(Math.PI*t/time) - 1) + low;
 }
 
+
+let fg = `hsl(${Math.random()*360}, 50%, 55%)`;
+let bg = `hsl(${Math.random()*360}, 50%, 33%)`;
+let type = pickRandom(types);
+/*
 let generateShape = () => {
     let shapes = [];
     for(let i=0; i<16; i++) {
@@ -61,31 +67,9 @@ let scale = (x, y, t) => {
     return [(x-width/2)*(t-d)+width/2, (y-height/2)*(t-d)+height/2];
 }
 
-let fg = pickRandom(fgColors);
-let bg = pickRandom(bgColors);
-let type = 'circle';//pickRandom(types);
 let shape = generateShape();
 
-for(let i=0; i<frameCount; i++) {
-    let curve = 
-        easeInOutSine(Math.min(i, 2*frameCount/5), 0, 1.0, 2*frameCount/5)
-        - easeInOutSine(Math.max(0, i-2*frameCount/5), 0, 1.0, 3*frameCount/5);
-    
-    ctx.save();
-    ctx.setTransform(1, 0, 0, 1, 0, 0);
-    ctx.fillStyle = bg;
-    ctx.fillRect(0, 0, width, height);
-    ctx.restore();
-    
-    ctx.fillStyle = fg;
-    
-    ctx.beginPath();
-    
-    if(type === 'circle') {
-        ctx.arc(width/2, height/2, curve*height/2, 0, 360);
-    } else if(type === 'expand') {
-        
-    } else if(type === 'shape') {
+} else if(type === 'shape') {
         ctx.moveTo(...scale(shape[0][0], shape[0][1], curve));
         
         for(let j=1; j<shape.length; j++) {
@@ -99,6 +83,53 @@ for(let i=0; i<frameCount; i++) {
         }
         
         ctx.closePath();
+    }*/
+
+for(let i=0; i<frameCount; i++) {
+    let curve = 
+        easeInOutSine(Math.min(i, 2*frameCount/5), 0, 1.0, 2*frameCount/5)
+        - easeInOutSine(Math.max(0, i-2*frameCount/5), 0, 1.0, 3*frameCount/5);
+    let contcurve = 
+        easeInOutSine(Math.min(i, 2*frameCount/5), 0, 1.0, 2*frameCount/5)
+        + easeInOutSine(Math.max(0, i-2*frameCount/5), 0, 1.0, 3*frameCount/5);
+    
+    
+    ctx.save();
+    ctx.setTransform(1, 0, 0, 1, 0, 0);
+    ctx.fillStyle = bg;
+    ctx.fillRect(0, 0, width, height);
+    ctx.restore();
+    
+    ctx.fillStyle = fg;
+    
+    ctx.beginPath();
+    
+    if(type === 'circle') {
+        ctx.arc(width/2, height/2, curve*height/2, 0, 360);
+    } else if(type === 'circles') {
+        ctx.arc(width/2, height/2, curve*height/4, 0, 360);
+        ctx.moveTo(width/4, height/4);
+        ctx.arc(width/4, height/4, curve*height/4, 0, 360);
+        ctx.moveTo(width*3/4, height/4);
+        ctx.arc(width*3/4, height/4, curve*height/4, 0, 360);
+        ctx.moveTo(width/4, height*3/4);
+        ctx.arc(width/4, height*3/4, curve*height/4, 0, 360);
+        ctx.moveTo(width*3/4, height*3/4);
+        ctx.arc(width*3/4, height*3/4, curve*height/4, 0, 360);
+    } else if(type === 'rotatysquare') {
+        ctx.save();
+        ctx.translate(width/2, height/2);
+        ctx.rotate(contcurve * Math.PI/2);
+        ctx.fillRect(-width/2*curve, -height/2*curve, width*curve, height*curve);
+        ctx.restore();
+    } else if(type === 'fancysquares') {
+        for(let i=0; i<16; i++) {
+            ctx.save();
+            ctx.translate(width/2+Math.cos((i+contcurve*16)*Math.PI/8)*width/4, height/2+Math.sin((i+contcurve*16)*Math.PI/8)*height/4);
+            ctx.rotate(contcurve * Math.PI);
+            ctx.fillRect(-(width/2*curve)*0.25, -(height/2*curve)*0.25, 0.25*width*curve, 0.25*height*curve);
+            ctx.restore();
+        }
     }
     
     ctx.fill();
@@ -109,14 +140,23 @@ encoder.finish();
 
 let texts = [
     'breathe',
+    'breathe',
+    'breathe',
+    'take a breath',
     'take a breath',
     'breathe deeply',
-    'sync your breathing with everyone else here in this moment'
+    'breathe deeply',
+    'sync your breathing with everyone else here in this moment',
+    'take a moment to reflect',
+    'allow yourself to become calm',
+    'become aware of your surroundings',
+    'take a moment to think of just flexibility, love, and trust',
+    'take a moment to find yourself',
+    'its okay',
+    `i'm here`
 ];
 
 let statusText = pickRandom(texts);
-
-
 
 let Twitter = require('twitter');
 let client = new Twitter(JSON.parse(fs.readFileSync('./creds.json')));
