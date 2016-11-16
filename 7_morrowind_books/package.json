@@ -1,0 +1,22 @@
+{
+  "name": "7_morrowind_books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "node-fetch": "^1.6.3",
+    "noodlejs": "^0.3.2",
+    "request": "^2.78.0",
+    "twitter": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
