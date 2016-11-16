@@ -18,6 +18,11 @@ let snippet = bookContent.slice(chars, chars+140);
 let sentenceEnd = snippet.lastIndexOf('.');
 if(sentenceEnd > 100) {
     snippet = snippet.slice(0, sentenceEnd+1);
+} else {
+    sentenceEnd = snippet.lastIndexOf(' ');
+    if(sentenceEnd > 100) {
+        snippet = snippet.slice(0, sentenceEnd+1);
+    }
 }
 let increment = snippet.length;
 
@@ -33,6 +38,7 @@ fs.writeFileSync('./progress.json', JSON.stringify(outProgress));
 client.post('statuses/update', {
     status: snippet
 }, (err, tweet) => {
+    console.log(err);
     if(err) throw err;
     console.log(snippet);
 });
