@@ -134,8 +134,8 @@ let dataToWeakness = {
     4: 'Dragon',
     5: 'Ice',
     6: 'Poison',
-    7: 'Paralyze',
-    8: 'Sleep',
+    //7: 'Paralyze',
+    //8: 'Sleep',
     9: 'Blast'
 }
 
